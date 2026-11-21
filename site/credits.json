@@ -97,6 +97,13 @@
   "publication": "Amazon Web Services",
   "date": "2025-05-16"
  },
+ "effective-context-engineering-for-ai-agents": {
+  "title": "Effective context engineering for AI agents",
+  "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2025-09-29"
+ },
  "harness-engineering-for-self-improvement": {
   "title": "Harness Engineering for Self-Improvement",
   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
