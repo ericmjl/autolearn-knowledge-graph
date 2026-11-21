@@ -7,6 +7,7 @@
 - [[notes-on-how-to-use-decision-models-for-evals-hamel-s-blog|How To Use Decision Models for Evals – Hamel’s Blog]]
 - [[notes-on-demystifying-evals-for-ai-agents|Demystifying evals for AI agents]]
 - [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
+- [[notes-on-your-eval-suite-has-a-variance-problem-before-it-has-a-score-problem|Your eval suite has a variance problem before it has a score problem]]
 
 ## Notes
 
@@ -23,6 +24,7 @@
 - [[capability-evals-climb-regression-suites-hold-the-line|Capability evals climb; regression suites hold the line]]
 - [[sentence-level-judgments-detect-when-grounded-agents-misread-context|Sentence-level judgments detect when grounded agents misread context]]
 - [[token-level-reference-deltas-localize-misreads-sentence-level-judges-only-flag|Token-level reference deltas localize misreads sentence-level judges only flag]]
+- [[graduate-saturated-capability-tasks-on-discrimination-not-mean-pass-rate|Graduate saturated capability tasks on discrimination, not mean pass rate]]
 
 ## Open questions
 

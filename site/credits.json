@@ -292,5 +292,12 @@
   "authors": "Hamel Husain",
   "publication": "Hamel’s Blog",
   "date": "2024-03-29"
+ },
+ "your-eval-suite-has-a-variance-problem-before-it-has-a-score-problem": {
+  "title": "Your eval suite has a variance problem before it has a score problem",
+  "url": "https://vectoryai.com/blog/eval-variance-pass-at-k-and-suite-saturation/",
+  "authors": "",
+  "publication": "Vectory",
+  "date": "2026-09-07"
  }
 }
