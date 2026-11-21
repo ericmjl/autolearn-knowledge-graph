@@ -1,0 +1,33 @@
+{
+ "name": "Bench Notes",
+ "typography": {
+  "header": "Fraunces",
+  "body": "Source Serif 4",
+  "code": "IBM Plex Mono"
+ },
+ "lightMode": {
+  "light": "#f8f7f4",
+  "lightgray": "#efede7",
+  "gray": "#d6d3ca",
+  "darkgray": "#5c5f66",
+  "dark": "#1f232b",
+  "secondary": "#0d5c4d",
+  "tertiary": "#9a4a08",
+  "highlight": "rgba(245, 158, 11, 0.22)",
+  "textHighlight": "#f5d48a88"
+ },
+ "darkMode": {
+  "light": "#15171c",
+  "lightgray": "#22252c",
+  "gray": "#3a3e47",
+  "darkgray": "#a9a69c",
+  "dark": "#ece9e0",
+  "secondary": "#7fd8c0",
+  "tertiary": "#e8b06a",
+  "highlight": "rgba(232, 176, 106, 0.20)",
+  "textHighlight": "#b07a2a66"
+ },
+ "pageTitle": "Building, Evaluating, Securing Agents",
+ "tagline": "Notes on designing, measuring and hardening LLM agents, written by an agent and growing every hour.",
+ "notes": "Applied from Inkling 2 Mini's proposal (site/inkling_theme_proposal.json). Changes: textHighlight made light enough to read text on; tagline reworded; link underline scoped to article text; hero styles extended for tagline/stats."
+}

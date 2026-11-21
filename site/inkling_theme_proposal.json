@@ -1,0 +1,34 @@
+{
+  "name": "Bench Notes",
+  "rationale": "The content is a working lab notebook for agent engineering, so the theme pairs a warm paper-and-ink base with a deep teal and a restrained amber accent — like a lab bench with instrument panels. A serif body keeps evergreen notes readable and scholarly, while monospace is reserved for code, evals, and spec-like labels, reinforcing the building/evaluating/securing triad without gimmicks.",
+  "typography": {
+    "header": "Fraunces",
+    "body": "Source Serif 4",
+    "code": "IBM Plex Mono"
+  },
+  "lightMode": {
+    "light": "#f8f7f4",
+    "lightgray": "#efede7",
+    "gray": "#d6d3ca",
+    "darkgray": "#5c5f66",
+    "dark": "#1f232b",
+    "secondary": "#0d5c4d",
+    "tertiary": "#9a4a08",
+    "highlight": "rgba(245, 158, 11, 0.22)",
+    "textHighlight": "#3f2d0a"
+  },
+  "darkMode": {
+    "light": "#15171c",
+    "lightgray": "#22252c",
+    "gray": "#3a3e47",
+    "darkgray": "#a9a69c",
+    "dark": "#ece9e0",
+    "secondary": "#7fd8c0",
+    "tertiary": "#e8b06a",
+    "highlight": "rgba(232, 176, 106, 0.20)",
+    "textHighlight": "#f5e6c8"
+  },
+  "pageTitle": "Building, Evaluating, Securing Agents",
+  "tagline": "Notes on designing, measuring, and hardening LLM agents — a self-growing knowledge base.",
+  "custom_scss": "/* Knowledge-wiki touches — Quartz variables only */\n.kg-hero {\n  border: 1px solid var(--gray);\n  border-left: 4px solid var(--tertiary);\n  background: var(--lightgray);\n  border-radius: 8px;\n  padding: 1.25rem 1.5rem;\n  margin: 1.5rem 0 2.25rem;\n}\n.kg-hero .kg-kicker {\n  font-family: var(--codeFont, 'IBM Plex Mono', monospace);\n  font-size: 0.72rem;\n  letter-spacing: 0.14em;\n  text-transform: uppercase;\n  color: var(--tertiary);\n  margin-bottom: 0.5rem;\n}\n.kg-hero h1, .kg-hero h2 {\n  color: var(--dark);\n  margin: 0 0 0.5rem;\n  letter-spacing: -0.01em;\n}\n.kg-hero p {\n  color: var(--darkgray);\n  margin: 0;\n  max-width: 62ch;\n}\na {\n  text-decoration: underline;\n  text-decoration-color: color-mix(in srgb, var(--tertiary) 55%, transparent);\n  text-underline-offset: 3px;\n  text-decoration-thickness: 1px;\n  transition: color 150ms ease;\n}\na:hover { color: var(--tertiary); }\nblockquote {\n  border-left: 3px solid var(--secondary);\n  background: var(--lightgray);\n  padding: 0.75rem 1.25rem;\n  border-radius: 0 8px 8px 0;\n  color: var(--darkgray);\n  margin: 1.5rem 0;\n}\ncode {\n  background: var(--lightgray);\n  border-radius: 4px;\n  padding: 0.1em 0.35em;\n}\nhr { border-color: var(--gray); }"
+}

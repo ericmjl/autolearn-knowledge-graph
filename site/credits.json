@@ -1,0 +1,226 @@
+{
+ "a-survey-on-large-language-model-based-autonomous-agents-wang-et-al-2023": {
+  "title": "A Survey on Large Language Model based Autonomous Agents (Wang et al., 2023)",
+  "url": "https://arxiv.org/abs/2308.11432",
+  "authors": "Lei Wang, Chen Ma, Xueyang Feng, et al.",
+  "publication": "arXiv",
+  "date": "2023-08-22"
+ },
+ "agentic-coding-is-a-trap-lars-faye": {
+  "title": "Agentic Coding is a Trap (Lars Faye)",
+  "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+  "authors": "Lars Faye",
+  "publication": "larsfaye.com",
+  "date": "2026-04-26"
+ },
+ "agentic-verification": {
+  "title": "Agentic Verification",
+  "url": "https://addyo.substack.com/p/agentic-verification",
+  "authors": "Addy Osmani",
+  "publication": "Elevate",
+  "date": "2026-10-14"
+ },
+ "ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan": {
+  "title": "AI Agents That Matter (Kapoor, Stroebl, Siegel, Nadgir, Narayanan)",
+  "url": "https://arxiv.org/abs/2407.01502",
+  "authors": "Sayash Kapoor, Benedikt Stroebl, Zachary S. Siegel, Nitya Nadgir, Arvind Narayanan",
+  "publication": "arXiv",
+  "date": "2024-07-01"
+ },
+ "benchmarking-llms-and-llm-based-agents-in-practical-vulnerability-detection-for-code": {
+  "title": "Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories",
+  "url": "https://arxiv.org/html/2503.03586",
+  "authors": "Alperen Yildiz et al.",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
+ "breaking-claude-code-opus-5-auto-mode": {
+  "title": "Breaking Claude Code Opus 5 Auto Mode",
+  "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+  "authors": "Simon Willison",
+  "publication": "Simon Willison’s Weblog",
+  "date": "2026-08-27"
+ },
+ "brownfield-agentic-engineering": {
+  "title": "Brownfield Agentic Engineering",
+  "url": "https://addyo.substack.com/p/brownfield-agentic-engineering",
+  "authors": "Addy Osmani",
+  "publication": "Elevate",
+  "date": "2026-09-14"
+ },
+ "building-effective-agents-anthropic": {
+  "title": "Building effective agents (Anthropic)",
+  "url": "https://blog.anthropic.com/building-effective-agents",
+  "authors": "Erik Schluntz, Barry Zhang (Anthropic)",
+  "publication": "Anthropic",
+  "date": "2024-12-19"
+ },
+ "chain-of-thought-prompting-elicits-reasoning-in-large-language-models-wei-et-al": {
+  "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (Wei et al., Google, 2022)",
+  "url": "https://arxiv.org/abs/2201.11903",
+  "authors": "Jason Wei et al.",
+  "publication": "arXiv",
+  "date": "2022-01-28"
+ },
+ "codeagent-enhancing-code-generation-with-tool-integrated-agent-systems-for-real": {
+  "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+  "url": "https://arxiv.org/abs/2401.07339",
+  "authors": "Kechi Zhang et al.",
+  "publication": "arXiv",
+  "date": "2024-01-14"
+ },
+ "demystifying-evals-for-ai-agents": {
+  "title": "Demystifying evals for AI agents",
+  "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+  "authors": "Anthropic",
+  "publication": "Anthropic",
+  "date": "2026-01-09"
+ },
+ "harness-engineering-for-self-improvement": {
+  "title": "Harness Engineering for Self-Improvement",
+  "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+  "authors": "Lilian Weng",
+  "publication": "Lil'Log",
+  "date": "2026-07-04"
+ },
+ "how-public-evals-work-and-fail-and-what-should-change": {
+  "title": "How Public Evals Work and Fail, and What Should Change",
+  "url": "https://eugeneyan.com/writing/public-evals",
+  "authors": "Eugene Yan",
+  "publication": "eugeneyan.com",
+  "date": "2026-11-19"
+ },
+ "how-to-use-decision-models-for-evals-hamel-s-blog": {
+  "title": "How To Use Decision Models for Evals – Hamel’s Blog",
+  "url": "https://hamel.dev/blog/posts/decision-model-evals/",
+  "authors": "Hamel Husain, Antaripa Saha",
+  "publication": "Hamel’s Blog",
+  "date": "2026-10-20"
+ },
+ "incident-report-unsanctioned-agent-behaviour-during-cyber-testing": {
+  "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+  "url": "https://simonwillison.net/2026/Aug/5/incident-report/",
+  "authors": "Simon Willison",
+  "publication": "Simon Willison’s Weblog",
+  "date": "2026-08-05"
+ },
+ "karpathy-on-coding-with-claude-and-leverage-x-post": {
+  "title": "Karpathy on coding with Claude and leverage (X post)",
+  "url": "https://x.com/karpathy/status/2015883857489522876",
+  "authors": "Andrej Karpathy",
+  "publication": "X (formerly Twitter)",
+  "date": "2026-01-26"
+ },
+ "langgraph-multi-agent-workflows-langchain": {
+  "title": "LangGraph: Multi-Agent Workflows (LangChain)",
+  "url": "https://blog.langchain.dev/langgraph-multi-agent-workflows/",
+  "authors": "LangChain",
+  "publication": "LangChain Blog",
+  "date": "2024-01-23"
+ },
+ "large-language-model-wikipedia": {
+  "title": "Large language model (Wikipedia)",
+  "url": "https://en.wikipedia.org/wiki/Large_language_model",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2023-03-09"
+ },
+ "llm-wiki-pattern-andrej-karpathy": {
+  "title": "LLM Wiki pattern (Andrej Karpathy)",
+  "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+  "authors": "Andrej Karpathy",
+  "publication": "Gist",
+  "date": "2026-10-05"
+ },
+ "multi-agent-system-wikipedia": {
+  "title": "Multi-agent system (Wikipedia)",
+  "url": "https://en.wikipedia.org/wiki/Multi-agent_system",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2004-08-29"
+ },
+ "my-llm-coding-workflow-going-into-2026-addy-osmani": {
+  "title": "My LLM coding workflow going into 2026 (Addy Osmani)",
+  "url": "https://addyosmani.com/blog/ai-coding-workflow/",
+  "authors": "Addy Osmani",
+  "publication": "AddyOsmani.com",
+  "date": "2026-01-04"
+ },
+ "patterns-for-building-cybersecurity-evals": {
+  "title": "Patterns for Building Cybersecurity Evals",
+  "url": "https://eugeneyan.com/writing/cybersecurity-evals",
+  "authors": "Eugene Yan",
+  "publication": "eugeneyan.com",
+  "date": "2026-06-21"
+ },
+ "react-synergizing-reasoning-and-acting-in-language-models-yao-et-al-iclr-2023": {
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., ICLR 2023)",
+  "url": "https://arxiv.org/abs/2210.03629",
+  "authors": "Shunyu Yao et al.",
+  "publication": "arXiv",
+  "date": "2022-10-06"
+ },
+ "retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks": {
+  "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "url": "https://arxiv.org/abs/2005.11401",
+  "authors": "Patrick Lewis et al.",
+  "publication": "arXiv",
+  "date": "2020-05-22"
+ },
+ "retrieval-augmented-generation-wikipedia": {
+  "title": "Retrieval-augmented generation (Wikipedia)",
+  "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2023-11-05"
+ },
+ "reward-hacking-in-reinforcement-learning": {
+  "title": "Reward Hacking in Reinforcement Learning",
+  "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+  "authors": "Lilian Weng",
+  "publication": "Lil'Log",
+  "date": "2024-11-28"
+ },
+ "self-generated-prompt-injections-in-compaction-summaries": {
+  "title": "Self-generated prompt injections in compaction summaries",
+  "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+  "authors": "Simon Willison",
+  "publication": "Simon Willison’s Weblog",
+  "date": "2026-09-17"
+ },
+ "software-agent-wikipedia": {
+  "title": "Software agent (Wikipedia)",
+  "url": "https://en.wikipedia.org/wiki/Software_agent",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2004-01-14"
+ },
+ "stealing-reasoning-traces-from-proprietary-llm-apis": {
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+  "authors": "Simon Willison",
+  "publication": "Simon Willison’s Weblog",
+  "date": "2026-08-11"
+ },
+ "the-lethal-trifecta-for-ai-agents-simon-willison": {
+  "title": "The lethal trifecta for AI agents (Simon Willison)",
+  "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+  "authors": "Simon Willison",
+  "publication": "Simon Willison’s Weblog",
+  "date": "2025-06-16"
+ },
+ "tree-of-thoughts-deliberate-problem-solving-with-large-language-models": {
+  "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+  "url": "https://arxiv.org/abs/2305.10601",
+  "authors": "Shunyu Yao et al.",
+  "publication": "arXiv",
+  "date": "2023-05-17"
+ },
+ "your-ai-product-needs-evals-hamel-husain": {
+  "title": "Your AI Product Needs Evals (Hamel Husain)",
+  "url": "https://hamel.dev/blog/posts/evals/",
+  "authors": "Hamel Husain",
+  "publication": "Hamel’s Blog",
+  "date": "2024-03-29"
+ }
+}
