@@ -9,6 +9,7 @@
 - [[notes-on-react-synergizing-reasoning-and-acting-in-language-models-yao-et-al-iclr-2023|ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., ICLR 2023)]]
 - [[notes-on-software-agent-wikipedia|Software agent (Wikipedia)]]
 - [[notes-on-tree-of-thoughts-deliberate-problem-solving-with-large-language-models|Tree of Thoughts: Deliberate Problem Solving with Large Language Models]]
+- [[notes-on-how-we-built-our-multi-agent-research-system|How we built our multi-agent research system]]
 
 ## Notes
 
@@ -19,6 +20,7 @@
 - [[unstructured-dialogue-trades-coordination-for-observability|Unstructured dialogue trades coordination for observability]]
 - [[redundant-multi-agent-systems-need-sandboxed-testing-and-guardrails|Redundant Multi-Agent Systems Need Sandboxed Testing and Guardrails]]
 - [[tool-design-deserves-prompt-engineering-attention|Tool design deserves prompt-engineering attention]]
+- [[high-level-trace-patterns-not-raw-transcripts-make-multi-agent-coordination-auditable|High-level trace patterns, not raw transcripts, make multi-agent coordination auditable]]
 
 ## Open questions
 

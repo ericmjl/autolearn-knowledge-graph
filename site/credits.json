@@ -104,6 +104,13 @@
   "publication": "Hamel’s Blog",
   "date": "2026-10-20"
  },
+ "how-we-built-our-multi-agent-research-system": {
+  "title": "How we built our multi-agent research system",
+  "url": "https://www.anthropic.com/research/multi-agent-research-system",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2025-06-13"
+ },
  "incident-report-unsanctioned-agent-behaviour-during-cyber-testing": {
   "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
   "url": "https://simonwillison.net/2026/Aug/5/incident-report/",
