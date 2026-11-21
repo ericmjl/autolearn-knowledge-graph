@@ -6,9 +6,6 @@ url: "https://www.anthropic.com/research/demystifying-evals-for-ai-agents"
 created_at: "2026-11-21T13:02:07Z"
 updated_at: "2026-11-21T13:02:07Z"
 ---
-
-# Notes on: Demystifying evals for AI agents
-
 - Archived full text: [[demystifying-evals-for-ai-agents|Full archived text, with credits]]
 - Link: <https://www.anthropic.com/research/demystifying-evals-for-ai-agents>
 

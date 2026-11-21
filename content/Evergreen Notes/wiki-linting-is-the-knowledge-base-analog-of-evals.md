@@ -7,9 +7,6 @@ inputs: ["notes-on-llm-wiki-pattern-andrej-karpathy", "notes-on-your-ai-product-
 provenance_urls: ["https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f", "https://hamel.dev/blog/posts/evals/"]
 refutation_status: "untested"
 ---
-
-# Wiki linting is the knowledge-base analog of evals
-
 Agent synthesis
 
 Periodic wiki linting plays for a knowledge base the same role that evals play for a product: a recurring, systematic check that keeps the artifact healthy rather than trusting it to stay correct by default. In the LLM Wiki pattern, lint is a defined workflow that looks for contradictions, stale claims, orphan pages, missing concept pages, missing cross-references, and data gaps, and can suggest new questions and sources. In the AI product case, robust evaluation systems are the root cause of successful products, and weak evals are the root cause of unsuccessful ones.

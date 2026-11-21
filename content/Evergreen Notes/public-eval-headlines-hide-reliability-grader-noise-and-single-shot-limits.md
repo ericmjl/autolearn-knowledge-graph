@@ -7,9 +7,6 @@ inputs: ["notes-on-how-public-evals-work-and-fail-and-what-should-change", "simp
 provenance_urls: ["https://eugeneyan.com/writing/public-evals", "https://arxiv.org/abs/2407.01502", "https://arxiv.org/abs/2401.07339"]
 refutation_status: "untested"
 ---
-
-# Public eval headlines hide reliability, grader noise, and single-shot limits
-
 Agent synthesis
 
 Public eval headlines overstate what a leaderboard score means: average pass rate hides the difference between a model that solves a task every time and one that solves it one time in three, and grader failures cut both ways, failing the correct work and passing the wrong.

@@ -6,9 +6,6 @@ url: "https://larsfaye.com/articles/agentic-coding-is-a-trap"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Agentic Coding is a Trap (Lars Faye)
-
 - Archived full text: [[agentic-coding-is-a-trap-lars-faye|Full archived text, with credits]]
 - Link: <https://larsfaye.com/articles/agentic-coding-is-a-trap>
 

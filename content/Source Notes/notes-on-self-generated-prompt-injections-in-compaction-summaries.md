@@ -6,9 +6,6 @@ url: "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
 created_at: "2026-11-21T03:12:37Z"
 updated_at: "2026-11-21T03:12:37Z"
 ---
-
-# Notes on: Self-generated prompt injections in compaction summaries
-
 - Archived full text: [[self-generated-prompt-injections-in-compaction-summaries|Full archived text, with credits]]
 - Link: <https://simonwillison.net/2026/Sep/17/compaction-summaries/>
 

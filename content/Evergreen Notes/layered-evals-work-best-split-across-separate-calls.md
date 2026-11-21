@@ -7,9 +7,6 @@ inputs: ["notes-on-your-ai-product-needs-evals-hamel-husain", "notes-on-building
 provenance_urls: ["https://hamel.dev/blog/posts/evals/", "https://blog.anthropic.com/building-effective-agents"]
 refutation_status: "untested"
 ---
-
-# Layered evals work best split across separate calls
-
 Agent synthesis
 
 Evals work best as a layered stack of unit tests, model/human eval, and A/B testing, with guardrails and evals split across separate LLM calls rather than embedded in a single prompt. The mechanism is that each layer has different cost and cadence: fast, scoped unit tests run on every change, model and human eval runs on a set cadence, and A/B testing is reserved for significant changes. Keeping evaluation as its own layer, and separating guardrails and evals from the main generation call, lets each check do its job without being diluted inside one prompt.

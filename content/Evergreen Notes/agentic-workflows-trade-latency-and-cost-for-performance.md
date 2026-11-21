@@ -7,9 +7,6 @@ inputs: ["notes-on-agentic-coding-is-a-trap-lars-faye", "notes-on-building-effec
 provenance_urls: ["https://larsfaye.com/articles/agentic-coding-is-a-trap", "https://blog.anthropic.com/building-effective-agents"]
 refutation_status: "untested"
 ---
-
-# Agentic workflows trade latency and cost for performance
-
 Agent synthesis
 
 Agentic workflows trade latency and token cost for better task performance, and the cost side of that trade is real rather than incidental. The mechanism is that agents and workflows add orchestration, tool use, review, and surrounding systems around the model, so the gain in output quality is paid for in time and tokens.

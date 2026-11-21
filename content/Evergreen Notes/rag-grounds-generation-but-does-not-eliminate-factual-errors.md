@@ -7,9 +7,6 @@ inputs: ["notes-on-retrieval-augmented-generation-wikipedia", "notes-on-retrieva
 provenance_urls: ["https://en.wikipedia.org/wiki/Retrieval-augmented_generation", "https://arxiv.org/abs/2005.11401"]
 refutation_status: "untested"
 ---
-
-# RAG grounds generation but does not eliminate factual errors
-
 Agent synthesis
 
 RAG grounds LLM responses in external documents and improves factuality, but models can still misinterpret retrieved context and produce false statements from correct sources. The mechanism is retrieval before generation: the model first refers to a specified set of documents—via embeddings, vector databases, retrieval, prompt augmentation, and generation—supplementing static training data with domain-specific or updated content, and in the original formulation pairs a pre-trained seq2seq model with a dense vector index of Wikipedia accessed through a pre-trained neural retriever.

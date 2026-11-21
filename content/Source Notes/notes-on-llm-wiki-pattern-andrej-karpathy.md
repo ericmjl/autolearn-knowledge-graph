@@ -6,9 +6,6 @@ url: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: LLM Wiki pattern (Andrej Karpathy)
-
 - Archived full text: [[llm-wiki-pattern-andrej-karpathy|Full archived text, with credits]]
 - Link: <https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f>
 

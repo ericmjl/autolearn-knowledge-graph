@@ -198,6 +198,13 @@ def credit_for(stem: str, fm: str, body: str, cache: dict, use_llm: bool) -> dic
     return credit
 
 
+def drop_leading_h1(text: str) -> str:
+    """Quartz already shows the page title, so drop a duplicate leading ``# Title``."""
+    fm, body = split_frontmatter(text)
+    new_body = re.sub(r"\A\s*# [^\n]*\n+", "", body, count=1)
+    return (f"---\n{fm}\n---\n" if fm else "") + new_body
+
+
 def render_raw(stem: str, text: str, published: set[str], cache: dict, use_llm: bool) -> str:
     fm, body = split_frontmatter(text)
     c = credit_for(stem, fm, body, cache, use_llm)
@@ -313,6 +320,8 @@ def main() -> int:
                 text = render_source_note(text, published)
             else:
                 text = fix_links(text, published)
+            if src != "raw":
+                text = drop_leading_h1(text)
             (out / p.name).write_text(text, encoding="utf-8")
 
     hits = scan_secrets(stage)

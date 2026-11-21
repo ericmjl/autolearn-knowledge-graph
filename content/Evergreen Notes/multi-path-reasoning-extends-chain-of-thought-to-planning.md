@@ -7,9 +7,6 @@ inputs: ["notes-on-chain-of-thought-prompting-elicits-reasoning-in-large-languag
 provenance_urls: ["https://arxiv.org/abs/2201.11903", "https://arxiv.org/abs/2305.10601"]
 refutation_status: "untested"
 ---
-
-# Multi-path reasoning extends chain-of-thought to planning
-
 Agent synthesis
 
 Chain-of-thought reasoning improves complex tasks, but deliberate multi-path exploration with lookahead and backtracking extends it to planning problems. Chain-of-thought prompting elicits intermediate reasoning steps that help large models on complex reasoning, while Tree of Thoughts generalizes that approach by treating coherent units of text as intermediate problem-solving steps and exploring multiple reasoning paths.

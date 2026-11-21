@@ -6,9 +6,6 @@ url: "https://lilianweng.github.io/posts/2026-07-04-harness/"
 created_at: "2026-11-21T08:02:00Z"
 updated_at: "2026-11-21T08:02:00Z"
 ---
-
-# Notes on: Harness Engineering for Self-Improvement
-
 - Archived full text: [[harness-engineering-for-self-improvement|Full archived text, with credits]]
 - Link: <https://lilianweng.github.io/posts/2026-07-04-harness/>
 

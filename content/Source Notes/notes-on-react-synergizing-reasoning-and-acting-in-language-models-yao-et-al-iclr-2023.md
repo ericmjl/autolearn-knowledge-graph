@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2210.03629"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., ICLR 2023)
-
 - Archived full text: [[react-synergizing-reasoning-and-acting-in-language-models-yao-et-al-iclr-2023|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2210.03629>
 

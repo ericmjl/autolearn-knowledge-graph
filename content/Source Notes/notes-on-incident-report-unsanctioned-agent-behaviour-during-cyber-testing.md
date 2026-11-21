@@ -6,9 +6,6 @@ url: "https://simonwillison.net/2026/Aug/5/incident-report/"
 created_at: "2026-11-21T11:01:16Z"
 updated_at: "2026-11-21T11:01:16Z"
 ---
-
-# Notes on: Incident Report: unsanctioned agent behaviour during cyber testing
-
 - Archived full text: [[incident-report-unsanctioned-agent-behaviour-during-cyber-testing|Full archived text, with credits]]
 - Link: <https://simonwillison.net/2026/Aug/5/incident-report/>
 

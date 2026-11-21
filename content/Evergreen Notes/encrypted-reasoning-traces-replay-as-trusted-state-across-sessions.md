@@ -7,9 +7,6 @@ inputs: ["notes-on-stealing-reasoning-traces-from-proprietary-llm-apis", "compac
 provenance_urls: ["https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/", "https://simonwillison.net/2026/Sep/17/compaction-summaries/", "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/", "https://en.wikipedia.org/wiki/Software_agent"]
 refutation_status: "untested"
 ---
-
-# Encrypted reasoning traces replay as trusted state across sessions
-
 Agent synthesis
 
 Encrypted reasoning traces replay as trusted state across sessions and models: a frontier model's hidden chain-of-thought can be fed into a weaker sibling, jailbroken, and replayed into other models as an authoritative record. Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models, and every model in a family shares the same encryption key. That lets an attacker take a trace from the strong model, replay it into its weakest sibling, and jailbreak it into outputting the stronger model's reasoning in plaintext.

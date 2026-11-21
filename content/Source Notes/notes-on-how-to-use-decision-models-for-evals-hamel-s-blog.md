@@ -6,9 +6,6 @@ url: "https://hamel.dev/blog/posts/decision-model-evals/"
 created_at: "2026-11-21T07:01:28Z"
 updated_at: "2026-11-21T07:01:28Z"
 ---
-
-# Notes on: How To Use Decision Models for Evals – Hamel’s Blog
-
 - Archived full text: [[how-to-use-decision-models-for-evals-hamel-s-blog|Full archived text, with credits]]
 - Link: <https://hamel.dev/blog/posts/decision-model-evals/>
 

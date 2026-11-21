@@ -7,9 +7,6 @@ inputs: ["notes-on-harness-engineering-for-self-improvement", "self-verifying-ag
 provenance_urls: ["https://lilianweng.github.io/posts/2026-07-04-harness/", "https://addyo.substack.com/p/agentic-verification", "https://hamel.dev/blog/posts/evals/", "https://eugeneyan.com/writing/cybersecurity-evals", "https://eugeneyan.com/writing/public-evals", "https://arxiv.org/abs/2407.01502", "https://arxiv.org/abs/2401.07339", "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/", "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/", "https://en.wikipedia.org/wiki/Software_agent"]
 refutation_status: "untested"
 ---
-
-# Harness evolution makes the harness itself the optimization target
-
 Agent synthesis
 
 Harness evolution turns the harness into the thing being optimized, and it works only when the evaluator and permission controls live outside the loop that evolves it. The mechanism is a progression of what gets optimized: instruction prompts, then structured context, then workflow, then harness code, then optimizer code. As the base model improves, each step moves the target deeper, from hand-written prompts toward general machinery that produces better answers, not just better outputs.

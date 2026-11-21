@@ -7,9 +7,6 @@ inputs: ["notes-on-ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan"
 provenance_urls: ["https://arxiv.org/abs/2407.01502", "https://blog.anthropic.com/building-effective-agents"]
 refutation_status: "untested"
 ---
-
-# Optimize agent cost and accuracy jointly, not accuracy alone
-
 Agent synthesis
 
 Accuracy-only benchmarking makes state-of-the-art agents needlessly complex and costly, so cost and accuracy should be optimized jointly rather than traded blindly. The mechanism is that a narrow accuracy focus rewards complexity and misattributes gains, pushing agents toward heavier architectures than the task requires; joint optimization instead finds configurations that hold accuracy while cutting cost.

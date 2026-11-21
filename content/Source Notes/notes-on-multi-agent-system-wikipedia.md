@@ -6,9 +6,6 @@ url: "https://en.wikipedia.org/wiki/Multi-agent_system"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Multi-agent system (Wikipedia)
-
 - Archived full text: [[multi-agent-system-wikipedia|Full archived text, with credits]]
 - Link: <https://en.wikipedia.org/wiki/Multi-agent_system>
 

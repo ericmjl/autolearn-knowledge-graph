@@ -27,6 +27,13 @@
   "publication": "arXiv",
   "date": "2024-07-01"
  },
+ "ai-security-incident-case-encrypted-reasoning-blocks-of-proprietary-llms-can-be-stolen": {
+  "title": "AI Security Incident Case: Encrypted Reasoning Blocks of Proprietary LLMs Can Be Stolen via Cross-Model Replay - NSFOCUS",
+  "url": "https://nsfocusglobal.com/ai-security-incident-case-encrypted-reasoning-blocks-of-proprietary-llms-can-be-stolen-via-cross-model-replay/",
+  "authors": "",
+  "publication": "NSFOCUS",
+  "date": "2026-08-20"
+ },
  "benchmarking-llms-and-llm-based-agents-in-practical-vulnerability-detection-for-code": {
   "title": "Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories",
   "url": "https://arxiv.org/html/2503.03586",

@@ -7,9 +7,6 @@ inputs: ["notes-on-my-llm-coding-workflow-going-into-2026-addy-osmani", "notes-o
 provenance_urls: ["https://addyosmani.com/blog/ai-coding-workflow/", "https://blog.anthropic.com/building-effective-agents"]
 refutation_status: "untested"
 ---
-
-# Context packing and tailored interfaces rival model choice
-
 Agent synthesis
 
 Packing extensive context and designing tailored interfaces matter as much as model choice, because agents are steered by what they are given and how tools are presented, not by raw capability alone. The mechanism is that an agent's output is bounded by the information and interfaces it can see: missing context leaves it guessing, and undocumented or awkward tools force it off-script, regardless of how strong the underlying model is.

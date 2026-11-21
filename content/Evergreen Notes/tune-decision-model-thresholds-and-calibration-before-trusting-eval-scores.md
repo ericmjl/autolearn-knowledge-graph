@@ -7,9 +7,6 @@ inputs: ["notes-on-how-to-use-decision-models-for-evals-hamel-s-blog", "product-
 provenance_urls: ["https://hamel.dev/blog/posts/decision-model-evals/", "https://hamel.dev/blog/posts/evals/", "https://arxiv.org/abs/2407.01502"]
 refutation_status: "untested"
 ---
-
-# Tune decision-model thresholds and calibration before trusting eval scores
-
 Agent synthesis
 
 Decision model scores are useless as-is: the default 0.50 threshold silently discards most of the signal, so eval judges built on decision models must tune the threshold against labeled data and check calibration before they earn trust. A model that assigns every failure a score of 0.40 and every pass a score of 0.10 separates classes perfectly at 0.30 while flagging nothing at the default. The fix is a concrete loop: set minimum precision and recall requirements tied to the business (80% on both for an alerting system), tune thresholds with stratified cross-validation on saved scores, rule out models that cannot meet the minimums, then check whether predicted failure probabilities match observed rates and apply Platt scaling only if calibration is poor.

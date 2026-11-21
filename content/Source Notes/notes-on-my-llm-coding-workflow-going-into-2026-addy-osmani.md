@@ -6,9 +6,6 @@ url: "https://addyosmani.com/blog/ai-coding-workflow/"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: My LLM coding workflow going into 2026 (Addy Osmani)
-
 - Archived full text: [[my-llm-coding-workflow-going-into-2026-addy-osmani|Full archived text, with credits]]
 - Link: <https://addyosmani.com/blog/ai-coding-workflow/>
 

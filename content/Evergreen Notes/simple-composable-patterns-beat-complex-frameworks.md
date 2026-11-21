@@ -7,9 +7,6 @@ inputs: ["notes-on-building-effective-agents-anthropic", "notes-on-ai-agents-tha
 provenance_urls: ["https://blog.anthropic.com/building-effective-agents", "https://arxiv.org/abs/2407.01502"]
 refutation_status: "untested"
 ---
-
-# Simple composable patterns beat complex frameworks
-
 Agent synthesis
 
 Simple, composable patterns outperform complex frameworks because accuracy-only optimization makes agents needlessly complex and costly. The mechanism is that when evaluation and design focus narrowly on accuracy, teams reach for heavier machinery—frameworks, specialized libraries, elaborate agentic loops—without evidence that the added complexity improves outcomes, while the underlying prompts and responses get obscured and debugging gets harder.

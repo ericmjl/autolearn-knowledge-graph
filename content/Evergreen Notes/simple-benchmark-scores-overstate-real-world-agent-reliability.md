@@ -7,9 +7,6 @@ inputs: ["notes-on-ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan"
 provenance_urls: ["https://arxiv.org/abs/2407.01502", "https://arxiv.org/abs/2401.07339"]
 refutation_status: "untested"
 ---
-
-# Simple benchmark scores overstate real-world agent reliability
-
 Agent synthesis
 
 Agents that look strong on simple, accuracy-focused benchmarks degrade on realistic repo-level tasks and overfit weak holdout sets. The mechanism is twofold: benchmarks narrowly reward accuracy rather than the broader cost, robustness, and reproducibility that matter in deployment, and weak or absent holdout sets let agents learn benchmark-specific shortcuts instead of durable behavior.

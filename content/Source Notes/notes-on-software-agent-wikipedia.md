@@ -6,9 +6,6 @@ url: "https://en.wikipedia.org/wiki/Software_agent"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Software agent (Wikipedia)
-
 - Archived full text: [[software-agent-wikipedia|Full archived text, with credits]]
 - Link: <https://en.wikipedia.org/wiki/Software_agent>
 

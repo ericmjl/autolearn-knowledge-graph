@@ -1,5 +1,3 @@
-# Loop engineering
-
 ## Sources
 
 - [[notes-on-agentic-coding-is-a-trap-lars-faye|Agentic Coding is a Trap (Lars Faye)]]

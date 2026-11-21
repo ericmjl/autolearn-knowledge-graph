@@ -6,9 +6,6 @@ url: "https://blog.anthropic.com/building-effective-agents"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Building effective agents (Anthropic)
-
 - Archived full text: [[building-effective-agents-anthropic|Full archived text, with credits]]
 - Link: <https://blog.anthropic.com/building-effective-agents>
 

@@ -7,9 +7,6 @@ inputs: ["notes-on-langgraph-multi-agent-workflows-langchain", "notes-on-multi-a
 provenance_urls: ["https://blog.langchain.dev/langgraph-multi-agent-workflows/", "https://en.wikipedia.org/wiki/Multi-agent_system"]
 refutation_status: "untested"
 ---
-
-# Focused agents outperform tool-heavy monoliths
-
 Agent synthesis
 
 Splitting tools and responsibilities across focused agents with separate prompts outperforms one agent selecting from dozens of tools. The mechanism is decomposition: each agent gets its own prompt, LLM, tools, and custom code, with agents represented as nodes in a graph whose edges manage control flow and shared state, so each agent can be evaluated and improved independently without breaking the larger application.

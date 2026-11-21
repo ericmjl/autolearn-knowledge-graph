@@ -8,9 +8,6 @@ provenance_urls: ["https://arxiv.org/html/2503.03586", "https://arxiv.org/abs/22
 refutation_status: "untested"
 answers_questions: ["Does interleaving reasoning and retrieval actions still beat plain chain-of-thought on current models, or has long-context CoT caught up?"]
 ---
-
-# Adaptive interleaved retrieval beats static CoT on context-dependent discrimination
-
 Agent synthesis
 
 Adaptive interleaving of reasoning and retrieval beats static chain-of-thought when a task demands iterative, context-dependent discrimination. In the JitVul pairwise vulnerability benchmark, ReAct agents that reason, pull callers/callees, and observe beat plain LLMs and dependency-augmented LLMs on pairwise accuracy (the ability to tell a vulnerable function apart from its patched benign version), with average gains of 9.46% over Dep-Aug with GPT-4o-mini and 8.42% with GPT-4o, and the largest single gain up to 16.61%. Plain LLMs post higher F1 scores, but that metric is inflated by over-predicting the vulnerable label (more than 90% in some settings) while precision stays near 50%, so F1 hides exactly the discrimination the benchmark measures. CoT and few-shot examples lift plain LLMs' pairwise accuracy by 1.26% to 17.76%, and Dep-Aug's fixed Top-5 similarity-ranked context can inject noise, which is why its pAcc sometimes drops below Plain LLM.

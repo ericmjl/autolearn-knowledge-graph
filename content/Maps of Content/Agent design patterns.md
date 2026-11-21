@@ -1,5 +1,3 @@
-# Agent design patterns
-
 ## Sources
 
 - [[notes-on-a-survey-on-large-language-model-based-autonomous-agents-wang-et-al-2023|A Survey on Large Language Model based Autonomous Agents (Wang et al., 2023)]]

@@ -7,9 +7,6 @@ inputs: ["notes-on-patterns-for-building-cybersecurity-evals", "public-eval-head
 provenance_urls: ["https://eugeneyan.com/writing/cybersecurity-evals", "https://eugeneyan.com/writing/public-evals", "https://arxiv.org/abs/2407.01502", "https://arxiv.org/abs/2401.07339", "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/", "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/", "https://en.wikipedia.org/wiki/Software_agent"]
 refutation_status: "untested"
 ---
-
-# Cybersecurity evals reward outcomes over methods and harness structure
-
 Agent synthesis
 
 Cybersecurity evals reward what the agent achieves, not how it gets there, and they reward harness structure over raw model choice. The mechanism is that exploitation is open-ended: no single exploit path is right, so a grader that scores the final outcome (a sanitizer crash, a hidden flag retrieved, a critical asset exfiltrated) measures what matters. Outcome-only grading is too coarse on its own, though: a model that scores zero on unauthorized code execution may still have found and reproduced the vulnerability. Benchmarks therefore award partial credit along the attack chain: find the vulnerability, reproduce it with a PoC, exploit it, and achieve the attacker goal. Structure dominates the raw model: in Multi-Host Bench, Incalmo jumped success from 3 of 40 networks to 37 of 40, and all ten tested models scored 6 to 9 of 10 representative environments when paired with it, while every model scored zero on ExpertPromptShell. Under a constant model, harness mattered more than the weights.

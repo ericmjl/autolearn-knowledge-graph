@@ -6,9 +6,6 @@ url: "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
 created_at: "2026-11-21T10:01:16Z"
 updated_at: "2026-11-21T10:01:16Z"
 ---
-
-# Notes on: Stealing Reasoning Traces from Proprietary LLM APIs
-
 - Archived full text: [[stealing-reasoning-traces-from-proprietary-llm-apis|Full archived text, with credits]]
 - Link: <https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/>
 

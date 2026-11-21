@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2005.11401"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-
 - Archived full text: [[retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2005.11401>
 

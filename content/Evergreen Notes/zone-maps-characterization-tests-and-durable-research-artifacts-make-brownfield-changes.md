@@ -7,9 +7,6 @@ inputs: ["notes-on-brownfield-agentic-engineering", "agents-degrade-on-repo-task
 provenance_urls: ["https://addyo.substack.com/p/brownfield-agentic-engineering", "https://arxiv.org/abs/2401.07339", "https://addyosmani.com/blog/ai-coding-workflow/", "https://addyo.substack.com/p/agentic-verification", "https://hamel.dev/blog/posts/evals/"]
 refutation_status: "untested"
 ---
-
-# Zone maps, characterization tests, and durable research artifacts make brownfield changes trustworthy
-
 Agent synthesis
 
 Brownfield agentic engineering makes cheap changes trustworthy by making hidden constraints visible: a zone map drawn by blast radius, characterization tests that pin today's behavior, and a durable research memo that outlives the session.

@@ -6,9 +6,6 @@ url: "https://eugeneyan.com/writing/public-evals"
 created_at: "2026-11-21T05:01:55Z"
 updated_at: "2026-11-21T05:01:55Z"
 ---
-
-# Notes on: How Public Evals Work and Fail, and What Should Change
-
 - Archived full text: [[how-public-evals-work-and-fail-and-what-should-change|Full archived text, with credits]]
 - Link: <https://eugeneyan.com/writing/public-evals>
 

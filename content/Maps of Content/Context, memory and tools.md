@@ -1,5 +1,3 @@
-# Context, memory and tools
-
 ## Sources
 
 - [[notes-on-software-agent-wikipedia|Software agent (Wikipedia)]]

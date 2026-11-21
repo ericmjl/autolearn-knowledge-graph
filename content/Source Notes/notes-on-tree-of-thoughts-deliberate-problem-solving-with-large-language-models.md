@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2305.10601"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
-
 - Archived full text: [[tree-of-thoughts-deliberate-problem-solving-with-large-language-models|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2305.10601>
 

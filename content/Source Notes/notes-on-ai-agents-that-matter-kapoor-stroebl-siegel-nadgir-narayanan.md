@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2407.01502"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: AI Agents That Matter (Kapoor, Stroebl, Siegel, Nadgir, Narayanan)
-
 - Archived full text: [[ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2407.01502>
 

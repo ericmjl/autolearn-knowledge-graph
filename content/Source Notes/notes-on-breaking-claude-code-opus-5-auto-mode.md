@@ -6,9 +6,6 @@ url: "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mod
 created_at: "2026-11-21T04:01:43Z"
 updated_at: "2026-11-21T04:01:43Z"
 ---
-
-# Notes on: Breaking Claude Code Opus 5 Auto Mode
-
 - Archived full text: [[breaking-claude-code-opus-5-auto-mode|Full archived text, with credits]]
 - Link: <https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/>
 

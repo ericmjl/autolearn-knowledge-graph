@@ -7,9 +7,6 @@ inputs: ["notes-on-agentic-coding-is-a-trap-lars-faye", "notes-on-karpathy-on-co
 provenance_urls: ["https://larsfaye.com/articles/agentic-coding-is-a-trap", "https://x.com/karpathy/status/2015883857489522876"]
 refutation_status: "untested"
 ---
-
-# Agentic coding expands what's buildable but atrophies skills
-
 Agent synthesis
 
 Agent-driven coding expands what can be built and increases stamina, but overuse atrophies manual skills and supervision quality. The mechanism is a shift in the developer's role: from writing code to orchestrating agents, generating specs, and reviewing output. Karpathy reports moving from roughly 80% manual coding to 80% agent coding in a month, describing programming increasingly as "programming in English," and argues the main gain is expansion rather than speedup—doing things not previously worth coding and approaching code blocked by knowledge or skill gaps. Agents also never get tired or demoralized, dramatically increasing stamina for long stretches of work.

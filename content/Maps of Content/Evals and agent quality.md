@@ -1,5 +1,3 @@
-# Evals and agent quality
-
 ## Sources
 
 - [[notes-on-ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan|AI Agents That Matter (Kapoor, Stroebl, Siegel, Nadgir, Narayanan)]]

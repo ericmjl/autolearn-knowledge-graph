@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2201.11903"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (Wei et al., Google, 2022)
-
 - Archived full text: [[chain-of-thought-prompting-elicits-reasoning-in-large-language-models-wei-et-al|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2201.11903>
 

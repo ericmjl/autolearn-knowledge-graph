@@ -7,9 +7,6 @@ inputs: ["notes-on-react-synergizing-reasoning-and-acting-in-language-models-yao
 provenance_urls: ["https://arxiv.org/abs/2210.03629", "https://arxiv.org/abs/2005.11401"]
 refutation_status: "untested"
 ---
-
-# Interleaved reasoning and acting ground steps in external sources
-
 Agent synthesis
 
 Interleaving reasoning traces with retrieval actions grounds steps in external sources and reduces hallucination and error propagation. Reasoning traces help the model induce, track, update, and recover from action plans, while actions let it query external knowledge bases or environments for additional information rather than relying only on parametric memory.

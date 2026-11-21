@@ -7,9 +7,6 @@ inputs: ["notes-on-multi-agent-system-wikipedia", "notes-on-langgraph-multi-agen
 provenance_urls: ["https://en.wikipedia.org/wiki/Multi-agent_system", "https://blog.langchain.dev/langgraph-multi-agent-workflows/"]
 refutation_status: "untested"
 ---
-
-# Unstructured dialogue trades coordination for observability
-
 Agent synthesis
 
 Unstructured natural-language exchange lets agents coordinate flexibly but produces opaque dialects and verbose shared state that obscure oversight. The mechanism is that agents negotiate tasks through contextual inference rather than fixed state machines, so coordination becomes emergent and flexible, while the artifacts of that coordination—compressed shorthand, domain-specific metaphors, and shared scratchpads—become hard to audit.

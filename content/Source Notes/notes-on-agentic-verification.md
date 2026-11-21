@@ -6,9 +6,6 @@ url: "https://addyo.substack.com/p/agentic-verification"
 created_at: "2026-11-21T03:07:01Z"
 updated_at: "2026-11-21T03:07:01Z"
 ---
-
-# Notes on: Agentic Verification
-
 - Archived full text: [[agentic-verification|Full archived text, with credits]]
 - Link: <https://addyo.substack.com/p/agentic-verification>
 

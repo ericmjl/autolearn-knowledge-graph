@@ -1,5 +1,3 @@
-# Agent economics
-
 ## Sources
 
 ## Notes

@@ -6,9 +6,6 @@ url: "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: The lethal trifecta for AI agents (Simon Willison)
-
 - Archived full text: [[the-lethal-trifecta-for-ai-agents-simon-willison|Full archived text, with credits]]
 - Link: <https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/>
 

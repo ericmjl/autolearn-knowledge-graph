@@ -7,9 +7,6 @@ inputs: ["notes-on-your-ai-product-needs-evals-hamel-husain", "notes-on-ai-agent
 provenance_urls: ["https://hamel.dev/blog/posts/evals/", "https://arxiv.org/abs/2407.01502"]
 refutation_status: "untested"
 ---
-
-# Product-Specific Evals Beat Generic Benchmarks
-
 Agent synthesis
 
 Product-specific evals beat generic benchmarks because accuracy-only evaluation misleads and produces agents that fail beyond the benchmark. Hamel Husain argues that unsuccessful AI products almost always share a root cause: weak evaluation systems, and that evals must be tailored to users' tasks rather than relying on general model benchmarks or vibe checks. The Kapoor et al. paper makes the complementary point that current agent benchmarks narrowly focus on accuracy, leaving agents needlessly complex and costly, and that this focus leads to mistaken conclusions about where accuracy gains come from.

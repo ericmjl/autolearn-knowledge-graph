@@ -6,9 +6,6 @@ url: "https://addyo.substack.com/p/brownfield-agentic-engineering"
 created_at: "2026-11-21T09:02:01Z"
 updated_at: "2026-11-21T09:02:01Z"
 ---
-
-# Notes on: Brownfield Agentic Engineering
-
 - Archived full text: [[brownfield-agentic-engineering|Full archived text, with credits]]
 - Link: <https://addyo.substack.com/p/brownfield-agentic-engineering>
 

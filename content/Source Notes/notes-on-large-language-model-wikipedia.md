@@ -6,9 +6,6 @@ url: "https://en.wikipedia.org/wiki/Large_language_model"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Large language model (Wikipedia)
-
 - Archived full text: [[large-language-model-wikipedia|Full archived text, with credits]]
 - Link: <https://en.wikipedia.org/wiki/Large_language_model>
 

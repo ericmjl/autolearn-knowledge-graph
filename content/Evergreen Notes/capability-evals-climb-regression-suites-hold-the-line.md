@@ -8,9 +8,6 @@ provenance_urls: ["https://www.anthropic.com/research/demystifying-evals-for-ai-
 refutation_status: "untested"
 answers_questions: ["How do teams implement layered evals split across separate calls in practice, and what does that look like for eval cadence?"]
 ---
-
-# Capability evals climb; regression suites hold the line
-
 Agent synthesis
 
 Capability evals and regression evals run as a two-stage stack, where low-pass capability runs climb and high-pass regression suites hold the line. The mechanism is that the same suite passes tasks the agent already handles well: at low pass rates it measures headroom, while at near-100% pass rates it catches backsliding. Once capability tasks saturate, the same tasks graduate into a regression suite run continuously to catch drift, and the failure to separate these two roles produces deceptive scores.

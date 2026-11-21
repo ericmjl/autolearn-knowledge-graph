@@ -7,9 +7,6 @@ inputs: ["notes-on-retrieval-augmented-generation-wikipedia", "notes-on-large-la
 provenance_urls: ["https://en.wikipedia.org/wiki/Retrieval-augmented_generation", "https://en.wikipedia.org/wiki/Large_language_model"]
 refutation_status: "untested"
 ---
-
-# Grounding reduces hallucination but cannot eliminate it
-
 Agent synthesis
 
 Grounding reduces hallucination but cannot eliminate it or detect uncertainty. Retrieval-augmented generation works by having the LLM refer to a specified set of external documents before responding, supplementing static training data with domain-specific or updated content and helping the model stick to facts. This is the mechanism behind the claim: the model is anchored to supplied sources rather than relying solely on pre-existing training knowledge.

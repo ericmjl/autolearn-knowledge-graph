@@ -6,9 +6,6 @@ url: "https://blog.langchain.dev/langgraph-multi-agent-workflows/"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: LangGraph: Multi-Agent Workflows (LangChain)
-
 - Archived full text: [[langgraph-multi-agent-workflows-langchain|Full archived text, with credits]]
 - Link: <https://blog.langchain.dev/langgraph-multi-agent-workflows/>
 

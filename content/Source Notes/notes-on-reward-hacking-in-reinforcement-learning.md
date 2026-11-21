@@ -6,9 +6,6 @@ url: "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
 created_at: "2026-11-21T12:01:26Z"
 updated_at: "2026-11-21T12:01:26Z"
 ---
-
-# Notes on: Reward Hacking in Reinforcement Learning
-
 - Archived full text: [[reward-hacking-in-reinforcement-learning|Full archived text, with credits]]
 - Link: <https://lilianweng.github.io/posts/2024-11-28-reward-hacking/>
 

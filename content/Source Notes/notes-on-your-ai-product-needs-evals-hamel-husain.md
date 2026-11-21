@@ -6,9 +6,6 @@ url: "https://hamel.dev/blog/posts/evals/"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Your AI Product Needs Evals (Hamel Husain)
-
 - Archived full text: [[your-ai-product-needs-evals-hamel-husain|Full archived text, with credits]]
 - Link: <https://hamel.dev/blog/posts/evals/>
 

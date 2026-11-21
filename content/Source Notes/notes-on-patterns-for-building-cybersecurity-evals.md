@@ -6,9 +6,6 @@ url: "https://eugeneyan.com/writing/cybersecurity-evals"
 created_at: "2026-11-21T06:02:29Z"
 updated_at: "2026-11-21T06:02:29Z"
 ---
-
-# Notes on: Patterns for Building Cybersecurity Evals
-
 - Archived full text: [[patterns-for-building-cybersecurity-evals|Full archived text, with credits]]
 - Link: <https://eugeneyan.com/writing/cybersecurity-evals>
 

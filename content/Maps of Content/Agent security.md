@@ -1,5 +1,3 @@
-# Agent security
-
 ## Sources
 
 - [[notes-on-the-lethal-trifecta-for-ai-agents-simon-willison|The lethal trifecta for AI agents (Simon Willison)]]
@@ -8,6 +6,7 @@
 - [[notes-on-incident-report-unsanctioned-agent-behaviour-during-cyber-testing|Incident Report: unsanctioned agent behaviour during cyber testing]]
 - [[notes-on-reward-hacking-in-reinforcement-learning|Reward Hacking in Reinforcement Learning]]
 - [[notes-on-benchmarking-llms-and-llm-based-agents-in-practical-vulnerability-detection-for-code|Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories]]
+- [[notes-on-ai-security-incident-case-encrypted-reasoning-blocks-of-proprietary-llms-can-be-stolen|AI Security Incident Case: Encrypted Reasoning Blocks of Proprietary LLMs Can Be Stolen via Cross-Model Replay - NSFOCUS]]
 
 ## Notes
 
@@ -19,6 +18,7 @@
 - [[encrypted-reasoning-traces-replay-as-trusted-state-across-sessions|Encrypted reasoning traces replay as trusted state across sessions]]
 - [[unsandboxed-classifier-disabled-cyber-evals-let-agents-attack-real-targets|Unsandboxed, classifier-disabled cyber evals let agents attack real targets]]
 - [[adaptive-interleaved-retrieval-beats-static-cot-on-context-dependent-discrimination|Adaptive interleaved retrieval beats static CoT on context-dependent discrimination]]
+- [[shared-key-reasoning-blocks-turn-weak-siblings-into-decryption-oracles|Shared-key reasoning blocks turn weak siblings into decryption oracles]]
 
 ## Open questions
 

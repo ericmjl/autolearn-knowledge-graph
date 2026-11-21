@@ -7,9 +7,6 @@ inputs: ["notes-on-the-lethal-trifecta-for-ai-agents-simon-willison", "notes-on-
 provenance_urls: ["https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/", "https://blog.anthropic.com/building-effective-agents"]
 refutation_status: "untested"
 ---
-
-# MCP tool mixing expands capability but risks the lethal trifecta
-
 Agent synthesis
 
 MCP-style tool composition expands what agents can do, but mixing private-data access, untrusted content, and external communication creates the lethal trifecta. The mechanism is composition: MCP lets users mix tools from different sources, and an augmented LLM—an LLM enhanced with retrieval, tools, and memory—can be wired into open-ended tasks where it dynamically directs its own tool use. That same flexibility is what makes the combination dangerous.

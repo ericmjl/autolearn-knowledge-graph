@@ -6,9 +6,6 @@ url: "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Retrieval-augmented generation (Wikipedia)
-
 - Archived full text: [[retrieval-augmented-generation-wikipedia|Full archived text, with credits]]
 - Link: <https://en.wikipedia.org/wiki/Retrieval-augmented_generation>
 

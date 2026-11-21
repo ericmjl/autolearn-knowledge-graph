@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2401.07339"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
-
 - Archived full text: [[codeagent-enhancing-code-generation-with-tool-integrated-agent-systems-for-real|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2401.07339>
 

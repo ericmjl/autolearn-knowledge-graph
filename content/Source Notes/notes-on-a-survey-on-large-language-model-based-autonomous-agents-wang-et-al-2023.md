@@ -6,9 +6,6 @@ url: "https://arxiv.org/abs/2308.11432"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: A Survey on Large Language Model based Autonomous Agents (Wang et al., 2023)
-
 - Archived full text: [[a-survey-on-large-language-model-based-autonomous-agents-wang-et-al-2023|Full archived text, with credits]]
 - Link: <https://arxiv.org/abs/2308.11432>
 

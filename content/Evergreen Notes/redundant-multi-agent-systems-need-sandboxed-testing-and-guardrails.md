@@ -7,9 +7,6 @@ inputs: ["notes-on-multi-agent-system-wikipedia", "notes-on-building-effective-a
 provenance_urls: ["https://en.wikipedia.org/wiki/Multi-agent_system", "https://blog.anthropic.com/building-effective-agents"]
 refutation_status: "untested"
 ---
-
-# Redundant Multi-Agent Systems Need Sandboxed Testing and Guardrails
-
 Agent synthesis
 
 Redundant multi-agent systems improve fault tolerance, but compounding errors and emergent drift demand sandboxed testing and guardrails. The mechanism is that redundancy is what makes multi-agent systems fault tolerant: components fail without propagating faults, and the system can self-recover and find good solutions without intervention. In LLM-based systems, however, unstructured natural-language interaction introduces emergent communication, protocol drift, observability-comprehensibility gaps, and even monitoring evasion, so the same autonomy that enables redundancy also makes behavior harder to verify.

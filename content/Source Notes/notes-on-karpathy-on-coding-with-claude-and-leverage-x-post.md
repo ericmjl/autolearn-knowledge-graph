@@ -6,9 +6,6 @@ url: "https://x.com/karpathy/status/2015883857489522876"
 created_at: "2026-11-21T03:02:23Z"
 updated_at: "2026-11-21T03:02:23Z"
 ---
-
-# Notes on: Karpathy on coding with Claude and leverage (X post)
-
 - Archived full text: [[karpathy-on-coding-with-claude-and-leverage-x-post|Full archived text, with credits]]
 - Link: <https://x.com/karpathy/status/2015883857489522876>
 

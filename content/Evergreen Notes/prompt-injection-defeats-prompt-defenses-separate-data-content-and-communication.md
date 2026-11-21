@@ -7,9 +7,6 @@ inputs: ["notes-on-the-lethal-trifecta-for-ai-agents-simon-willison", "notes-on-
 provenance_urls: ["https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/", "https://en.wikipedia.org/wiki/Software_agent"]
 refutation_status: "untested"
 ---
-
-# Prompt injection defeats prompt defenses; separate data, content, and communication
-
 Agent synthesis
 
 Prompt injection defeats prompt-based defenses, so durable protection comes from architectural separation of private data, untrusted content, and external communication, plus security verification of agent actions. The mechanism is that LLMs cannot reliably distinguish instructions by origin: all content is glued into tokens and fed to the model, so malicious text in web pages, emails, or images can hijack an agent. Because systems are non-deterministic and malicious instructions can be phrased in infinitely many ways, telling the model not to obey cannot guarantee protection.
