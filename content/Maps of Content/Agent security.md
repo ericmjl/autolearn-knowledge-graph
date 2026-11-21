@@ -7,6 +7,7 @@
 - [[notes-on-reward-hacking-in-reinforcement-learning|Reward Hacking in Reinforcement Learning]]
 - [[notes-on-benchmarking-llms-and-llm-based-agents-in-practical-vulnerability-detection-for-code|Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories]]
 - [[notes-on-ai-security-incident-case-encrypted-reasoning-blocks-of-proprietary-llms-can-be-stolen|AI Security Incident Case: Encrypted Reasoning Blocks of Proprietary LLMs Can Be Stolen via Cross-Model Replay - NSFOCUS]]
+- [[notes-on-disrupting-a-coordinated-model-distillation-campaign|Disrupting a coordinated model-distillation campaign]]
 
 ## Notes
 
@@ -19,6 +20,7 @@
 - [[unsandboxed-classifier-disabled-cyber-evals-let-agents-attack-real-targets|Unsandboxed, classifier-disabled cyber evals let agents attack real targets]]
 - [[adaptive-interleaved-retrieval-beats-static-cot-on-context-dependent-discrimination|Adaptive interleaved retrieval beats static CoT on context-dependent discrimination]]
 - [[shared-key-reasoning-blocks-turn-weak-siblings-into-decryption-oracles|Shared-key reasoning blocks turn weak siblings into decryption oracles]]
+- [[server-side-binding-controls-close-replayable-encrypted-reasoning|Server-side binding controls close replayable encrypted reasoning]]
 
 ## Open questions
 
