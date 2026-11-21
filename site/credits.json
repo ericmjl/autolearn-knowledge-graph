@@ -83,6 +83,13 @@
   "publication": "Pydantic Docs",
   "date": "2025-01-01"
  },
+ "cortex-token-level-hallucination-detection-in-rag-via-comparative-internal-representations": {
+  "title": "CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations",
+  "url": "https://arxiv.org/html/2606.31033v1",
+  "authors": "Kazuaki Furumai",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "demystifying-evals-for-ai-agents": {
   "title": "Demystifying evals for AI agents",
   "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",

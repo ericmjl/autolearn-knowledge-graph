@@ -6,6 +6,7 @@
 - [[notes-on-retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks|Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]]
 - [[notes-on-retrieval-augmented-generation-wikipedia|Retrieval-augmented generation (Wikipedia)]]
 - [[notes-on-detect-hallucinations-for-rag-based-systems-amazon-web-services|Detect hallucinations for RAG-based systems | Amazon Web Services]]
+- [[notes-on-cortex-token-level-hallucination-detection-in-rag-via-comparative-internal-representations|CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations]]
 
 ## Notes
 

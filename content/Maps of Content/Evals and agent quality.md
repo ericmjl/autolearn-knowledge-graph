@@ -21,6 +21,7 @@
 - [[growing-capability-makes-proxy-rewards-less-reliable|Growing capability makes proxy rewards less reliable]]
 - [[capability-evals-climb-regression-suites-hold-the-line|Capability evals climb; regression suites hold the line]]
 - [[sentence-level-judgments-detect-when-grounded-agents-misread-context|Sentence-level judgments detect when grounded agents misread context]]
+- [[token-level-reference-deltas-localize-misreads-sentence-level-judges-only-flag|Token-level reference deltas localize misreads sentence-level judges only flag]]
 
 ## Open questions
 
