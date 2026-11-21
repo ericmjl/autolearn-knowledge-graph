@@ -2,6 +2,7 @@
 
 - [[notes-on-software-agent-wikipedia|Software agent (Wikipedia)]]
 - [[notes-on-self-generated-prompt-injections-in-compaction-summaries|Self-generated prompt injections in compaction summaries]]
+- [[notes-on-compaction|Compaction]]
 
 ## Notes
 

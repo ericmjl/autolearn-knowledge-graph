@@ -76,6 +76,13 @@
   "publication": "arXiv",
   "date": "2024-01-14"
  },
+ "compaction": {
+  "title": "Compaction",
+  "url": "https://pydantic.dev/docs/ai/capabilities/compaction/",
+  "authors": "",
+  "publication": "Pydantic Docs",
+  "date": "2025-01-01"
+ },
  "demystifying-evals-for-ai-agents": {
   "title": "Demystifying evals for AI agents",
   "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
