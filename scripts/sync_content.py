@@ -214,19 +214,22 @@ def render_raw(stem: str, text: str, published: set[str], cache: dict, use_llm: 
     topics = re.search(r"^- Topics it supports: (.*)$", header, re.M)
     why = re.search(r"^- Why you kept it: (.*)$", header, re.M)
     notes_stem = "notes-on-" + stem
+    if not c["authors"]:
+        who = f"{c['publication']} (no individual author named)" if c["publication"] else "Not stated in the archived text"
+        c = {**c, "authors": who}
     lines = [
         "---",
         f"title: {yq(c['title'])}",
         'type: "raw-source"',
         f"url: {yq(c['url'])}",
-        f"author: {yq(c['authors'] or 'Not stated')}",
+        f"author: {yq(c['authors'])}",
         f"publication: {yq(c['publication'])}",
         f"published: {yq(c['date'])}",
         f"archived: {yq(fm_get(fm, 'fetched_at'))}",
         "---",
         "",
         '> [!quote] Original source',
-        f"> **Author(s):** {c['authors'] or 'Not stated in the archived text'}  ",
+        f"> **Author(s):** {c['authors']}  ",
         f"> **Title:** {c['title']}  ",
         f"> **Published in:** {c['publication'] or 'Unknown'}  ",
         f"> **Date:** {c['date'] or 'Unknown'}  ",

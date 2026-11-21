@@ -2,14 +2,14 @@
 title: "AI Security Incident Case: Encrypted Reasoning Blocks of Proprietary LLMs Can Be Stolen via Cross-Model Replay - NSFOCUS"
 type: "raw-source"
 url: "https://nsfocusglobal.com/ai-security-incident-case-encrypted-reasoning-blocks-of-proprietary-llms-can-be-stolen-via-cross-model-replay/"
-author: "Not stated"
+author: "NSFOCUS (no individual author named)"
 publication: "NSFOCUS"
 published: "2026-08-20"
 archived: "2026-11-21T13:20:48Z"
 ---
 
 > [!quote] Original source
-> **Author(s):** Not stated in the archived text  
+> **Author(s):** NSFOCUS (no individual author named)  
 > **Title:** AI Security Incident Case: Encrypted Reasoning Blocks of Proprietary LLMs Can Be Stolen via Cross-Model Replay - NSFOCUS  
 > **Published in:** NSFOCUS  
 > **Date:** 2026-08-20  
