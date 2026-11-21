@@ -12,6 +12,7 @@
 - [[notes-on-harness-engineering-for-self-improvement|Harness Engineering for Self-Improvement]]
 - [[notes-on-brownfield-agentic-engineering|Brownfield Agentic Engineering]]
 - [[notes-on-reward-hacking-in-reinforcement-learning|Reward Hacking in Reinforcement Learning]]
+- [[notes-on-how-we-used-agentic-ai-to-automate-fixes-for-flaky-tests|How We Used Agentic AI to Automate Fixes for Flaky Tests]]
 
 ## Notes
 
