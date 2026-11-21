@@ -20,6 +20,7 @@
 - [[tune-decision-model-thresholds-and-calibration-before-trusting-eval-scores|Tune decision-model thresholds and calibration before trusting eval scores]]
 - [[growing-capability-makes-proxy-rewards-less-reliable|Growing capability makes proxy rewards less reliable]]
 - [[capability-evals-climb-regression-suites-hold-the-line|Capability evals climb; regression suites hold the line]]
+- [[sentence-level-judgments-detect-when-grounded-agents-misread-context|Sentence-level judgments detect when grounded agents misread context]]
 
 ## Open questions
 

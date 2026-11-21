@@ -5,6 +5,7 @@
 - [[notes-on-llm-wiki-pattern-andrej-karpathy|LLM Wiki pattern (Andrej Karpathy)]]
 - [[notes-on-retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks|Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]]
 - [[notes-on-retrieval-augmented-generation-wikipedia|Retrieval-augmented generation (Wikipedia)]]
+- [[notes-on-detect-hallucinations-for-rag-based-systems-amazon-web-services|Detect hallucinations for RAG-based systems | Amazon Web Services]]
 
 ## Notes
 

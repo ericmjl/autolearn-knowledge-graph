@@ -10,6 +10,7 @@
 - [[notes-on-software-agent-wikipedia|Software agent (Wikipedia)]]
 - [[notes-on-tree-of-thoughts-deliberate-problem-solving-with-large-language-models|Tree of Thoughts: Deliberate Problem Solving with Large Language Models]]
 - [[notes-on-how-we-built-our-multi-agent-research-system|How we built our multi-agent research system]]
+- [[notes-on-detect-hallucinations-for-rag-based-systems-amazon-web-services|Detect hallucinations for RAG-based systems | Amazon Web Services]]
 
 ## Notes
 

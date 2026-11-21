@@ -83,6 +83,13 @@
   "publication": "Anthropic",
   "date": "2026-01-09"
  },
+ "detect-hallucinations-for-rag-based-systems-amazon-web-services": {
+  "title": "Detect hallucinations for RAG-based systems | Amazon Web Services",
+  "url": "https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/",
+  "authors": "",
+  "publication": "Amazon Web Services",
+  "date": "2025-05-16"
+ },
  "harness-engineering-for-self-improvement": {
   "title": "Harness Engineering for Self-Improvement",
   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
