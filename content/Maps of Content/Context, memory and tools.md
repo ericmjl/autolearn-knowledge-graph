@@ -4,6 +4,7 @@
 - [[notes-on-self-generated-prompt-injections-in-compaction-summaries|Self-generated prompt injections in compaction summaries]]
 - [[notes-on-compaction|Compaction]]
 - [[notes-on-effective-context-engineering-for-ai-agents|Effective context engineering for AI agents]]
+- [[notes-on-context-rot-how-increasing-input-tokens-impacts-llm-performance|Context Rot: How Increasing Input Tokens Impacts LLM Performance]]
 
 ## Notes
 
@@ -12,6 +13,7 @@
 - [[compaction-summaries-recycle-instructions-into-trusted-state|Compaction summaries recycle instructions into trusted state]]
 - [[sentence-level-judgments-detect-when-grounded-agents-misread-context|Sentence-level judgments detect when grounded agents misread context]]
 - [[context-signals-outrank-context-size|Context signals outrank context size]]
+- [[the-focused-vs-full-prompt-gap-is-the-metric-that-tells-you-which-tokens-carry-signal|The focused-vs-full prompt gap is the metric that tells you which tokens carry signal]]
 
 ## Open questions
 

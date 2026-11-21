@@ -83,6 +83,13 @@
   "publication": "Pydantic Docs",
   "date": "2025-01-01"
  },
+ "context-rot-how-increasing-input-tokens-impacts-llm-performance": {
+  "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
+  "url": "https://www.trychroma.com/research/context-rot",
+  "authors": "",
+  "publication": "trychroma.com",
+  "date": "2025-07-14"
+ },
  "cortex-token-level-hallucination-detection-in-rag-via-comparative-internal-representations": {
   "title": "CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations",
   "url": "https://arxiv.org/html/2606.31033v1",
