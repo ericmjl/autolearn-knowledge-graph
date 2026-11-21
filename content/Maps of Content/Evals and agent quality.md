@@ -6,6 +6,7 @@
 - [[notes-on-patterns-for-building-cybersecurity-evals|Patterns for Building Cybersecurity Evals]]
 - [[notes-on-how-to-use-decision-models-for-evals-hamel-s-blog|How To Use Decision Models for Evals – Hamel’s Blog]]
 - [[notes-on-demystifying-evals-for-ai-agents|Demystifying evals for AI agents]]
+- [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
 
 ## Notes
 

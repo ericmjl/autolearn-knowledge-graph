@@ -13,6 +13,7 @@
 - [[notes-on-brownfield-agentic-engineering|Brownfield Agentic Engineering]]
 - [[notes-on-reward-hacking-in-reinforcement-learning|Reward Hacking in Reinforcement Learning]]
 - [[notes-on-how-we-used-agentic-ai-to-automate-fixes-for-flaky-tests|How We Used Agentic AI to Automate Fixes for Flaky Tests]]
+- [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
 
 ## Notes
 
@@ -24,6 +25,7 @@
 - [[self-verifying-agents-need-fast-oracle-backed-loops-not-just-stronger-models|Self-verifying agents need fast, oracle-backed loops, not just stronger models]]
 - [[harness-evolution-makes-the-harness-itself-the-optimization-target|Harness evolution makes the harness itself the optimization target]]
 - [[zone-maps-characterization-tests-and-durable-research-artifacts-make-brownfield-changes|Zone maps, characterization tests, and durable research artifacts make brownfield changes trustworthy]]
+- [[harness-evolution-pays-off-only-with-a-dense-held-out-oracle|Harness evolution pays off only with a dense, held-out oracle]]
 
 ## Open questions
 
