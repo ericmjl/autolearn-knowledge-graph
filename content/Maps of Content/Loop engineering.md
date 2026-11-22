@@ -14,6 +14,7 @@
 - [[notes-on-reward-hacking-in-reinforcement-learning|Reward Hacking in Reinforcement Learning]]
 - [[notes-on-how-we-used-agentic-ai-to-automate-fixes-for-flaky-tests|How We Used Agentic AI to Automate Fixes for Flaky Tests]]
 - [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
+- [[notes-on-reward-hacking-is-swamping-model-intelligence-gains-cursor|Reward hacking is swamping model intelligence gains · Cursor]]
 
 ## Notes
 

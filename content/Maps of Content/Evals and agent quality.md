@@ -8,6 +8,7 @@
 - [[notes-on-demystifying-evals-for-ai-agents|Demystifying evals for AI agents]]
 - [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
 - [[notes-on-your-eval-suite-has-a-variance-problem-before-it-has-a-score-problem|Your eval suite has a variance problem before it has a score problem]]
+- [[notes-on-reward-hacking-is-swamping-model-intelligence-gains-cursor|Reward hacking is swamping model intelligence gains · Cursor]]
 
 ## Notes
 

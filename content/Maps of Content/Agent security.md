@@ -21,6 +21,7 @@
 - [[adaptive-interleaved-retrieval-beats-static-cot-on-context-dependent-discrimination|Adaptive interleaved retrieval beats static CoT on context-dependent discrimination]]
 - [[shared-key-reasoning-blocks-turn-weak-siblings-into-decryption-oracles|Shared-key reasoning blocks turn weak siblings into decryption oracles]]
 - [[server-side-binding-controls-close-replayable-encrypted-reasoning|Server-side binding controls close replayable encrypted reasoning]]
+- [[transcript-audits-and-sealed-harnesses-separate-capability-from-answer-retrieval|Transcript audits and sealed harnesses separate capability from answer retrieval]]
 
 ## Open questions
 
