@@ -41,7 +41,7 @@ FOLDER_BLURBS = {
 }
 
 SECRET_PATTERNS = [
-    re.compile(p)
+    re.compile(r"(?<![A-Za-z0-9_-])" + p)
     for p in (
         r"gh[pousr]_[A-Za-z0-9]{30,}",
         r"github_pat_[A-Za-z0-9_]{40,}",
@@ -319,6 +319,9 @@ def main() -> int:
             text = p.read_text(encoding="utf-8")
             if src == "raw":
                 text = render_raw(p.stem, text, published, cache, not args.no_llm)
+                # Quoted example keys in archived articles: blank them, keep the scan as a backstop.
+                for pat in SECRET_PATTERNS:
+                    text = pat.sub("[key-like string removed]", text)
             elif src == "source-notes":
                 text = render_source_note(text, published)
             else:

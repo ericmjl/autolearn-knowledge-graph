@@ -9,6 +9,17 @@
 - [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
 - [[notes-on-your-eval-suite-has-a-variance-problem-before-it-has-a-score-problem|Your eval suite has a variance problem before it has a score problem]]
 - [[notes-on-reward-hacking-is-swamping-model-intelligence-gains-cursor|Reward hacking is swamping model intelligence gains · Cursor]]
+- [[notes-on-a-benchmark-for-evaluating-outcome-driven-constraint-violations-in-autonomous-ai-agents|A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents]]
+- [[notes-on-how-to-evaluate-rag-faithfulness-with-llm-as-a-judge-langfuse|How to evaluate RAG faithfulness with LLM-as-a-judge - Langfuse]]
+- [[notes-on-llm-judge-calibration-measure-correct-and-report-mlflow|LLM Judge Calibration: Measure, Correct and Report | MLflow]]
+- [[notes-on-agent-observability-splunk|Agent Observability | Splunk]]
+- [[notes-on-introducing-the-evaluation-engine-build-high-accuracy-evaluators-and-guardrails-fitted-to|Introducing the Evaluation Engine: Build High-Accuracy Evaluators and Guardrails Fitted to Your Agents | Splunk]]
+- [[notes-on-task-specific-llm-evals-that-do-don-t-work|Task-Specific LLM Evals that Do & Don't Work]]
+- [[notes-on-test-wikipedia|Test - Wikipedia]]
+- [[notes-on-oversight-wikipedia|Oversight - Wikipedia]]
+- [[notes-on-agentic-misalignment-in-summer-2026|Agentic Misalignment in Summer 2026]]
+- [[notes-on-token-level-truth-real-time-hallucination-detection-for-production-llms|Token-Level Truth: Real-Time Hallucination Detection for Production LLMs]]
+- [[notes-on-a-practitioner-s-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock-aws-builder-center|A Practitioner's Guide to LLM-as-a-Judge Calibration on Amazon Bedrock | AWS Builder Center]]
 
 ## Notes
 
@@ -26,6 +37,21 @@
 - [[sentence-level-judgments-detect-when-grounded-agents-misread-context|Sentence-level judgments detect when grounded agents misread context]]
 - [[token-level-reference-deltas-localize-misreads-sentence-level-judges-only-flag|Token-level reference deltas localize misreads sentence-level judges only flag]]
 - [[graduate-saturated-capability-tasks-on-discrimination-not-mean-pass-rate|Graduate saturated capability tasks on discrimination, not mean pass rate]]
+- [[benchmarks-miss-interaction-level-misalignment-behind-false-success-claims|Benchmarks miss interaction-level misalignment behind false success claims]]
+- [[trajectory-level-evals-expose-the-misalignment-task-success-hides|Trajectory-level evals expose the misalignment task success hides]]
+- [[tool-evaluation-must-measure-more-than-accuracy|Tool evaluation must measure more than accuracy]]
+- [[held-out-evaluation-gates-harness-evolution-layered-checks-only-guide-it|Held-out evaluation gates harness evolution, layered checks only guide it]]
+- [[claim-level-faithfulness-is-the-actionable-check-that-a-grounded-model-used-its-context|Claim-level faithfulness is the actionable check that a grounded model used its context]]
+- [[threshold-tuning-survives-rare-failures-only-with-deliberate-oversampling|Threshold tuning survives rare failures only with deliberate oversampling]]
+- [[purpose-built-small-evaluators-make-product-specific-evals-run-on-every-transaction|Purpose-built small evaluators make product-specific evals run on every transaction]]
+- [[small-tuned-evaluators-carry-the-per-call-layer-tolerance-is-a-recall-number|Small tuned evaluators carry the per-call layer; tolerance is a recall number]]
+- [[per-call-judges-need-risk-calibrated-guardrails-not-just-cheap-evals|Per-call judges need risk-calibrated guardrails, not just cheap evals]]
+- [[test-scopes-mirror-eval-layers|Test scopes mirror eval layers]]
+- [[independent-oversight-roles-not-shared-visibility-keep-agents-honest|Independent oversight roles, not shared visibility, keep agents honest]]
+- [[held-out-gains-need-both-protocol-stress-and-a-reliability-tail|Held-out gains need both protocol stress and a reliability tail]]
+- [[independent-artifact-checks-not-agent-self-reports-expose-covert-misalignment|Independent artifact checks, not agent self-reports, expose covert misalignment]]
+- [[token-level-detection-with-nli-explanation-beats-sentence-level-judging-at-production|Token-level detection with NLI explanation beats sentence-level judging at production volume]]
+- [[calibrated-judges-not-trusted-ones-keep-evaluation-honest|Calibrated judges, not trusted ones, keep evaluation honest]]
 
 ## Open questions
 

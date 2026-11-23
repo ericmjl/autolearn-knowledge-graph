@@ -8,6 +8,16 @@
 - [[notes-on-benchmarking-llms-and-llm-based-agents-in-practical-vulnerability-detection-for-code|Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories]]
 - [[notes-on-ai-security-incident-case-encrypted-reasoning-blocks-of-proprietary-llms-can-be-stolen|AI Security Incident Case: Encrypted Reasoning Blocks of Proprietary LLMs Can Be Stolen via Cross-Model Replay - NSFOCUS]]
 - [[notes-on-disrupting-a-coordinated-model-distillation-campaign|Disrupting a coordinated model-distillation campaign]]
+- [[notes-on-stolen-thoughts-how-encrypted-ai-reasoning-leaked-api-keys-and-passwords|Stolen Thoughts: How Encrypted AI Reasoning Leaked API Keys and Passwords]]
+- [[notes-on-detecting-and-preventing-distillation-attacks|Detecting and preventing distillation attacks]]
+- [[notes-on-monitoring-and-discovering-reward-hacking-with-internal-representations-during-llm|Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations]]
+- [[notes-on-agent-sandbox-egress-control-outbound-allow-listing-blaxel|Agent Sandbox Egress Control & Outbound Allow-Listing | Blaxel]]
+- [[notes-on-openai-s-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed|OpenAI’s August fix for theft of reasoning traces was quickly bypassed]]
+- [[notes-on-what-your-agent-sandbox-can-reach-by-default-workos|What your agent sandbox can reach by default — WorkOS]]
+- [[notes-on-sentinelagent-graph-based-anomaly-detection-in-llm-based-multi-agent-systems|SentinelAgent: Graph-based Anomaly Detection in LLM-based Multi-Agent Systems]]
+- [[notes-on-agentic-misalignment-in-summer-2026|Agentic Misalignment in Summer 2026]]
+- [[notes-on-the-agent-access-model|The Agent Access Model]]
+- [[notes-on-safe-multi-agent-behavior-must-be-maintained-not-merely-asserted-constraint-drift-in-llm|Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems]]
 
 ## Notes
 
@@ -22,6 +32,14 @@
 - [[shared-key-reasoning-blocks-turn-weak-siblings-into-decryption-oracles|Shared-key reasoning blocks turn weak siblings into decryption oracles]]
 - [[server-side-binding-controls-close-replayable-encrypted-reasoning|Server-side binding controls close replayable encrypted reasoning]]
 - [[transcript-audits-and-sealed-harnesses-separate-capability-from-answer-retrieval|Transcript audits and sealed harnesses separate capability from answer retrieval]]
+- [[provider-patches-close-the-replay-path-but-leave-old-transcripts-behind|Provider patches close the replay path but leave old transcripts behind]]
+- [[server-side-binding-controls-close-replayable-encrypted-reasoning|Binding and fingerprinting together close replayable reasoning attacks]]
+- [[activation-probes-detect-proxy-reward-hacking-before-gold-outcomes-degrade|Activation probes detect proxy reward hacking before gold outcomes degrade]]
+- [[egress-control-is-the-boundary-that-makes-unattended-sandboxes-real|Egress control is the boundary that makes unattended sandboxes real]]
+- [[vendor-reasoning-trace-fixes-leave-the-weakness-class-open|Vendor reasoning-trace fixes leave the weakness class open]]
+- [[egress-allowlists-must-be-read-justified-and-paired-with-per-agent-credentials|Egress allowlists must be read, justified, and paired with per-agent credentials]]
+- [[short-lived-task-scoped-credentials-beat-standing-keys-at-the-tool-boundary|Short-lived task-scoped credentials beat standing keys at the tool boundary]]
+- [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
 
 ## Open questions
 

@@ -11,6 +11,13 @@
 - [[notes-on-tree-of-thoughts-deliberate-problem-solving-with-large-language-models|Tree of Thoughts: Deliberate Problem Solving with Large Language Models]]
 - [[notes-on-how-we-built-our-multi-agent-research-system|How we built our multi-agent research system]]
 - [[notes-on-detect-hallucinations-for-rag-based-systems-amazon-web-services|Detect hallucinations for RAG-based systems | Amazon Web Services]]
+- [[notes-on-how-coding-agents-fail-their-users-a-large-scale-analysis-of-developer-agent-misalignment|How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions]]
+- [[notes-on-designing-tools-for-agents-the-agent-computer-interface-agentengineering-org|Designing Tools for Agents: The Agent-Computer Interface | AgentEngineering.org]]
+- [[notes-on-multi-agent-handoff-patterns-that-actually-work|Multi-Agent Handoff Patterns That Actually Work]]
+- [[notes-on-writing-effective-tools-for-ai-agents|Writing effective tools for AI agents]]
+- [[notes-on-agent-drift-quantifying-behavioral-degradation-in-multi-agent-llm-systems-over-extended|Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions]]
+- [[notes-on-multi-agent-simulation-how-to-test-complex-agentic-workflows-in-a-sandbox-before-they|Multi-Agent Simulation: How to Test Complex Agentic Workflows in a Sandbox Before They Touch Production]]
+- [[notes-on-the-80-problem-in-agentic-coding|The 80% Problem in Agentic Coding]]
 
 ## Notes
 
@@ -22,6 +29,9 @@
 - [[redundant-multi-agent-systems-need-sandboxed-testing-and-guardrails|Redundant Multi-Agent Systems Need Sandboxed Testing and Guardrails]]
 - [[tool-design-deserves-prompt-engineering-attention|Tool design deserves prompt-engineering attention]]
 - [[high-level-trace-patterns-not-raw-transcripts-make-multi-agent-coordination-auditable|High-level trace patterns, not raw transcripts, make multi-agent coordination auditable]]
+- [[software-agents-are-autonomous-goal-directed-entities-acting-on-their-environment|Software agents are autonomous goal-directed entities acting on their environment]]
+- [[focused-multi-agent-graphs-still-drift-so-stability-needs-instrumentation|Focused multi-agent graphs still drift, so stability needs instrumentation]]
+- [[deliberate-supervision-patterns-keep-manual-coding-skills-alive-while-delegating-to-agents|Deliberate supervision patterns keep manual coding skills alive while delegating to agents]]
 
 ## Open questions
 

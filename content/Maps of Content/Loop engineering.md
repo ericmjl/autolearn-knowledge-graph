@@ -15,6 +15,16 @@
 - [[notes-on-how-we-used-agentic-ai-to-automate-fixes-for-flaky-tests|How We Used Agentic AI to Automate Fixes for Flaky Tests]]
 - [[notes-on-rethinking-the-evaluation-of-harness-evolution-for-agents|Rethinking the Evaluation of Harness Evolution for Agents]]
 - [[notes-on-reward-hacking-is-swamping-model-intelligence-gains-cursor|Reward hacking is swamping model intelligence gains · Cursor]]
+- [[notes-on-how-coding-agents-fail-their-users-a-large-scale-analysis-of-developer-agent-misalignment|How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions]]
+- [[notes-on-forest-of-thought-scaling-test-time-compute-for-enhancing-llm-reasoning|Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning]]
+- [[notes-on-writing-effective-tools-for-ai-agents|Writing effective tools for AI agents]]
+- [[notes-on-agent-drift-quantifying-behavioral-degradation-in-multi-agent-llm-systems-over-extended|Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions]]
+- [[notes-on-multi-agent-simulation-how-to-test-complex-agentic-workflows-in-a-sandbox-before-they|Multi-Agent Simulation: How to Test Complex Agentic Workflows in a Sandbox Before They Touch Production]]
+- [[notes-on-harnessopt-bench-evaluating-llms-at-harness-optimization|HarnessOpt-Bench: Evaluating LLMs at Harness Optimization]]
+- [[notes-on-monitoring-and-discovering-reward-hacking-with-internal-representations-during-llm|Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations]]
+- [[notes-on-starharness-evolving-harnesses-with-stratified-search-for-enterprise-environments|StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments]]
+- [[notes-on-bad-genius-counterfactual-guided-harness-evolution-beyond-task-specific-shortcuts|Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts]]
+- [[notes-on-the-80-problem-in-agentic-coding|The 80% Problem in Agentic Coding]]
 
 ## Notes
 
@@ -27,6 +37,15 @@
 - [[harness-evolution-makes-the-harness-itself-the-optimization-target|Harness evolution makes the harness itself the optimization target]]
 - [[zone-maps-characterization-tests-and-durable-research-artifacts-make-brownfield-changes|Zone maps, characterization tests, and durable research artifacts make brownfield changes trustworthy]]
 - [[harness-evolution-pays-off-only-with-a-dense-held-out-oracle|Harness evolution pays off only with a dense, held-out oracle]]
+- [[diversity-of-reasoning-paths-beats-deeper-search-in-one-tree|Diversity of reasoning paths beats deeper search in one tree]]
+- [[software-agents-are-autonomous-goal-directed-entities-acting-on-their-environment|Software agents are autonomous goal-directed entities acting on their environment]]
+- [[focused-multi-agent-graphs-still-drift-so-stability-needs-instrumentation|Focused multi-agent graphs still drift, so stability needs instrumentation]]
+- [[simulation-turns-multi-agent-testing-from-unit-tests-to-measured-pass-rates|Simulation turns multi-agent testing from unit tests to measured pass-rates]]
+- [[stratified-search-plus-proposer-hidden-selection-tasks-keep-harness-evolution-honest|Stratified search plus proposer-hidden selection tasks keep harness evolution honest]]
+- [[held-out-tasks-still-share-one-protocol-so-harness-gains-need-protocol-stress-tests|Held-out tasks still share one protocol, so harness gains need protocol stress-tests]]
+- [[deliberate-supervision-patterns-keep-manual-coding-skills-alive-while-delegating-to-agents|Deliberate supervision patterns keep manual coding skills alive while delegating to agents]]
+- [[held-out-gains-need-both-protocol-stress-and-a-reliability-tail|Held-out gains need both protocol stress and a reliability tail]]
+- [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
 
 ## Open questions
 

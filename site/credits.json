@@ -1,4 +1,18 @@
 {
+ "a-benchmark-for-evaluating-outcome-driven-constraint-violations-in-autonomous-ai-agents": {
+  "title": "A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents",
+  "url": "https://arxiv.org/html/2512.20798v1",
+  "authors": "Miles Q Li Affiliation School, McGill University, Montreal, Canada",
+  "publication": "arXiv",
+  "date": "2023-07-25"
+ },
+ "a-practitioner-s-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock-aws-builder-center": {
+  "title": "A Practitioner's Guide to LLM-as-a-Judge Calibration on Amazon Bedrock | AWS Builder Center",
+  "url": "https://builder.aws.com/content/3H8qTeKHyPXyLX8Nf8HTElUBZJR/a-practitioners-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock",
+  "authors": "Ester Koilis",
+  "publication": "AWS Builder Center",
+  "date": "2026-07-29"
+ },
  "a-survey-on-large-language-model-based-autonomous-agents-wang-et-al-2023": {
   "title": "A Survey on Large Language Model based Autonomous Agents (Wang et al., 2023)",
   "url": "https://arxiv.org/abs/2308.11432",
@@ -6,12 +20,47 @@
   "publication": "arXiv",
   "date": "2023-08-22"
  },
+ "agent-drift-quantifying-behavioral-degradation-in-multi-agent-llm-systems-over-extended": {
+  "title": "Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions",
+  "url": "https://arxiv.org/abs/2601.04170",
+  "authors": "Rath, Abhishek",
+  "publication": "arXiv.org",
+  "date": "2026-01-07"
+ },
+ "agent-observability-splunk": {
+  "title": "Agent Observability | Splunk",
+  "url": "https://galileo.ai/blog/llm-evaluation-step-by-step-guide",
+  "authors": "",
+  "publication": "Splunk",
+  "date": "2026-01-01"
+ },
+ "agent-sandbox-egress-control-outbound-allow-listing-blaxel": {
+  "title": "Agent Sandbox Egress Control & Outbound Allow-Listing | Blaxel",
+  "url": "https://blaxel.ai/blog/sandbox-egress-control-outbound-allow-listing",
+  "authors": "Nicolas Lecomte",
+  "publication": "Blaxel",
+  "date": "2026-06-30"
+ },
+ "agent-wikipedia": {
+  "title": "Agent - Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Agent",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2002-05-20"
+ },
  "agentic-coding-is-a-trap-lars-faye": {
   "title": "Agentic Coding is a Trap (Lars Faye)",
   "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
   "authors": "Lars Faye",
   "publication": "larsfaye.com",
   "date": "2026-04-26"
+ },
+ "agentic-misalignment-in-summer-2026": {
+  "title": "Agentic Misalignment in Summer 2026",
+  "url": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+  "authors": "Aengus Lynch, 1, John Hughes",
+  "publication": "alignment.anthropic.com",
+  "date": "2025-12-18"
  },
  "agentic-verification": {
   "title": "Agentic Verification",
@@ -34,12 +83,33 @@
   "publication": "NSFOCUS",
   "date": "2026-08-20"
  },
+ "are-ai-agents-already-more-expensive-than-the-humans-they-replace-managed-code-blog": {
+  "title": "Are AI agents already more expensive than the humans they replace? | Managed Code Blog",
+  "url": "https://managed-code.com/blog-post/are-ai-agents-more-expensive-than-humans",
+  "authors": "Konstantin Semenenko",
+  "publication": "Managed Code",
+  "date": "2026-07-08"
+ },
+ "bad-genius-counterfactual-guided-harness-evolution-beyond-task-specific-shortcuts": {
+  "title": "Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts",
+  "url": "https://arxiv.org/abs/2609.18366",
+  "authors": "Zhu, Guojun, Huang, Xunheng, Yin, Peng, Xie, Jiahui, Zhang, Sanguo, Zhou, Doudou",
+  "publication": "arXiv.org",
+  "date": "2026-09-16"
+ },
  "benchmarking-llms-and-llm-based-agents-in-practical-vulnerability-detection-for-code": {
   "title": "Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories",
   "url": "https://arxiv.org/html/2503.03586",
   "authors": "Alperen Yildiz et al.",
   "publication": "arXiv",
   "date": "2026-01-31"
+ },
+ "beyond-prompts-measuring-and-optimizing-llm-tool-agent-harnesses": {
+  "title": "Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses",
+  "url": "https://arxiv.org/html/2609.05736v2",
+  "authors": "Cen Mia Zhao",
+  "publication": "arXiv",
+  "date": "2010-12-03"
  },
  "breaking-claude-code-opus-5-auto-mode": {
   "title": "Breaking Claude Code Opus 5 Auto Mode",
@@ -104,12 +174,26 @@
   "publication": "Anthropic",
   "date": "2026-01-09"
  },
+ "designing-tools-for-agents-the-agent-computer-interface-agentengineering-org": {
+  "title": "Designing Tools for Agents: The Agent-Computer Interface | AgentEngineering.org",
+  "url": "https://agentengineering.org/articles/designing-tools-for-agents/",
+  "authors": "",
+  "publication": "AgentEngineering.org",
+  "date": "2026-10-12"
+ },
  "detect-hallucinations-for-rag-based-systems-amazon-web-services": {
   "title": "Detect hallucinations for RAG-based systems | Amazon Web Services",
   "url": "https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/",
   "authors": "",
   "publication": "Amazon Web Services",
   "date": "2025-05-16"
+ },
+ "detecting-and-preventing-distillation-attacks": {
+  "title": "Detecting and preventing distillation attacks",
+  "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2026-02-23"
  },
  "disrupting-a-coordinated-model-distillation-campaign": {
   "title": "Disrupting a coordinated model-distillation campaign",
@@ -125,6 +209,13 @@
   "publication": "Anthropic",
   "date": "2025-09-29"
  },
+ "forest-of-thought-scaling-test-time-compute-for-enhancing-llm-reasoning": {
+  "title": "Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning",
+  "url": "https://arxiv.org/html/2412.09078v5",
+  "authors": "Zhenni Bi",
+  "publication": "arXiv",
+  "date": "2024-09-12"
+ },
  "harness-engineering-for-self-improvement": {
   "title": "Harness Engineering for Self-Improvement",
   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
@@ -132,12 +223,33 @@
   "publication": "Lil'Log",
   "date": "2026-07-04"
  },
+ "harnessopt-bench-evaluating-llms-at-harness-optimization": {
+  "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+  "url": "https://arxiv.org/html/2608.06301v1",
+  "authors": "Varun Ursekar Affiliation Scale AI",
+  "publication": "arXiv",
+  "date": "2023-06-23"
+ },
+ "how-coding-agents-fail-their-users-a-large-scale-analysis-of-developer-agent-misalignment": {
+  "title": "How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions",
+  "url": "https://arxiv.org/html/2605.29442v1",
+  "authors": "Ningzhi Tang Affiliation University",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "how-public-evals-work-and-fail-and-what-should-change": {
   "title": "How Public Evals Work and Fail, and What Should Change",
   "url": "https://eugeneyan.com/writing/public-evals",
   "authors": "Eugene Yan",
   "publication": "eugeneyan.com",
   "date": "2026-11-19"
+ },
+ "how-to-evaluate-rag-faithfulness-with-llm-as-a-judge-langfuse": {
+  "title": "How to evaluate RAG faithfulness with LLM-as-a-judge - Langfuse",
+  "url": "https://langfuse.com/resources/engineering/rag-faithfulness-evaluation",
+  "authors": "",
+  "publication": "langfuse.com",
+  "date": "2026-11-11"
  },
  "how-to-use-decision-models-for-evals-hamel-s-blog": {
   "title": "How To Use Decision Models for Evals – Hamel’s Blog",
@@ -167,6 +279,13 @@
   "publication": "Simon Willison’s Weblog",
   "date": "2026-08-05"
  },
+ "introducing-the-evaluation-engine-build-high-accuracy-evaluators-and-guardrails-fitted-to": {
+  "title": "Introducing the Evaluation Engine: Build High-Accuracy Evaluators and Guardrails Fitted to Your Agents | Splunk",
+  "url": "https://www.splunk.com/en_us/blog/artificial-intelligence/introducing-evaluation-engine.html",
+  "authors": "Paul Lacey, Pratik Bhavsar",
+  "publication": "Splunk",
+  "date": "2026-11-10"
+ },
  "karpathy-on-coding-with-claude-and-leverage-x-post": {
   "title": "Karpathy on coding with Claude and leverage (X post)",
   "url": "https://x.com/karpathy/status/2015883857489522876",
@@ -188,12 +307,40 @@
   "publication": "Wikipedia",
   "date": "2023-03-09"
  },
+ "llm-judge-calibration-measure-correct-and-report-mlflow": {
+  "title": "LLM Judge Calibration: Measure, Correct and Report | MLflow",
+  "url": "https://mlflow.org/articles/llm-judge-calibration/",
+  "authors": "",
+  "publication": "MLflow AI Platform",
+  "date": "2026-10-29"
+ },
  "llm-wiki-pattern-andrej-karpathy": {
   "title": "LLM Wiki pattern (Andrej Karpathy)",
   "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
   "authors": "Andrej Karpathy",
   "publication": "Gist",
   "date": "2026-10-05"
+ },
+ "monitoring-and-discovering-reward-hacking-with-internal-representations-during-llm": {
+  "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+  "url": "https://arxiv.org/html/2609.19101v2",
+  "authors": "Abdelnabi, Salem",
+  "publication": "arXiv",
+  "date": "2026-05-04"
+ },
+ "multi-agent-handoff-patterns-that-actually-work": {
+  "title": "Multi-Agent Handoff Patterns That Actually Work",
+  "url": "https://www.orzed.com/insights/multi-agent-handoff-patterns-that-actually-work",
+  "authors": "ORZED LLC",
+  "publication": "Orzed",
+  "date": "2026-04-18"
+ },
+ "multi-agent-simulation-how-to-test-complex-agentic-workflows-in-a-sandbox-before-they": {
+  "title": "Multi-Agent Simulation: How to Test Complex Agentic Workflows in a Sandbox Before They Touch Production",
+  "url": "https://agentswarms.fyi/blog/multi-agent-simulation-testing-agentic-workflows-sandbox",
+  "authors": "AgentSwarms Authors",
+  "publication": "AgentSwarms",
+  "date": "2026-07-05"
  },
  "multi-agent-system-wikipedia": {
   "title": "Multi-agent system (Wikipedia)",
@@ -208,6 +355,20 @@
   "authors": "Addy Osmani",
   "publication": "AddyOsmani.com",
   "date": "2026-01-04"
+ },
+ "openai-s-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed": {
+  "title": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed",
+  "url": "https://www.csoonline.com/article/4240662/openais-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed.html",
+  "authors": "Evan Schuman",
+  "publication": "CSO Online",
+  "date": "2026-10-26"
+ },
+ "oversight-wikipedia": {
+  "title": "Oversight - Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Oversight",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2005-11-09"
  },
  "patterns-for-building-cybersecurity-evals": {
   "title": "Patterns for Building Cybersecurity Evals",
@@ -258,12 +419,26 @@
   "publication": "Cursor",
   "date": "2026-06-25"
  },
+ "safe-multi-agent-behavior-must-be-maintained-not-merely-asserted-constraint-drift-in-llm": {
+  "title": "Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems",
+  "url": "https://arxiv.org/html/2605.10481v1",
+  "authors": "J Achiam, D Held, A Tamar, P Abbeel",
+  "publication": "arXiv",
+  "date": "2012-11-23"
+ },
  "self-generated-prompt-injections-in-compaction-summaries": {
   "title": "Self-generated prompt injections in compaction summaries",
   "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
   "authors": "Simon Willison",
   "publication": "Simon Willison’s Weblog",
   "date": "2026-09-17"
+ },
+ "sentinelagent-graph-based-anomaly-detection-in-llm-based-multi-agent-systems": {
+  "title": "SentinelAgent: Graph-based Anomaly Detection in LLM-based Multi-Agent Systems",
+  "url": "https://arxiv.org/html/2505.24201v1",
+  "authors": "Xu He Affiliation Visa Inc",
+  "publication": "arXiv",
+  "date": "2025-05-19"
  },
  "software-agent-wikipedia": {
   "title": "Software agent (Wikipedia)",
@@ -272,12 +447,54 @@
   "publication": "Wikipedia",
   "date": "2004-01-14"
  },
+ "starharness-evolving-harnesses-with-stratified-search-for-enterprise-environments": {
+  "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+  "url": "https://arxiv.org/html/2608.24804v1",
+  "authors": "Esakkivel Esakkiraja",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "stealing-reasoning-traces-from-proprietary-llm-apis": {
   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
   "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
   "authors": "Simon Willison",
   "publication": "Simon Willison’s Weblog",
   "date": "2026-08-11"
+ },
+ "stolen-thoughts-how-encrypted-ai-reasoning-leaked-api-keys-and-passwords": {
+  "title": "Stolen Thoughts: How Encrypted AI Reasoning Leaked API Keys and Passwords",
+  "url": "https://profero.io/blog/stolen-thoughts/",
+  "authors": "Guy Barnhart-Magen",
+  "publication": "Profero | Rapid-IR",
+  "date": "2026-08-13"
+ },
+ "task-specific-llm-evals-that-do-don-t-work": {
+  "title": "Task-Specific LLM Evals that Do & Don't Work",
+  "url": "https://eugeneyan.com/writing/evals/",
+  "authors": "Eugene Yan",
+  "publication": "eugeneyan.com",
+  "date": "2024-03-31"
+ },
+ "test-wikipedia": {
+  "title": "Test - Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Test",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2002-02-15"
+ },
+ "the-80-problem-in-agentic-coding": {
+  "title": "The 80% Problem in Agentic Coding",
+  "url": "https://addyo.substack.com/p/the-80-problem-in-agentic-coding",
+  "authors": "Addy Osmani",
+  "publication": "Elevate",
+  "date": "2026-01-28"
+ },
+ "the-agent-access-model": {
+  "title": "The Agent Access Model",
+  "url": "https://blog.cloudflare.com/the-agent-access-model",
+  "authors": "",
+  "publication": "Cloudflare Blog",
+  "date": "2026-08-05"
  },
  "the-lethal-trifecta-for-ai-agents-simon-willison": {
   "title": "The lethal trifecta for AI agents (Simon Willison)",
@@ -286,12 +503,33 @@
   "publication": "Simon Willison’s Weblog",
   "date": "2025-06-16"
  },
+ "token-level-truth-real-time-hallucination-detection-for-production-llms": {
+  "title": "Token-Level Truth: Real-Time Hallucination Detection for Production LLMs",
+  "url": "https://vllm.ai/blog/2025-12-14-halugate",
+  "authors": "Vllm Team, Vllm Semantic Router Team",
+  "publication": "Vllm Project",
+  "date": "2025-12-14"
+ },
  "tree-of-thoughts-deliberate-problem-solving-with-large-language-models": {
   "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
   "url": "https://arxiv.org/abs/2305.10601",
   "authors": "Shunyu Yao et al.",
   "publication": "arXiv",
   "date": "2023-05-17"
+ },
+ "what-your-agent-sandbox-can-reach-by-default-workos": {
+  "title": "What your agent sandbox can reach by default — WorkOS",
+  "url": "https://workos.com/blog/agent-sandbox-egress-defaults",
+  "authors": "Maria Paktiti",
+  "publication": "workos.com",
+  "date": "2026-09-15"
+ },
+ "writing-effective-tools-for-ai-agents": {
+  "title": "Writing effective tools for AI agents",
+  "url": "https://www.anthropic.com/research/writing-tools-for-agents",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2025-09-11"
  },
  "your-ai-product-needs-evals-hamel-husain": {
   "title": "Your AI Product Needs Evals (Hamel Husain)",
