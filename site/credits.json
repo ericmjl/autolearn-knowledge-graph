@@ -237,6 +237,13 @@
   "publication": "arXiv",
   "date": "2026-01-31"
  },
+ "how-cresta-grades-its-ai-agent-evaluators": {
+  "title": "How Cresta Grades Its AI Agent Evaluators",
+  "url": "https://cresta.com/blog/how-cresta-grades-its-agents-evaluators-in-an-llm-world",
+  "authors": "Lillian Zhao",
+  "publication": "Cresta",
+  "date": "2026-08-03"
+ },
  "how-public-evals-work-and-fail-and-what-should-change": {
   "title": "How Public Evals Work and Fail, and What Should Change",
   "url": "https://eugeneyan.com/writing/public-evals",
