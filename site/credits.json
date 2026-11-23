@@ -321,6 +321,13 @@
   "publication": "MLflow AI Platform",
   "date": "2026-10-29"
  },
+ "llm-knowledge-base-freshness-scoring-metrics-and-framework": {
+  "title": "LLM Knowledge Base Freshness Scoring: Metrics and Framework",
+  "url": "https://atlan.com/know/llm-knowledge-base-freshness-scoring/",
+  "authors": "Emily Winks",
+  "publication": "Atlan",
+  "date": "2026-04-14"
+ },
  "llm-wiki-pattern-andrej-karpathy": {
   "title": "LLM Wiki pattern (Andrej Karpathy)",
   "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",

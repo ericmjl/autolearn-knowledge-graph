@@ -21,6 +21,7 @@
 - [[notes-on-token-level-truth-real-time-hallucination-detection-for-production-llms|Token-Level Truth: Real-Time Hallucination Detection for Production LLMs]]
 - [[notes-on-a-practitioner-s-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock-aws-builder-center|A Practitioner's Guide to LLM-as-a-Judge Calibration on Amazon Bedrock | AWS Builder Center]]
 - [[notes-on-how-cresta-grades-its-ai-agent-evaluators|How Cresta Grades Its AI Agent Evaluators]]
+- [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
 
 ## Notes
 
@@ -54,6 +55,7 @@
 - [[token-level-detection-with-nli-explanation-beats-sentence-level-judging-at-production|Token-level detection with NLI explanation beats sentence-level judging at production volume]]
 - [[calibrated-judges-not-trusted-ones-keep-evaluation-honest|Calibrated judges, not trusted ones, keep evaluation honest]]
 - [[production-trajectory-evaluation-stacks-deterministic-and-llm-judges|Production trajectory evaluation stacks deterministic and LLM judges]]
+- [[freshness-is-a-governance-layer-that-grounding-and-faithfulness-cannot-see|Freshness is a governance layer that grounding and faithfulness cannot see]]
 
 ## Open questions
 

@@ -7,6 +7,7 @@
 - [[notes-on-context-rot-how-increasing-input-tokens-impacts-llm-performance|Context Rot: How Increasing Input Tokens Impacts LLM Performance]]
 - [[notes-on-designing-tools-for-agents-the-agent-computer-interface-agentengineering-org|Designing Tools for Agents: The Agent-Computer Interface | AgentEngineering.org]]
 - [[notes-on-beyond-prompts-measuring-and-optimizing-llm-tool-agent-harnesses|Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses]]
+- [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
 
 ## Notes
 
@@ -18,6 +19,7 @@
 - [[the-focused-vs-full-prompt-gap-is-the-metric-that-tells-you-which-tokens-carry-signal|The focused-vs-full prompt gap is the metric that tells you which tokens carry signal]]
 - [[well-crafted-tool-interfaces-rival-model-choice|Well-crafted tool interfaces rival model choice]]
 - [[short-lived-task-scoped-credentials-beat-standing-keys-at-the-tool-boundary|Short-lived task-scoped credentials beat standing keys at the tool boundary]]
+- [[freshness-is-a-governance-layer-that-grounding-and-faithfulness-cannot-see|Freshness is a governance layer that grounding and faithfulness cannot see]]
 
 ## Open questions
 
