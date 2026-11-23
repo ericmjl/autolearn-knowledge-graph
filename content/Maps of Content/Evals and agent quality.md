@@ -22,6 +22,7 @@
 - [[notes-on-a-practitioner-s-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock-aws-builder-center|A Practitioner's Guide to LLM-as-a-Judge Calibration on Amazon Bedrock | AWS Builder Center]]
 - [[notes-on-how-cresta-grades-its-ai-agent-evaluators|How Cresta Grades Its AI Agent Evaluators]]
 - [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
+- [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
 
 ## Notes
 

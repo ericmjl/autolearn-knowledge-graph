@@ -18,6 +18,7 @@
 - [[notes-on-agentic-misalignment-in-summer-2026|Agentic Misalignment in Summer 2026]]
 - [[notes-on-the-agent-access-model|The Agent Access Model]]
 - [[notes-on-safe-multi-agent-behavior-must-be-maintained-not-merely-asserted-constraint-drift-in-llm|Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems]]
+- [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
 
 ## Notes
 
@@ -40,6 +41,7 @@
 - [[egress-allowlists-must-be-read-justified-and-paired-with-per-agent-credentials|Egress allowlists must be read, justified, and paired with per-agent credentials]]
 - [[short-lived-task-scoped-credentials-beat-standing-keys-at-the-tool-boundary|Short-lived task-scoped credentials beat standing keys at the tool boundary]]
 - [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
+- [[two-config-files-make-sandboxed-cyber-evals-reproducible|Two config files make sandboxed cyber evals reproducible]]
 
 ## Open questions
 
