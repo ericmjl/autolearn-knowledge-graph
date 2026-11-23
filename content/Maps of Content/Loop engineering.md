@@ -25,6 +25,7 @@
 - [[notes-on-starharness-evolving-harnesses-with-stratified-search-for-enterprise-environments|StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments]]
 - [[notes-on-bad-genius-counterfactual-guided-harness-evolution-beyond-task-specific-shortcuts|Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts]]
 - [[notes-on-the-80-problem-in-agentic-coding|The 80% Problem in Agentic Coding]]
+- [[notes-on-skill-atrophy-when-ai-reliance-erodes-developer-capability-agentpatterns-ai|Skill Atrophy: When AI Reliance Erodes Developer Capability — AgentPatterns.ai]]
 
 ## Notes
 
