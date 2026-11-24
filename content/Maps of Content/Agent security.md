@@ -19,6 +19,7 @@
 - [[notes-on-the-agent-access-model|The Agent Access Model]]
 - [[notes-on-safe-multi-agent-behavior-must-be-maintained-not-merely-asserted-constraint-drift-in-llm|Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems]]
 - [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
+- [[notes-on-models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire|Models know when they’re reward hacking — and we can catch them at scale - Goodfire]]
 
 ## Notes
 

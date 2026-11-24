@@ -342,6 +342,13 @@
   "publication": "Gist",
   "date": "2026-10-05"
  },
+ "models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire": {
+  "title": "Models know when they’re reward hacking — and we can catch them at scale - Goodfire",
+  "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+  "authors": "Andrew Lee",
+  "publication": "Goodfire",
+  "date": "2026-09-17"
+ },
  "monitoring-and-discovering-reward-hacking-with-internal-representations-during-llm": {
   "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
   "url": "https://arxiv.org/html/2609.19101v2",
