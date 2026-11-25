@@ -26,6 +26,7 @@
 - [[notes-on-what-we-learned-evaluating-an-llm-classifier-and-a-code-parser-against-their-previous|What we learned evaluating an LLM classifier and a code parser against their previous results | Endor Labs]]
 - [[notes-on-stop-flaky-ai-agent-evals-from-gating-releases|Stop Flaky AI Agent Evals From Gating Releases]]
 - [[notes-on-how-we-detect-frontier-model-misalignment|How we detect frontier model misalignment]]
+- [[notes-on-reliability-without-validity-a-systematic-large-scale-evaluation-of-llm-as-a-judge-models|Reliability without Validity: A Systematic, Large-Scale Evaluation of LLM-as-a-Judge Models Across Agreement, Consistency, and Bias]]
 
 ## Notes
 
@@ -62,6 +63,7 @@
 - [[freshness-is-a-governance-layer-that-grounding-and-faithfulness-cannot-see|Freshness is a governance layer that grounding and faithfulness cannot see]]
 - [[eval-graders-should-turn-scores-into-a-baseline-decision-not-a-headline|Eval graders should turn scores into a baseline decision, not a headline]]
 - [[repeated-paired-trials-beat-single-run-release-gates|Repeated paired trials beat single-run release gates]]
+- [[claim-level-judges-need-repeated-re-validation-not-one-time-calibration|Claim-level judges need repeated re-validation, not one-time calibration]]
 
 ## Open questions
 

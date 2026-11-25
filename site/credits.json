@@ -426,6 +426,13 @@
   "publication": "arXiv",
   "date": "2022-10-06"
  },
+ "reliability-without-validity-a-systematic-large-scale-evaluation-of-llm-as-a-judge-models": {
+  "title": "Reliability without Validity: A Systematic, Large-Scale Evaluation of LLM-as-a-Judge Models Across Agreement, Consistency, and Bias",
+  "url": "https://arxiv.org/html/2606.19544v1",
+  "authors": "Justin D Norman Affiliation justin norman, Michaelrivera, Dhughes Edu",
+  "publication": "arXiv",
+  "date": "2025-05-14"
+ },
  "rethinking-the-evaluation-of-harness-evolution-for-agents": {
   "title": "Rethinking the Evaluation of Harness Evolution for Agents",
   "url": "https://arxiv.org/html/2607.12227v4",
