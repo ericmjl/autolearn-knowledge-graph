@@ -8,6 +8,7 @@
 - [[notes-on-designing-tools-for-agents-the-agent-computer-interface-agentengineering-org|Designing Tools for Agents: The Agent-Computer Interface | AgentEngineering.org]]
 - [[notes-on-beyond-prompts-measuring-and-optimizing-llm-tool-agent-harnesses|Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses]]
 - [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
+- [[notes-on-building-a-least-privilege-ai-agent-gateway-for-infrastructure-automation-with-mcp-opa|Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners]]
 
 ## Notes
 

@@ -19,6 +19,7 @@
 - [[notes-on-multi-agent-simulation-how-to-test-complex-agentic-workflows-in-a-sandbox-before-they|Multi-Agent Simulation: How to Test Complex Agentic Workflows in a Sandbox Before They Touch Production]]
 - [[notes-on-the-80-problem-in-agentic-coding|The 80% Problem in Agentic Coding]]
 - [[notes-on-how-many-of-your-agent-s-calls-actually-need-a-frontier-model|How many of your agent's calls actually need a frontier model?]]
+- [[notes-on-building-a-least-privilege-ai-agent-gateway-for-infrastructure-automation-with-mcp-opa|Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners]]
 
 ## Notes
 
@@ -33,6 +34,7 @@
 - [[software-agents-are-autonomous-goal-directed-entities-acting-on-their-environment|Software agents are autonomous goal-directed entities acting on their environment]]
 - [[focused-multi-agent-graphs-still-drift-so-stability-needs-instrumentation|Focused multi-agent graphs still drift, so stability needs instrumentation]]
 - [[deliberate-supervision-patterns-keep-manual-coding-skills-alive-while-delegating-to-agents|Deliberate supervision patterns keep manual coding skills alive while delegating to agents]]
+- [[a-least-privilege-agent-gateway-enforces-policy-outside-the-execution-path|A least-privilege agent gateway enforces policy outside the execution path]]
 
 ## Open questions
 

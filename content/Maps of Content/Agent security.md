@@ -47,6 +47,7 @@
 - [[two-config-files-make-sandboxed-cyber-evals-reproducible|Two config files make sandboxed cyber evals reproducible]]
 - [[probe-flags-trigger-pauses-and-escalations-in-production-not-just-logs|Probe flags trigger pauses and escalations in production, not just logs]]
 - [[stage-mcp-agent-work-so-no-stage-holds-all-three-trifecta-factors|Stage MCP agent work so no stage holds all three trifecta factors]]
+- [[a-least-privilege-agent-gateway-enforces-policy-outside-the-execution-path|A least-privilege agent gateway enforces policy outside the execution path]]
 
 ## Open questions
 

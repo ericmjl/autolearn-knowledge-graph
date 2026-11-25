@@ -132,6 +132,13 @@
   "publication": "Elevate",
   "date": "2026-09-14"
  },
+ "building-a-least-privilege-ai-agent-gateway-for-infrastructure-automation-with-mcp-opa": {
+  "title": "Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners",
+  "url": "https://www.infoq.com/articles/building-ai-agent-gateway-mcp/",
+  "authors": "Nabin Debnath",
+  "publication": "InfoQ",
+  "date": "2026-02-23"
+ },
  "building-effective-agents-anthropic": {
   "title": "Building effective agents (Anthropic)",
   "url": "https://blog.anthropic.com/building-effective-agents",
