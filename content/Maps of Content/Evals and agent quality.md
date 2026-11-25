@@ -24,6 +24,7 @@
 - [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
 - [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
 - [[notes-on-what-we-learned-evaluating-an-llm-classifier-and-a-code-parser-against-their-previous|What we learned evaluating an LLM classifier and a code parser against their previous results | Endor Labs]]
+- [[notes-on-stop-flaky-ai-agent-evals-from-gating-releases|Stop Flaky AI Agent Evals From Gating Releases]]
 
 ## Notes
 
@@ -59,6 +60,7 @@
 - [[production-trajectory-evaluation-stacks-deterministic-and-llm-judges|Production trajectory evaluation stacks deterministic and LLM judges]]
 - [[freshness-is-a-governance-layer-that-grounding-and-faithfulness-cannot-see|Freshness is a governance layer that grounding and faithfulness cannot see]]
 - [[eval-graders-should-turn-scores-into-a-baseline-decision-not-a-headline|Eval graders should turn scores into a baseline decision, not a headline]]
+- [[repeated-paired-trials-beat-single-run-release-gates|Repeated paired trials beat single-run release gates]]
 
 ## Open questions
 

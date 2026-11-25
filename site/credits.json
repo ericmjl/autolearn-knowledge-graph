@@ -503,6 +503,13 @@
   "publication": "Profero | Rapid-IR",
   "date": "2026-08-13"
  },
+ "stop-flaky-ai-agent-evals-from-gating-releases": {
+  "title": "Stop Flaky AI Agent Evals From Gating Releases",
+  "url": "https://makeyouragent.ai/blog/stop-flaky-ai-agent-evals-release-gates",
+  "authors": "",
+  "publication": "Make Your Agent",
+  "date": "2026-11-09"
+ },
  "task-specific-llm-evals-that-do-don-t-work": {
   "title": "Task-Specific LLM Evals that Do & Don't Work",
   "url": "https://eugeneyan.com/writing/evals/",
