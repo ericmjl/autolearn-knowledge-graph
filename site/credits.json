@@ -552,6 +552,13 @@
   "publication": "arXiv",
   "date": "2023-05-17"
  },
+ "what-we-learned-evaluating-an-llm-classifier-and-a-code-parser-against-their-previous": {
+  "title": "What we learned evaluating an LLM classifier and a code parser against their previous results | Endor Labs",
+  "url": "https://www.endorlabs.com/learn/why-evals-are-the-missing-layer-in-integration-testing",
+  "authors": "Endor Labs",
+  "publication": "Endor Labs",
+  "date": "2026-11-18"
+ },
  "what-your-agent-sandbox-can-reach-by-default-workos": {
   "title": "What your agent sandbox can reach by default — WorkOS",
   "url": "https://workos.com/blog/agent-sandbox-egress-defaults",
