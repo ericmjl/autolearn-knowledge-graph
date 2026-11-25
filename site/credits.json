@@ -363,6 +363,13 @@
   "publication": "Wikipedia",
   "date": "2023-03-09"
  },
+ "llm-as-judge-best-practices-in-2026-calibration-bias-and-cost": {
+  "title": "LLM-as-Judge Best Practices in 2026: Calibration, Bias, and Cost",
+  "url": "https://futureagi.com/blog/llm-as-judge-best-practices-2026/",
+  "authors": "Vrinda Damani",
+  "publication": "Future AGI",
+  "date": "2025-12-08"
+ },
  "llm-judge-calibration-measure-correct-and-report-mlflow": {
   "title": "LLM Judge Calibration: Measure, Correct and Report | MLflow",
   "url": "https://mlflow.org/articles/llm-judge-calibration/",
