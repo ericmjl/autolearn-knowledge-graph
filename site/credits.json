@@ -517,6 +517,13 @@
   "publication": "arXiv",
   "date": "2020-05-22"
  },
+ "retrieval-augmented-generation-rag-security-cheat-sheet": {
+  "title": "Retrieval-Augmented Generation (RAG) Security Cheat Sheet¶",
+  "url": "https://cheatsheetseries.owasp.org/cheatsheets/RAG_Security_Cheat_Sheet.html",
+  "authors": "",
+  "publication": "cheatsheetseries.owasp.org",
+  "date": "2004-01-01"
+ },
  "retrieval-augmented-generation-wikipedia": {
   "title": "Retrieval-augmented generation (Wikipedia)",
   "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",

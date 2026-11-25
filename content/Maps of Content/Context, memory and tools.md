@@ -23,6 +23,7 @@
 - [[short-lived-task-scoped-credentials-beat-standing-keys-at-the-tool-boundary|Short-lived task-scoped credentials beat standing keys at the tool boundary]]
 - [[freshness-is-a-governance-layer-that-grounding-and-faithfulness-cannot-see|Freshness is a governance layer that grounding and faithfulness cannot see]]
 - [[clearing-compaction-and-memory-divide-context-management-by-failure-mode|Clearing, compaction, and memory divide context management by failure mode]]
+- [[grounding-holds-only-when-every-rag-stage-fails-closed|Grounding holds only when every RAG stage fails closed]]
 
 ## Open questions
 
