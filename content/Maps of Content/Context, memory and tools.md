@@ -9,6 +9,7 @@
 - [[notes-on-beyond-prompts-measuring-and-optimizing-llm-tool-agent-harnesses|Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses]]
 - [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
 - [[notes-on-building-a-least-privilege-ai-agent-gateway-for-infrastructure-automation-with-mcp-opa|Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners]]
+- [[notes-on-context-engineering-memory-compaction-and-tool-clearing-claude-cookbook|Context engineering: memory, compaction, and tool clearing | Claude Cookbook]]
 
 ## Notes
 
@@ -21,6 +22,7 @@
 - [[well-crafted-tool-interfaces-rival-model-choice|Well-crafted tool interfaces rival model choice]]
 - [[short-lived-task-scoped-credentials-beat-standing-keys-at-the-tool-boundary|Short-lived task-scoped credentials beat standing keys at the tool boundary]]
 - [[freshness-is-a-governance-layer-that-grounding-and-faithfulness-cannot-see|Freshness is a governance layer that grounding and faithfulness cannot see]]
+- [[clearing-compaction-and-memory-divide-context-management-by-failure-mode|Clearing, compaction, and memory divide context management by failure mode]]
 
 ## Open questions
 
