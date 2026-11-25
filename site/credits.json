@@ -83,6 +83,13 @@
   "publication": "Elevate",
   "date": "2026-10-14"
  },
+ "ai-agent-evaluations-task-suites-and-pass-criteria": {
+  "title": "AI Agent Evaluations: Task Suites and Pass Criteria",
+  "url": "https://levystreet.com/engineering/ai-agent-evaluations/",
+  "authors": "",
+  "publication": "Levy Street",
+  "date": "2026-10-19"
+ },
  "ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan": {
   "title": "AI Agents That Matter (Kapoor, Stroebl, Siegel, Nadgir, Narayanan)",
   "url": "https://arxiv.org/abs/2407.01502",
