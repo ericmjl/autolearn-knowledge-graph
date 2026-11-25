@@ -29,6 +29,7 @@
 - [[notes-on-reliability-without-validity-a-systematic-large-scale-evaluation-of-llm-as-a-judge-models|Reliability without Validity: A Systematic, Large-Scale Evaluation of LLM-as-a-Judge Models Across Agreement, Consistency, and Bias]]
 - [[notes-on-1-introduction|1 Introduction]]
 - [[notes-on-llm-as-judge-best-practices-in-2026-calibration-bias-and-cost|LLM-as-Judge Best Practices in 2026: Calibration, Bias, and Cost]]
+- [[notes-on-mastering-rag-8-failure-modes-to-evaluate-before-going-to-production-splunk|Mastering RAG: 8 Failure Modes to Evaluate Before Going to Production | Splunk]]
 
 ## Notes
 
@@ -67,6 +68,7 @@
 - [[repeated-paired-trials-beat-single-run-release-gates|Repeated paired trials beat single-run release gates]]
 - [[claim-level-judges-need-repeated-re-validation-not-one-time-calibration|Claim-level judges need repeated re-validation, not one-time calibration]]
 - [[monthly-calibration-cadence-with-a-quarterly-refreshed-gold-set-keeps-llm-judges-honest|Monthly calibration cadence with a quarterly-refreshed gold-set keeps LLM judges honest]]
+- [[grounding-improves-when-hallucination-is-scored-per-failure-mode|Grounding improves when hallucination is scored per failure mode]]
 
 ## Open questions
 

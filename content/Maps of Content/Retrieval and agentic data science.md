@@ -17,6 +17,7 @@
 - [[grounding-reduces-hallucination-but-cannot-eliminate-it|Grounding reduces hallucination but cannot eliminate it]]
 - [[compiled-wiki-trades-per-query-retrieval-for-persistent-knowledge|Compiled wiki trades per-query retrieval for persistent knowledge]]
 - [[adaptive-interleaved-retrieval-beats-static-cot-on-context-dependent-discrimination|Adaptive interleaved retrieval beats static CoT on context-dependent discrimination]]
+- [[grounding-improves-when-hallucination-is-scored-per-failure-mode|Grounding improves when hallucination is scored per failure mode]]
 
 ## Open questions
 

@@ -412,6 +412,13 @@
   "publication": "Gist",
   "date": "2026-10-05"
  },
+ "mastering-rag-8-failure-modes-to-evaluate-before-going-to-production-splunk": {
+  "title": "Mastering RAG: 8 Failure Modes to Evaluate Before Going to Production | Splunk",
+  "url": "https://www.splunk.com/en_us/blog/artificial-intelligence/rag-failure-modes.html",
+  "authors": "Pratik Bhavsar",
+  "publication": "Splunk",
+  "date": "2026-09-07"
+ },
  "models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire": {
   "title": "Models know when they’re reward hacking — and we can catch them at scale - Goodfire",
   "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
