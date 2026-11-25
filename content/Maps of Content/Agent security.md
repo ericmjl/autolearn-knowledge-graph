@@ -20,6 +20,7 @@
 - [[notes-on-safe-multi-agent-behavior-must-be-maintained-not-merely-asserted-constraint-drift-in-llm|Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems]]
 - [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
 - [[notes-on-models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire|Models know when they’re reward hacking — and we can catch them at scale - Goodfire]]
+- [[notes-on-how-we-detect-frontier-model-misalignment|How we detect frontier model misalignment]]
 
 ## Notes
 
@@ -43,6 +44,7 @@
 - [[short-lived-task-scoped-credentials-beat-standing-keys-at-the-tool-boundary|Short-lived task-scoped credentials beat standing keys at the tool boundary]]
 - [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
 - [[two-config-files-make-sandboxed-cyber-evals-reproducible|Two config files make sandboxed cyber evals reproducible]]
+- [[probe-flags-trigger-pauses-and-escalations-in-production-not-just-logs|Probe flags trigger pauses and escalations in production, not just logs]]
 
 ## Open questions
 

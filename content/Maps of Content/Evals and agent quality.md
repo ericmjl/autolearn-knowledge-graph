@@ -25,6 +25,7 @@
 - [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
 - [[notes-on-what-we-learned-evaluating-an-llm-classifier-and-a-code-parser-against-their-previous|What we learned evaluating an LLM classifier and a code parser against their previous results | Endor Labs]]
 - [[notes-on-stop-flaky-ai-agent-evals-from-gating-releases|Stop Flaky AI Agent Evals From Gating Releases]]
+- [[notes-on-how-we-detect-frontier-model-misalignment|How we detect frontier model misalignment]]
 
 ## Notes
 

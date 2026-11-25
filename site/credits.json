@@ -272,6 +272,13 @@
   "publication": "Anthropic",
   "date": "2025-06-13"
  },
+ "how-we-detect-frontier-model-misalignment": {
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+  "authors": "",
+  "publication": "OpenAI",
+  "date": "2026-10-29"
+ },
  "how-we-used-agentic-ai-to-automate-fixes-for-flaky-tests": {
   "title": "How We Used Agentic AI to Automate Fixes for Flaky Tests",
   "url": "https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests",
