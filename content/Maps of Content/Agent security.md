@@ -23,6 +23,7 @@
 - [[notes-on-how-we-detect-frontier-model-misalignment|How we detect frontier model misalignment]]
 - [[notes-on-agentic-ai-and-security|Agentic AI and Security]]
 - [[notes-on-when-the-ai-agent-can-edit-the-evidence-workos|When the AI agent can edit the evidence — WorkOS]]
+- [[notes-on-anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-of-the-july-2026-incident|Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident]]
 
 ## Notes
 
@@ -50,6 +51,7 @@
 - [[stage-mcp-agent-work-so-no-stage-holds-all-three-trifecta-factors|Stage MCP agent work so no stage holds all three trifecta factors]]
 - [[a-least-privilege-agent-gateway-enforces-policy-outside-the-execution-path|A least-privilege agent gateway enforces policy outside the execution path]]
 - [[audit-records-must-live-outside-the-agent-s-boundary|Audit records must live outside the agent's boundary]]
+- [[machine-speed-campaigns-evade-naive-log-scans-so-recovery-needs-ai-assisted-reconstruction|Machine-speed campaigns evade naive log scans, so recovery needs AI-assisted reconstruction]]
 
 ## Open questions
 

@@ -97,6 +97,13 @@
   "publication": "NSFOCUS",
   "date": "2026-08-20"
  },
+ "anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-of-the-july-2026-incident": {
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "authors": "Hugo Larcher, Adrien, Raphael G, Christophe Rannou",
+  "publication": "Huggingface",
+  "date": "2026-07-27"
+ },
  "are-ai-agents-already-more-expensive-than-the-humans-they-replace-managed-code-blog": {
   "title": "Are AI agents already more expensive than the humans they replace? | Managed Code Blog",
   "url": "https://managed-code.com/blog-post/are-ai-agents-more-expensive-than-humans",
