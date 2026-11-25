@@ -24,6 +24,7 @@
 - [[notes-on-agentic-ai-and-security|Agentic AI and Security]]
 - [[notes-on-when-the-ai-agent-can-edit-the-evidence-workos|When the AI agent can edit the evidence — WorkOS]]
 - [[notes-on-anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-of-the-july-2026-incident|Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident]]
+- [[notes-on-combatting-adversarial-distillation|Combatting adversarial distillation]]
 
 ## Notes
 
