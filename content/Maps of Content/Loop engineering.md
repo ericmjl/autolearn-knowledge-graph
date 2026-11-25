@@ -27,6 +27,7 @@
 - [[notes-on-the-80-problem-in-agentic-coding|The 80% Problem in Agentic Coding]]
 - [[notes-on-skill-atrophy-when-ai-reliance-erodes-developer-capability-agentpatterns-ai|Skill Atrophy: When AI Reliance Erodes Developer Capability — AgentPatterns.ai]]
 - [[notes-on-models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire|Models know when they’re reward hacking — and we can catch them at scale - Goodfire]]
+- [[notes-on-1-introduction|1 Introduction]]
 
 ## Notes
 
@@ -48,6 +49,7 @@
 - [[deliberate-supervision-patterns-keep-manual-coding-skills-alive-while-delegating-to-agents|Deliberate supervision patterns keep manual coding skills alive while delegating to agents]]
 - [[held-out-gains-need-both-protocol-stress-and-a-reliability-tail|Held-out gains need both protocol stress and a reliability tail]]
 - [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
+- [[harness-evolution-pays-off-only-with-a-dense-held-out-oracle|Harness evolution adapts on dense execution traces, gated by held-out oracles]]
 
 ## Open questions
 

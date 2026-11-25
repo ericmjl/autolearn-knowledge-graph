@@ -1,4 +1,11 @@
 {
+ "1-introduction": {
+  "title": "1 Introduction",
+  "url": "https://arxiv.org/html/2607.08124v3",
+  "authors": "Jun Nie, Yonggang Zhang, Jun Song, Qianshu Cai, Dahai Yu, Yike Guo, Xinmei Tian, Bo Han",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "a-benchmark-for-evaluating-outcome-driven-constraint-violations-in-autonomous-ai-agents": {
   "title": "A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents",
   "url": "https://arxiv.org/html/2512.20798v1",
