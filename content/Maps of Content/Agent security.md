@@ -21,6 +21,7 @@
 - [[notes-on-inspect-cyber-a-new-standard-for-agentic-cyber-evaluations-aisi-work|Inspect Cyber: A New Standard for Agentic Cyber Evaluations | AISI Work]]
 - [[notes-on-models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire|Models know when they’re reward hacking — and we can catch them at scale - Goodfire]]
 - [[notes-on-how-we-detect-frontier-model-misalignment|How we detect frontier model misalignment]]
+- [[notes-on-agentic-ai-and-security|Agentic AI and Security]]
 
 ## Notes
 
@@ -45,6 +46,7 @@
 - [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
 - [[two-config-files-make-sandboxed-cyber-evals-reproducible|Two config files make sandboxed cyber evals reproducible]]
 - [[probe-flags-trigger-pauses-and-escalations-in-production-not-just-logs|Probe flags trigger pauses and escalations in production, not just logs]]
+- [[stage-mcp-agent-work-so-no-stage-holds-all-three-trifecta-factors|Stage MCP agent work so no stage holds all three trifecta factors]]
 
 ## Open questions
 

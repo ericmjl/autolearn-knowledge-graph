@@ -48,6 +48,13 @@
   "publication": "Wikipedia",
   "date": "2002-05-20"
  },
+ "agentic-ai-and-security": {
+  "title": "Agentic AI and Security",
+  "url": "https://martinfowler.com/articles/agentic-ai-security.html",
+  "authors": "Korny Sietsma Geek, Parent, Coder, Aussie living",
+  "publication": "martinfowler.com",
+  "date": "2025-10-28"
+ },
  "agentic-coding-is-a-trap-lars-faye": {
   "title": "Agentic Coding is a Trap (Lars Faye)",
   "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
