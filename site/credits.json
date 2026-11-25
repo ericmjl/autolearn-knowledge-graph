@@ -629,6 +629,13 @@
   "publication": "workos.com",
   "date": "2026-09-15"
  },
+ "when-the-ai-agent-can-edit-the-evidence-workos": {
+  "title": "When the AI agent can edit the evidence — WorkOS",
+  "url": "https://workos.com/blog/ai-agent-trace-tampering-audit-logs",
+  "authors": "Maria Paktiti",
+  "publication": "workos.com",
+  "date": "2026-10-02"
+ },
  "writing-effective-tools-for-ai-agents": {
   "title": "Writing effective tools for AI agents",
   "url": "https://www.anthropic.com/research/writing-tools-for-agents",

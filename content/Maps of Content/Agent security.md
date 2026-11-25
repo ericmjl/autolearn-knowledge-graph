@@ -22,6 +22,7 @@
 - [[notes-on-models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire|Models know when they’re reward hacking — and we can catch them at scale - Goodfire]]
 - [[notes-on-how-we-detect-frontier-model-misalignment|How we detect frontier model misalignment]]
 - [[notes-on-agentic-ai-and-security|Agentic AI and Security]]
+- [[notes-on-when-the-ai-agent-can-edit-the-evidence-workos|When the AI agent can edit the evidence — WorkOS]]
 
 ## Notes
 
@@ -48,6 +49,7 @@
 - [[probe-flags-trigger-pauses-and-escalations-in-production-not-just-logs|Probe flags trigger pauses and escalations in production, not just logs]]
 - [[stage-mcp-agent-work-so-no-stage-holds-all-three-trifecta-factors|Stage MCP agent work so no stage holds all three trifecta factors]]
 - [[a-least-privilege-agent-gateway-enforces-policy-outside-the-execution-path|A least-privilege agent gateway enforces policy outside the execution path]]
+- [[audit-records-must-live-outside-the-agent-s-boundary|Audit records must live outside the agent's boundary]]
 
 ## Open questions
 
