@@ -608,6 +608,13 @@
   "publication": "arXiv",
   "date": "2023-05-17"
  },
+ "types-of-multi-agent-system-failures-7-common-failures-splunk": {
+  "title": "Types of Multi-Agent System Failures: 7 Common Failures | Splunk",
+  "url": "https://www.splunk.com/en_us/blog/artificial-intelligence/multi-agent-system-failures.html",
+  "authors": "Pratik Bhavsar",
+  "publication": "Splunk",
+  "date": "2026-08-13"
+ },
  "what-we-learned-evaluating-an-llm-classifier-and-a-code-parser-against-their-previous": {
   "title": "What we learned evaluating an LLM classifier and a code parser against their previous results | Endor Labs",
   "url": "https://www.endorlabs.com/learn/why-evals-are-the-missing-layer-in-integration-testing",
