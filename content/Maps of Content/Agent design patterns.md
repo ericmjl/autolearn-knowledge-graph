@@ -18,6 +18,7 @@
 - [[notes-on-agent-drift-quantifying-behavioral-degradation-in-multi-agent-llm-systems-over-extended|Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions]]
 - [[notes-on-multi-agent-simulation-how-to-test-complex-agentic-workflows-in-a-sandbox-before-they|Multi-Agent Simulation: How to Test Complex Agentic Workflows in a Sandbox Before They Touch Production]]
 - [[notes-on-the-80-problem-in-agentic-coding|The 80% Problem in Agentic Coding]]
+- [[notes-on-how-many-of-your-agent-s-calls-actually-need-a-frontier-model|How many of your agent's calls actually need a frontier model?]]
 
 ## Notes
 
