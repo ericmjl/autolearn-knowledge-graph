@@ -34,6 +34,13 @@
   "publication": "arXiv.org",
   "date": "2026-01-07"
  },
+ "agent-evaluation-readiness-checklist": {
+  "title": "Agent Evaluation Readiness Checklist",
+  "url": "https://www.langchain.com/blog/agent-evaluation-readiness-checklist",
+  "authors": "Victor Moreira",
+  "publication": "LangChain Blog",
+  "date": "2026-03-27"
+ },
  "agent-observability-splunk": {
   "title": "Agent Observability | Splunk",
   "url": "https://galileo.ai/blog/llm-evaluation-step-by-step-guide",

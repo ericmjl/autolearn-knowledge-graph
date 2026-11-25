@@ -31,6 +31,7 @@
 - [[notes-on-llm-as-judge-best-practices-in-2026-calibration-bias-and-cost|LLM-as-Judge Best Practices in 2026: Calibration, Bias, and Cost]]
 - [[notes-on-mastering-rag-8-failure-modes-to-evaluate-before-going-to-production-splunk|Mastering RAG: 8 Failure Modes to Evaluate Before Going to Production | Splunk]]
 - [[notes-on-ai-agent-evaluations-task-suites-and-pass-criteria|AI Agent Evaluations: Task Suites and Pass Criteria]]
+- [[notes-on-agent-evaluation-readiness-checklist|Agent Evaluation Readiness Checklist]]
 
 ## Notes
 
@@ -71,6 +72,7 @@
 - [[monthly-calibration-cadence-with-a-quarterly-refreshed-gold-set-keeps-llm-judges-honest|Monthly calibration cadence with a quarterly-refreshed gold-set keeps LLM judges honest]]
 - [[grounding-improves-when-hallucination-is-scored-per-failure-mode|Grounding improves when hallucination is scored per failure mode]]
 - [[sealed-holdouts-and-real-case-task-suites-keep-agent-evals-honest|Sealed holdouts and real-case task suites keep agent evals honest]]
+- [[a-public-headline-earns-trust-only-inside-your-own-gated-harness|A public headline earns trust only inside your own gated harness]]
 
 ## Open questions
 
