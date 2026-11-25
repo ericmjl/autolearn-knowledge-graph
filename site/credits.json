@@ -328,6 +328,13 @@
   "publication": "Kong Inc.",
   "date": "2026-06-10"
  },
+ "improving-token-efficiency-in-github-agentic-workflows": {
+  "title": "Improving token efficiency in GitHub Agentic Workflows",
+  "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+  "authors": "Landon Cox, Mara Kiefer",
+  "publication": "The GitHub Blog",
+  "date": "2026-05-07"
+ },
  "incident-report-unsanctioned-agent-behaviour-during-cyber-testing": {
   "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
   "url": "https://simonwillison.net/2026/Aug/5/incident-report/",
