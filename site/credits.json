@@ -440,6 +440,13 @@
   "publication": "AI Security Institute",
   "date": "2025-06-26"
  },
+ "introducing-advanced-tool-use-for-claude": {
+  "title": "Introducing advanced tool use for Claude",
+  "url": "https://www.anthropic.com/research/advanced-tool-use",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2025-11-24"
+ },
  "introducing-the-evaluation-engine-build-high-accuracy-evaluators-and-guardrails-fitted-to": {
   "title": "Introducing the Evaluation Engine: Build High-Accuracy Evaluators and Guardrails Fitted to Your Agents | Splunk",
   "url": "https://www.splunk.com/en_us/blog/artificial-intelligence/introducing-evaluation-engine.html",
