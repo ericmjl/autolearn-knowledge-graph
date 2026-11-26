@@ -33,6 +33,7 @@
 - [[notes-on-ai-agent-evaluations-task-suites-and-pass-criteria|AI Agent Evaluations: Task Suites and Pass Criteria]]
 - [[notes-on-agent-evaluation-readiness-checklist|Agent Evaluation Readiness Checklist]]
 - [[notes-on-fix-llm-judge-consistency-for-engineers-mvvp-mlflow-mlflow|Fix LLM Judge Consistency for Engineers: MVVP + MLflow | MLflow]]
+- [[notes-on-continuous-llm-evaluation-a-practical-guide-for-production-teams-mlflow|Continuous LLM Evaluation: A Practical Guide for Production Teams | MLflow]]
 
 ## Notes
 

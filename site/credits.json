@@ -216,6 +216,13 @@
   "publication": "trychroma.com",
   "date": "2025-07-14"
  },
+ "continuous-llm-evaluation-a-practical-guide-for-production-teams-mlflow": {
+  "title": "Continuous LLM Evaluation: A Practical Guide for Production Teams | MLflow",
+  "url": "https://mlflow.org/articles/continuous-llm-evaluation/",
+  "authors": "",
+  "publication": "MLflow AI Platform",
+  "date": "2026-11-05"
+ },
  "cortex-token-level-hallucination-detection-in-rag-via-comparative-internal-representations": {
   "title": "CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations",
   "url": "https://arxiv.org/html/2606.31033v1",
