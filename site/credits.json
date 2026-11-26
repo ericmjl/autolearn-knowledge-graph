@@ -293,6 +293,13 @@
   "publication": "arXiv",
   "date": "2024-09-12"
  },
+ "fresh-memory-stale-plans-dependency-scoped-validation-for-distributed-llm-agent-memory": {
+  "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+  "url": "https://arxiv.org/html/2609.03340v1",
+  "authors": "Evan Chen 1, Shiqiang Wang 2, Christopher G Brinton",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "guard-stabilizing-recursive-self-improvement-with-regret-guidance": {
   "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
   "url": "https://arxiv.org/html/2611.23476v1",

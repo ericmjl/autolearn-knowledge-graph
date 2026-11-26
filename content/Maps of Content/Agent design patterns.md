@@ -22,6 +22,7 @@
 - [[notes-on-building-a-least-privilege-ai-agent-gateway-for-infrastructure-automation-with-mcp-opa|Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners]]
 - [[notes-on-types-of-multi-agent-system-failures-7-common-failures-splunk|Types of Multi-Agent System Failures: 7 Common Failures | Splunk]]
 - [[notes-on-improving-token-efficiency-in-github-agentic-workflows|Improving token efficiency in GitHub Agentic Workflows]]
+- [[notes-on-fresh-memory-stale-plans-dependency-scoped-validation-for-distributed-llm-agent-memory|Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory]]
 
 ## Notes
 

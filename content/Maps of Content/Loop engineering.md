@@ -54,6 +54,7 @@
 - [[harness-evolution-pays-off-only-with-a-dense-held-out-oracle|Harness evolution adapts on dense execution traces, gated by held-out oracles]]
 - [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
 - [[regret-guided-gating-turns-harness-selection-into-a-non-regression-decision|Regret-guided gating turns harness selection into a non-regression decision]]
+- [[lineage-validity-not-state-freshness-authorizes-an-action|Lineage validity, not state freshness, authorizes an action]]
 
 ## Open questions
 

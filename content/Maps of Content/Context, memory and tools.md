@@ -10,6 +10,7 @@
 - [[notes-on-llm-knowledge-base-freshness-scoring-metrics-and-framework|LLM Knowledge Base Freshness Scoring: Metrics and Framework]]
 - [[notes-on-building-a-least-privilege-ai-agent-gateway-for-infrastructure-automation-with-mcp-opa|Building a Least-Privilege AI Agent Gateway for Infrastructure Automation with MCP, OPA, and Ephemeral Runners]]
 - [[notes-on-context-engineering-memory-compaction-and-tool-clearing-claude-cookbook|Context engineering: memory, compaction, and tool clearing | Claude Cookbook]]
+- [[notes-on-fresh-memory-stale-plans-dependency-scoped-validation-for-distributed-llm-agent-memory|Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory]]
 
 ## Notes
 
