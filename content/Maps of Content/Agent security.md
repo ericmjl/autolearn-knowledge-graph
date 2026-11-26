@@ -26,6 +26,7 @@
 - [[notes-on-anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-of-the-july-2026-incident|Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident]]
 - [[notes-on-combatting-adversarial-distillation|Combatting adversarial distillation]]
 - [[notes-on-retrieval-augmented-generation-rag-security-cheat-sheet|Retrieval-Augmented Generation (RAG) Security Cheat Sheet¶]]
+- [[notes-on-securing-our-frontier-model-training-environment|Securing our frontier model training environment]]
 
 ## Notes
 
@@ -57,6 +58,7 @@
 - [[grounding-holds-only-when-every-rag-stage-fails-closed|Grounding holds only when every RAG stage fails closed]]
 - [[grounding-alone-cannot-show-which-source-controlled-the-answer|Grounding alone cannot show which source controlled the answer]]
 - [[runtime-policy-enforcement-moves-prompt-injection-defenses-out-of-the-prompt|Runtime policy enforcement moves prompt-injection defenses out of the prompt]]
+- [[live-internet-evals-need-perimeters-and-an-offline-world-not-just-a-sandbox|Live-internet evals need perimeters and an offline world, not just a sandbox]]
 
 ## Open questions
 
