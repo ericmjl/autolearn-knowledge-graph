@@ -622,6 +622,13 @@
   "publication": "Cursor",
   "date": "2026-06-25"
  },
+ "rrsi-regularized-recursive-self-improvement-of-agent-harnesses": {
+  "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+  "url": "https://arxiv.org/html/2609.24972v1",
+  "authors": "Peng Xia Affiliation \\thepa Cloud AI Research",
+  "publication": "arXiv",
+  "date": "2026-07-04"
+ },
  "safe-multi-agent-behavior-must-be-maintained-not-merely-asserted-constraint-drift-in-llm": {
   "title": "Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems",
   "url": "https://arxiv.org/html/2605.10481v1",

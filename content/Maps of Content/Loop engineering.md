@@ -30,6 +30,7 @@
 - [[notes-on-1-introduction|1 Introduction]]
 - [[notes-on-wider-or-deeper-scaling-llm-inference-time-compute-with-adaptive-branching-tree-search|Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search]]
 - [[notes-on-guard-stabilizing-recursive-self-improvement-with-regret-guidance|GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance]]
+- [[notes-on-rrsi-regularized-recursive-self-improvement-of-agent-harnesses|RRSI: Regularized Recursive Self-Improvement of Agent Harnesses]]
 
 ## Notes
 
@@ -55,6 +56,7 @@
 - [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
 - [[regret-guided-gating-turns-harness-selection-into-a-non-regression-decision|Regret-guided gating turns harness selection into a non-regression decision]]
 - [[lineage-validity-not-state-freshness-authorizes-an-action|Lineage validity, not state freshness, authorizes an action]]
+- [[regularized-selection-keeps-evolved-harnesses-from-memorizing-their-benchmarks|Regularized selection keeps evolved harnesses from memorizing their benchmarks]]
 
 ## Open questions
 
