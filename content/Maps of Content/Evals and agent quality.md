@@ -34,6 +34,7 @@
 - [[notes-on-agent-evaluation-readiness-checklist|Agent Evaluation Readiness Checklist]]
 - [[notes-on-fix-llm-judge-consistency-for-engineers-mvvp-mlflow-mlflow|Fix LLM Judge Consistency for Engineers: MVVP + MLflow | MLflow]]
 - [[notes-on-continuous-llm-evaluation-a-practical-guide-for-production-teams-mlflow|Continuous LLM Evaluation: A Practical Guide for Production Teams | MLflow]]
+- [[notes-on-seeing-the-whole-elephant-a-benchmark-for-failure-attribution-in-llm-based-multi-agent|Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems]]
 
 ## Notes
 
@@ -77,6 +78,7 @@
 - [[a-public-headline-earns-trust-only-inside-your-own-gated-harness|A public headline earns trust only inside your own gated harness]]
 - [[judge-validation-is-a-recurring-per-change-gate-not-a-launch-check|Judge validation is a recurring per-change gate, not a launch check]]
 - [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
+- [[full-execution-traces-make-multi-agent-failure-attribution-work|Full execution traces make multi-agent failure attribution work]]
 
 ## Open questions
 

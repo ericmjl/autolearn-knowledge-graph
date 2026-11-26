@@ -594,6 +594,13 @@
   "publication": "arXiv",
   "date": "2012-11-23"
  },
+ "seeing-the-whole-elephant-a-benchmark-for-failure-attribution-in-llm-based-multi-agent": {
+  "title": "Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems",
+  "url": "https://arxiv.org/html/2604.22708v1",
+  "authors": "Mengzhuo Chen",
+  "publication": "arXiv",
+  "date": "2025-01-05"
+ },
  "self-generated-prompt-injections-in-compaction-summaries": {
   "title": "Self-generated prompt injections in compaction summaries",
   "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
