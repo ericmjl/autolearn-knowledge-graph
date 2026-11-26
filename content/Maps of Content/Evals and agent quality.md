@@ -35,6 +35,7 @@
 - [[notes-on-fix-llm-judge-consistency-for-engineers-mvvp-mlflow-mlflow|Fix LLM Judge Consistency for Engineers: MVVP + MLflow | MLflow]]
 - [[notes-on-continuous-llm-evaluation-a-practical-guide-for-production-teams-mlflow|Continuous LLM Evaluation: A Practical Guide for Production Teams | MLflow]]
 - [[notes-on-seeing-the-whole-elephant-a-benchmark-for-failure-attribution-in-llm-based-multi-agent|Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems]]
+- [[notes-on-building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock|Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore | Amazon Web Services]]
 
 ## Notes
 
@@ -79,6 +80,7 @@
 - [[judge-validation-is-a-recurring-per-change-gate-not-a-launch-check|Judge validation is a recurring per-change gate, not a launch check]]
 - [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
 - [[full-execution-traces-make-multi-agent-failure-attribution-work|Full execution traces make multi-agent failure attribution work]]
+- [[held-out-tool-tests-not-end-to-end-scores-prove-tool-selection-quality|Held-out tool tests, not end-to-end scores, prove tool-selection quality]]
 
 ## Open questions
 
