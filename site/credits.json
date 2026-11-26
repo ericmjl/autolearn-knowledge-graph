@@ -181,6 +181,13 @@
   "publication": "Anthropic",
   "date": "2024-12-19"
  },
+ "building-harvey-s-mcp-policy-engine": {
+  "title": "Building Harvey’s MCP Policy Engine",
+  "url": "https://www.harvey.ai/blog/building-harveys-mcp-policy-engine",
+  "authors": "Suha Sabi Hussain, Divya Sudhakar, Nick Gonella",
+  "publication": "Harvey",
+  "date": "2026-10-07"
+ },
  "building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock": {
   "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore | Amazon Web Services",
   "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",

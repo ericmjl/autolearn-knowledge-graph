@@ -56,6 +56,7 @@
 - [[machine-speed-campaigns-evade-naive-log-scans-so-recovery-needs-ai-assisted-reconstruction|Machine-speed campaigns evade naive log scans, so recovery needs AI-assisted reconstruction]]
 - [[grounding-holds-only-when-every-rag-stage-fails-closed|Grounding holds only when every RAG stage fails closed]]
 - [[grounding-alone-cannot-show-which-source-controlled-the-answer|Grounding alone cannot show which source controlled the answer]]
+- [[runtime-policy-enforcement-moves-prompt-injection-defenses-out-of-the-prompt|Runtime policy enforcement moves prompt-injection defenses out of the prompt]]
 
 ## Open questions
 
