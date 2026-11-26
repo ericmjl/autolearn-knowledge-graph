@@ -76,6 +76,7 @@
 - [[sealed-holdouts-and-real-case-task-suites-keep-agent-evals-honest|Sealed holdouts and real-case task suites keep agent evals honest]]
 - [[a-public-headline-earns-trust-only-inside-your-own-gated-harness|A public headline earns trust only inside your own gated harness]]
 - [[judge-validation-is-a-recurring-per-change-gate-not-a-launch-check|Judge validation is a recurring per-change gate, not a launch check]]
+- [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
 
 ## Open questions
 

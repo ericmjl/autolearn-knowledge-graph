@@ -230,6 +230,13 @@
   "publication": "arXiv",
   "date": "2026-01-31"
  },
+ "deeper-insights-into-retrieval-augmented-generation-the-role-of-sufficient-context": {
+  "title": "Deeper insights into retrieval augmented generation: The role of sufficient context",
+  "url": "https://research.google/blog/deeper-insights-into-retrieval-augmented-generation-the-role-of-sufficient-context/",
+  "authors": "Cyrus Rashtchian, Da-Cheng Juan",
+  "publication": "research.google",
+  "date": "2025-05-14"
+ },
  "demystifying-evals-for-ai-agents": {
   "title": "Demystifying evals for AI agents",
   "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",

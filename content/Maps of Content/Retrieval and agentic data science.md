@@ -8,6 +8,7 @@
 - [[notes-on-detect-hallucinations-for-rag-based-systems-amazon-web-services|Detect hallucinations for RAG-based systems | Amazon Web Services]]
 - [[notes-on-cortex-token-level-hallucination-detection-in-rag-via-comparative-internal-representations|CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations]]
 - [[notes-on-agent-wikipedia|Agent - Wikipedia]]
+- [[notes-on-deeper-insights-into-retrieval-augmented-generation-the-role-of-sufficient-context|Deeper insights into retrieval augmented generation: The role of sufficient context]]
 
 ## Notes
 
@@ -18,6 +19,7 @@
 - [[compiled-wiki-trades-per-query-retrieval-for-persistent-knowledge|Compiled wiki trades per-query retrieval for persistent knowledge]]
 - [[adaptive-interleaved-retrieval-beats-static-cot-on-context-dependent-discrimination|Adaptive interleaved retrieval beats static CoT on context-dependent discrimination]]
 - [[grounding-improves-when-hallucination-is-scored-per-failure-mode|Grounding improves when hallucination is scored per failure mode]]
+- [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
 
 ## Open questions
 
