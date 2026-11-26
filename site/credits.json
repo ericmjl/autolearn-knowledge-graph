@@ -265,6 +265,13 @@
   "publication": "Anthropic",
   "date": "2025-09-29"
  },
+ "fix-llm-judge-consistency-for-engineers-mvvp-mlflow-mlflow": {
+  "title": "Fix LLM Judge Consistency for Engineers: MVVP + MLflow | MLflow",
+  "url": "https://mlflow.org/articles/judge-consistency-llm/",
+  "authors": "",
+  "publication": "MLflow AI Platform",
+  "date": "2026-09-28"
+ },
  "forest-of-thought-scaling-test-time-compute-for-enhancing-llm-reasoning": {
   "title": "Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning",
   "url": "https://arxiv.org/html/2412.09078v5",
