@@ -38,6 +38,7 @@
 - [[deliberate-supervision-patterns-keep-manual-coding-skills-alive-while-delegating-to-agents|Deliberate supervision patterns keep manual coding skills alive while delegating to agents]]
 - [[a-least-privilege-agent-gateway-enforces-policy-outside-the-execution-path|A least-privilege agent gateway enforces policy outside the execution path]]
 - [[specialized-agents-fail-through-coordination-not-capability|Specialized agents fail through coordination, not capability]]
+- [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
 
 ## Open questions
 

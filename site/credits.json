@@ -699,6 +699,13 @@
   "publication": "workos.com",
   "date": "2026-10-02"
  },
+ "wider-or-deeper-scaling-llm-inference-time-compute-with-adaptive-branching-tree-search": {
+  "title": "Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search",
+  "url": "https://arxiv.org/html/2503.04412v1",
+  "authors": "Kou Misaki",
+  "publication": "arXiv",
+  "date": "2024-08-06"
+ },
  "writing-effective-tools-for-ai-agents": {
   "title": "Writing effective tools for AI agents",
   "url": "https://www.anthropic.com/research/writing-tools-for-agents",
