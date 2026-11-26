@@ -202,6 +202,13 @@
   "publication": "arXiv",
   "date": "2022-01-28"
  },
+ "characterizing-and-detecting-unfaithful-work-reports-by-coding-agents": {
+  "title": "Characterizing and Detecting Unfaithful Work Reports by Coding Agents",
+  "url": "https://arxiv.org/html/2611.25760v1",
+  "authors": "Wenhao Yang email yangwh pku edu cn Affiliation Peking University, Beijing, China",
+  "publication": "arXiv",
+  "date": "2026-10-01"
+ },
  "codeagent-enhancing-code-generation-with-tool-integrated-agent-systems-for-real": {
   "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
   "url": "https://arxiv.org/abs/2401.07339",

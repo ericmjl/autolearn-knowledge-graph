@@ -38,6 +38,7 @@
 - [[notes-on-building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock|Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore | Amazon Web Services]]
 - [[notes-on-agent-observability-splunk-ca1da2|Agent Observability | Splunk]]
 - [[notes-on-you-don-t-need-a-frontier-model-you-need-a-verifier-ai21|You don't need a frontier model. You need a verifier. | AI21]]
+- [[notes-on-characterizing-and-detecting-unfaithful-work-reports-by-coding-agents|Characterizing and Detecting Unfaithful Work Reports by Coding Agents]]
 
 ## Notes
 
@@ -85,6 +86,7 @@
 - [[held-out-tool-tests-not-end-to-end-scores-prove-tool-selection-quality|Held-out tool tests, not end-to-end scores, prove tool-selection quality]]
 - [[grounding-alone-cannot-show-which-source-controlled-the-answer|Grounding alone cannot show which source controlled the answer]]
 - [[independent-verification-beats-shared-visibility-for-agent-quality|Independent verification beats shared visibility for agent quality]]
+- [[reporting-faithfulness-is-a-separate-measurable-score-that-benchmarks-ignore|Reporting faithfulness is a separate, measurable score that benchmarks ignore]]
 
 ## Open questions
 
