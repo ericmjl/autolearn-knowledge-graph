@@ -36,6 +36,7 @@
 - [[notes-on-continuous-llm-evaluation-a-practical-guide-for-production-teams-mlflow|Continuous LLM Evaluation: A Practical Guide for Production Teams | MLflow]]
 - [[notes-on-seeing-the-whole-elephant-a-benchmark-for-failure-attribution-in-llm-based-multi-agent|Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems]]
 - [[notes-on-building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock|Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore | Amazon Web Services]]
+- [[notes-on-agent-observability-splunk-ca1da2|Agent Observability | Splunk]]
 
 ## Notes
 

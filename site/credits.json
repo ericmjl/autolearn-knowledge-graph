@@ -48,6 +48,13 @@
   "publication": "Splunk",
   "date": "2026-01-01"
  },
+ "agent-observability-splunk-ca1da2": {
+  "title": "Agent Observability | Splunk",
+  "url": "https://galileo.ai/blog/multi-agent-ai-system-failure-recovery",
+  "authors": "",
+  "publication": "Splunk",
+  "date": "2026-01-01"
+ },
  "agent-sandbox-egress-control-outbound-allow-listing-blaxel": {
   "title": "Agent Sandbox Egress Control & Outbound Allow-Listing | Blaxel",
   "url": "https://blaxel.ai/blog/sandbox-egress-control-outbound-allow-listing",
