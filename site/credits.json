@@ -363,6 +363,13 @@
   "publication": "Cresta",
   "date": "2026-08-03"
  },
+ "how-do-ai-agents-spend-your-money-analyzing-and-predicting-token-consumption-in-agentic": {
+  "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+  "url": "https://arxiv.org/html/2604.22750v3",
+  "authors": "Longju Bai Affiliation University",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "how-many-of-your-agent-s-calls-actually-need-a-frontier-model": {
   "title": "How many of your agent's calls actually need a frontier model?",
   "url": "https://www.langchain.com/blog/switchyard-agent-routing-benchmark",
