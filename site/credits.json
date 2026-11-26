@@ -580,6 +580,13 @@
   "publication": "eugeneyan.com",
   "date": "2026-06-21"
  },
+ "rag-wikipedia": {
+  "title": "Rag - Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rag",
+  "authors": "Wikipedia contributors",
+  "publication": "Wikipedia",
+  "date": "2004-07-07"
+ },
  "react-synergizing-reasoning-and-acting-in-language-models-yao-et-al-iclr-2023": {
   "title": "ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., ICLR 2023)",
   "url": "https://arxiv.org/abs/2210.03629",
