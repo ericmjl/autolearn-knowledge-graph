@@ -10,6 +10,7 @@
 - [[notes-on-agent-wikipedia|Agent - Wikipedia]]
 - [[notes-on-deeper-insights-into-retrieval-augmented-generation-the-role-of-sufficient-context|Deeper insights into retrieval augmented generation: The role of sufficient context]]
 - [[notes-on-does-rag-know-when-retrieval-is-wrong-diagnosing-context-compliance-under-knowledge|Does RAG Know When Retrieval Is Wrong? Diagnosing Context Compliance under Knowledge Conflict]]
+- [[notes-on-you-don-t-need-a-frontier-model-you-need-a-verifier-ai21|You don't need a frontier model. You need a verifier. | AI21]]
 
 ## Notes
 
