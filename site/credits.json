@@ -286,6 +286,13 @@
   "publication": "OpenAI",
   "date": "2026-09-30"
  },
+ "does-rag-know-when-retrieval-is-wrong-diagnosing-context-compliance-under-knowledge": {
+  "title": "Does RAG Know When Retrieval Is Wrong? Diagnosing Context Compliance under Knowledge Conflict",
+  "url": "https://arxiv.org/html/2605.14473v4",
+  "authors": "Yihang Chen Email ychen",
+  "publication": "arXiv",
+  "date": "2025-10-01"
+ },
  "effective-context-engineering-for-ai-agents": {
   "title": "Effective context engineering for AI agents",
   "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",

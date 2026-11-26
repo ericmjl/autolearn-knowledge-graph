@@ -82,6 +82,7 @@
 - [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
 - [[full-execution-traces-make-multi-agent-failure-attribution-work|Full execution traces make multi-agent failure attribution work]]
 - [[held-out-tool-tests-not-end-to-end-scores-prove-tool-selection-quality|Held-out tool tests, not end-to-end scores, prove tool-selection quality]]
+- [[grounding-alone-cannot-show-which-source-controlled-the-answer|Grounding alone cannot show which source controlled the answer]]
 
 ## Open questions
 
