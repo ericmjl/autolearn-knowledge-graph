@@ -29,6 +29,7 @@
 - [[notes-on-models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire|Models know when they’re reward hacking — and we can catch them at scale - Goodfire]]
 - [[notes-on-1-introduction|1 Introduction]]
 - [[notes-on-wider-or-deeper-scaling-llm-inference-time-compute-with-adaptive-branching-tree-search|Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search]]
+- [[notes-on-guard-stabilizing-recursive-self-improvement-with-regret-guidance|GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance]]
 
 ## Notes
 
@@ -52,6 +53,7 @@
 - [[constraint-drift-not-final-output-is-what-sandbox-tests-must-catch|Constraint drift, not final output, is what sandbox tests must catch]]
 - [[harness-evolution-pays-off-only-with-a-dense-held-out-oracle|Harness evolution adapts on dense execution traces, gated by held-out oracles]]
 - [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
+- [[regret-guided-gating-turns-harness-selection-into-a-non-regression-decision|Regret-guided gating turns harness selection into a non-regression decision]]
 
 ## Open questions
 

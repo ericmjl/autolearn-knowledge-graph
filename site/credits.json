@@ -286,6 +286,13 @@
   "publication": "arXiv",
   "date": "2024-09-12"
  },
+ "guard-stabilizing-recursive-self-improvement-with-regret-guidance": {
+  "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+  "url": "https://arxiv.org/html/2611.23476v1",
+  "authors": "Minghe Zhang Affiliation Google Cloud Affiliation Equal contribution",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "harness-engineering-for-self-improvement": {
   "title": "Harness Engineering for Self-Improvement",
   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
