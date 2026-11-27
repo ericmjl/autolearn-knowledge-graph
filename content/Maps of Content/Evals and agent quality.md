@@ -46,6 +46,7 @@
 - [[notes-on-chaincheck-near-perfect-evidence-sufficiency-scores-can-conceal-sensitivity-to|ChainCheck: Near-Perfect Evidence-Sufficiency Scores Can Conceal Sensitivity to Construction Artifacts Paired Conditional Contrasts that Expose an Evaluation Confound]]
 - [[notes-on-model-routing-as-an-eval-problem-mercor-enterprise|Model Routing as an Eval Problem | Mercor Enterprise]]
 - [[notes-on-who-watches-the-judge-calibrating-llm-as-a-judge|Who Watches the Judge? Calibrating LLM-as-a-Judge]]
+- [[notes-on-inspect-cyber|Inspect Cyber]]
 
 ## Notes
 
@@ -101,6 +102,7 @@
 - [[trained-self-report-turns-false-success-claims-into-detectable-signals|Trained self-report turns false success claims into detectable signals]]
 - [[a-passing-sufficiency-gate-can-be-an-edit-detector|A passing sufficiency gate can be an edit detector]]
 - [[frozen-reference-sets-and-scheduled-re-checks-keep-drifting-judges-honest|Frozen reference sets and scheduled re-checks keep drifting judges honest]]
+- [[solvability-verification-gates-a-configured-eval-from-a-trusted-result|Solvability verification gates a configured eval from a trusted result]]
 
 ## Open questions
 
