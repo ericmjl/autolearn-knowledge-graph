@@ -769,6 +769,13 @@
   "publication": "Simon Willison’s Weblog",
   "date": "2025-06-16"
  },
+ "the-lifecycle-of-llm-as-a-judge-for-large-scale-recommendation-explanations": {
+  "title": "The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations",
+  "url": "https://arxiv.org/html/2608.18300v3",
+  "authors": "Emma Yanyang KongJJ Tan",
+  "publication": "arXiv",
+  "date": "2026-01-31"
+ },
  "token-level-truth-real-time-hallucination-detection-for-production-llms": {
   "title": "Token-Level Truth: Real-Time Hallucination Detection for Production LLMs",
   "url": "https://vllm.ai/blog/2025-12-14-halugate",
