@@ -106,6 +106,7 @@
 - [[solvability-verification-gates-a-configured-eval-from-a-trusted-result|Solvability verification gates a configured eval from a trusted result]]
 - [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
 - [[agent-observability-is-a-lifecycle-not-a-dashboard|Agent observability is a lifecycle, not a dashboard]]
+- [[high-recall-probes-justify-20-40-false-alarm-rates-as-filters-not-pause-triggers|High-recall probes justify 20-40% false-alarm rates as filters, not pause triggers]]
 
 ## Open questions
 

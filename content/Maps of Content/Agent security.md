@@ -29,6 +29,7 @@
 - [[notes-on-securing-our-frontier-model-training-environment|Securing our frontier model training environment]]
 - [[notes-on-training-agents-to-self-report-misbehavior|Training agents to self-report misbehavior]]
 - [[notes-on-securing-ai-agents-lessons-from-real-world-deployment|Securing AI Agents: Lessons From Real-World Deployment]]
+- [[notes-on-detecting-high-stakes-interactions-with-activation-probes|Detecting High-Stakes Interactions with Activation Probes]]
 
 ## Notes
 

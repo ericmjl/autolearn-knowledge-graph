@@ -321,6 +321,13 @@
   "publication": "Anthropic",
   "date": "2026-02-23"
  },
+ "detecting-high-stakes-interactions-with-activation-probes": {
+  "title": "Detecting High-Stakes Interactions with Activation Probes",
+  "url": "https://arxiv.org/html/2506.10805v1",
+  "authors": "Alex McKenzie † † thanks Equal contributions All correspondence",
+  "publication": "arXiv",
+  "date": "2025-03-24"
+ },
  "disrupting-a-coordinated-model-distillation-campaign": {
   "title": "Disrupting a coordinated model-distillation campaign",
   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
