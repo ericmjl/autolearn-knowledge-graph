@@ -36,6 +36,7 @@
 - [[notes-on-paper-page-trace-a-unified-rollout-budget-allocation-framework-for-efficient-agentic|Paper page - TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning]]
 - [[notes-on-tinyastral-transferring-self-evolving-harnesses-to-tiny-generalist-manipulation-agents|TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents]]
 - [[notes-on-how-ai-assistance-impacts-the-formation-of-coding-skills|How AI assistance impacts the formation of coding skills]]
+- [[notes-on-auto-router-for-llms-when-automatic-model-routing-pays-off|Auto Router for LLMs: When Automatic Model Routing Pays Off]]
 
 ## Notes
 

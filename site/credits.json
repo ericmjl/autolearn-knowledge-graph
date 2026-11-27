@@ -146,6 +146,13 @@
   "publication": "Managed Code",
   "date": "2026-07-08"
  },
+ "auto-router-for-llms-when-automatic-model-routing-pays-off": {
+  "title": "Auto Router for LLMs: When Automatic Model Routing Pays Off",
+  "url": "https://www.orcarouter.ai/blog/auto-router",
+  "authors": "Jinhao Song",
+  "publication": "OrcaRouter",
+  "date": "2026-08-10"
+ },
  "autorefine-auto-calibrating-code-judges-from-workflow-outcomesthanks-these-authors": {
   "title": "AutoRefine: Auto-Calibrating Code Judges from Workflow OutcomesThanks: *These authors contributed equally to this work",
   "url": "https://arxiv.org/html/2611.09291v1",
