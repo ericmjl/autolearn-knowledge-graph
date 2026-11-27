@@ -391,6 +391,13 @@
   "publication": "arXiv",
   "date": "2023-06-23"
  },
+ "how-ai-assistance-impacts-the-formation-of-coding-skills": {
+  "title": "How AI assistance impacts the formation of coding skills",
+  "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2026-01-29"
+ },
  "how-coding-agents-fail-their-users-a-large-scale-analysis-of-developer-agent-misalignment": {
   "title": "How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions",
   "url": "https://arxiv.org/html/2605.29442v1",

@@ -35,6 +35,7 @@
 - [[notes-on-ai-agent-regression-testing-from-production-failures|AI Agent Regression Testing From Production Failures]]
 - [[notes-on-paper-page-trace-a-unified-rollout-budget-allocation-framework-for-efficient-agentic|Paper page - TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning]]
 - [[notes-on-tinyastral-transferring-self-evolving-harnesses-to-tiny-generalist-manipulation-agents|TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents]]
+- [[notes-on-how-ai-assistance-impacts-the-formation-of-coding-skills|How AI assistance impacts the formation of coding skills]]
 
 ## Notes
 
@@ -66,6 +67,7 @@
 - [[adaptive-width-and-depth-hold-in-multi-turn-agentic-loops|Adaptive width and depth hold in multi-turn agentic loops]]
 - [[evolved-harnesses-transfer-to-compact-agents-when-the-state-they-encode-is-frozen-not|Evolved harnesses transfer to compact agents when the state they encode is frozen, not just the model]]
 - [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
+- [[ai-delegation-atrophies-skill-ai-for-comprehension-preserves-it|AI delegation atrophies skill; AI-for-comprehension preserves it]]
 
 ## Open questions
 
