@@ -881,6 +881,13 @@
   "publication": "OpenAI",
   "date": "2026-09-09"
  },
+ "training-agents-to-self-report-misbehavior-78bfbc": {
+  "title": "Training Agents to Self-Report Misbehavior",
+  "url": "https://arxiv.org/html/2602.22303v1",
+  "authors": "Bruce W Lee Affiliation UPenn Affiliation MATS Email brucelws upenn edu",
+  "publication": "arXiv",
+  "date": "2025-03-19"
+ },
  "tree-of-thoughts-deliberate-problem-solving-with-large-language-models": {
   "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
   "url": "https://arxiv.org/abs/2305.10601",

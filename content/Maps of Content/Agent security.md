@@ -30,6 +30,7 @@
 - [[notes-on-training-agents-to-self-report-misbehavior|Training agents to self-report misbehavior]]
 - [[notes-on-securing-ai-agents-lessons-from-real-world-deployment|Securing AI Agents: Lessons From Real-World Deployment]]
 - [[notes-on-detecting-high-stakes-interactions-with-activation-probes|Detecting High-Stakes Interactions with Activation Probes]]
+- [[notes-on-training-agents-to-self-report-misbehavior-78bfbc|Training Agents to Self-Report Misbehavior]]
 
 ## Notes
 
@@ -62,6 +63,7 @@
 - [[grounding-alone-cannot-show-which-source-controlled-the-answer|Grounding alone cannot show which source controlled the answer]]
 - [[runtime-policy-enforcement-moves-prompt-injection-defenses-out-of-the-prompt|Runtime policy enforcement moves prompt-injection defenses out of the prompt]]
 - [[live-internet-evals-need-perimeters-and-an-offline-world-not-just-a-sandbox|Live-internet evals need perimeters and an offline world, not just a sandbox]]
+- [[self-incrimination-exposes-covert-misbehavior-across-long-tool-using-trajectories|Self-incrimination exposes covert misbehavior across long tool-using trajectories]]
 
 ## Open questions
 
