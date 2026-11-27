@@ -27,6 +27,7 @@
 - [[notes-on-combatting-adversarial-distillation|Combatting adversarial distillation]]
 - [[notes-on-retrieval-augmented-generation-rag-security-cheat-sheet|Retrieval-Augmented Generation (RAG) Security Cheat Sheet¶]]
 - [[notes-on-securing-our-frontier-model-training-environment|Securing our frontier model training environment]]
+- [[notes-on-training-agents-to-self-report-misbehavior|Training agents to self-report misbehavior]]
 
 ## Notes
 

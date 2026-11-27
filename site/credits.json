@@ -797,6 +797,13 @@
   "publication": "Vllm Project",
   "date": "2025-12-14"
  },
+ "training-agents-to-self-report-misbehavior": {
+  "title": "Training agents to self-report misbehavior",
+  "url": "https://alignment.openai.com/self-incrimination/",
+  "authors": "Bruce W. Lee, Yueh-Han Chen, Tomek Korbak",
+  "publication": "OpenAI",
+  "date": "2026-09-09"
+ },
  "tree-of-thoughts-deliberate-problem-solving-with-large-language-models": {
   "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
   "url": "https://arxiv.org/abs/2305.10601",

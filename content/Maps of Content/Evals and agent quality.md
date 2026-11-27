@@ -95,6 +95,7 @@
 - [[judge-validation-is-a-recurring-per-change-gate-not-a-launch-check|Judge validation is a recurring per-change gate plus a drift loop, not a launch check]]
 - [[production-failures-not-synthetic-prompts-build-the-living-regression-dataset|Production failures, not synthetic prompts, build the living regression dataset]]
 - [[judge-drift-is-caught-by-strategic-sampling-over-component-level-traces|Judge drift is caught by strategic sampling over component-level traces]]
+- [[trained-self-report-turns-false-success-claims-into-detectable-signals|Trained self-report turns false success claims into detectable signals]]
 
 ## Open questions
 
