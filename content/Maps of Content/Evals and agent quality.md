@@ -47,6 +47,7 @@
 - [[notes-on-model-routing-as-an-eval-problem-mercor-enterprise|Model Routing as an Eval Problem | Mercor Enterprise]]
 - [[notes-on-who-watches-the-judge-calibrating-llm-as-a-judge|Who Watches the Judge? Calibrating LLM-as-a-Judge]]
 - [[notes-on-inspect-cyber|Inspect Cyber]]
+- [[notes-on-agent-observability-patterns-for-production-ai-agents-mlflow|Agent Observability Patterns for Production AI Agents | MLflow]]
 
 ## Notes
 
@@ -104,6 +105,7 @@
 - [[frozen-reference-sets-and-scheduled-re-checks-keep-drifting-judges-honest|Frozen reference sets and scheduled re-checks keep drifting judges honest]]
 - [[solvability-verification-gates-a-configured-eval-from-a-trusted-result|Solvability verification gates a configured eval from a trusted result]]
 - [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
+- [[agent-observability-is-a-lifecycle-not-a-dashboard|Agent observability is a lifecycle, not a dashboard]]
 
 ## Open questions
 

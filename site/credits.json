@@ -41,6 +41,13 @@
   "publication": "LangChain Blog",
   "date": "2026-03-27"
  },
+ "agent-observability-patterns-for-production-ai-agents-mlflow": {
+  "title": "Agent Observability Patterns for Production AI Agents | MLflow",
+  "url": "https://mlflow.org/articles/agent-observability-patterns/",
+  "authors": "",
+  "publication": "MLflow AI Platform",
+  "date": "2026-11-12"
+ },
  "agent-observability-splunk": {
   "title": "Agent Observability | Splunk",
   "url": "https://galileo.ai/blog/llm-evaluation-step-by-step-guide",
