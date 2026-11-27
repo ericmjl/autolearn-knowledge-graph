@@ -104,6 +104,13 @@
   "publication": "Levy Street",
   "date": "2026-10-19"
  },
+ "ai-agent-regression-testing-from-production-failures": {
+  "title": "AI Agent Regression Testing From Production Failures",
+  "url": "https://www.arthur.ai/column/regression-test-datasets-ai-agents-production-failures",
+  "authors": "",
+  "publication": "arthur.ai",
+  "date": "2026-06-12"
+ },
  "ai-agents-that-matter-kapoor-stroebl-siegel-nadgir-narayanan": {
   "title": "AI Agents That Matter (Kapoor, Stroebl, Siegel, Nadgir, Narayanan)",
   "url": "https://arxiv.org/abs/2407.01502",
