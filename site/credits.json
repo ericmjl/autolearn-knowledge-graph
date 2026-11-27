@@ -328,6 +328,13 @@
   "publication": "Anthropic",
   "date": "2025-09-29"
  },
+ "evaluating-llms-in-production-from-drift-detection-to-continuous-monitoring": {
+  "title": "Evaluating LLMs in production: From drift detection to continuous monitoring",
+  "url": "https://wandb.ai/site/articles/evaluating-llms-in-production/",
+  "authors": "",
+  "publication": "Weights & Biases",
+  "date": "2026-06-03"
+ },
  "fix-llm-judge-consistency-for-engineers-mvvp-mlflow-mlflow": {
   "title": "Fix LLM Judge Consistency for Engineers: MVVP + MLflow | MLflow",
   "url": "https://mlflow.org/articles/judge-consistency-llm/",

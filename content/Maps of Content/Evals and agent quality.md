@@ -42,6 +42,7 @@
 - [[notes-on-autorefine-auto-calibrating-code-judges-from-workflow-outcomesthanks-these-authors|AutoRefine: Auto-Calibrating Code Judges from Workflow OutcomesThanks: *These authors contributed equally to this work]]
 - [[notes-on-the-lifecycle-of-llm-as-a-judge-for-large-scale-recommendation-explanations|The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations]]
 - [[notes-on-ai-agent-regression-testing-from-production-failures|AI Agent Regression Testing From Production Failures]]
+- [[notes-on-evaluating-llms-in-production-from-drift-detection-to-continuous-monitoring|Evaluating LLMs in production: From drift detection to continuous monitoring]]
 
 ## Notes
 
@@ -93,6 +94,7 @@
 - [[recalibrated-judges-hold-on-current-traffic-the-holdout-cannot-certify-hidden-failures|Recalibrated judges hold on current traffic; the holdout cannot certify hidden failures]]
 - [[judge-validation-is-a-recurring-per-change-gate-not-a-launch-check|Judge validation is a recurring per-change gate plus a drift loop, not a launch check]]
 - [[production-failures-not-synthetic-prompts-build-the-living-regression-dataset|Production failures, not synthetic prompts, build the living regression dataset]]
+- [[judge-drift-is-caught-by-strategic-sampling-over-component-level-traces|Judge drift is caught by strategic sampling over component-level traces]]
 
 ## Open questions
 
