@@ -860,6 +860,13 @@
   "publication": "workos.com",
   "date": "2026-10-02"
  },
+ "who-watches-the-judge-calibrating-llm-as-a-judge": {
+  "title": "Who Watches the Judge? Calibrating LLM-as-a-Judge",
+  "url": "https://www.tekstream.com/blog/llm-as-a-judge-calibration-ai-quality/",
+  "authors": "Cece Kintner",
+  "publication": "TekStream Solutions, LLC",
+  "date": "2026-09-14"
+ },
  "wider-or-deeper-scaling-llm-inference-time-compute-with-adaptive-branching-tree-search": {
   "title": "Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search",
   "url": "https://arxiv.org/html/2503.04412v1",

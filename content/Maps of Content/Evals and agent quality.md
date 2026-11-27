@@ -45,6 +45,7 @@
 - [[notes-on-evaluating-llms-in-production-from-drift-detection-to-continuous-monitoring|Evaluating LLMs in production: From drift detection to continuous monitoring]]
 - [[notes-on-chaincheck-near-perfect-evidence-sufficiency-scores-can-conceal-sensitivity-to|ChainCheck: Near-Perfect Evidence-Sufficiency Scores Can Conceal Sensitivity to Construction Artifacts Paired Conditional Contrasts that Expose an Evaluation Confound]]
 - [[notes-on-model-routing-as-an-eval-problem-mercor-enterprise|Model Routing as an Eval Problem | Mercor Enterprise]]
+- [[notes-on-who-watches-the-judge-calibrating-llm-as-a-judge|Who Watches the Judge? Calibrating LLM-as-a-Judge]]
 
 ## Notes
 
@@ -99,6 +100,7 @@
 - [[judge-drift-is-caught-by-strategic-sampling-over-component-level-traces|Judge drift is caught by strategic sampling over component-level traces]]
 - [[trained-self-report-turns-false-success-claims-into-detectable-signals|Trained self-report turns false success claims into detectable signals]]
 - [[a-passing-sufficiency-gate-can-be-an-edit-detector|A passing sufficiency gate can be an edit detector]]
+- [[frozen-reference-sets-and-scheduled-re-checks-keep-drifting-judges-honest|Frozen reference sets and scheduled re-checks keep drifting judges honest]]
 
 ## Open questions
 
