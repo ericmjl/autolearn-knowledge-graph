@@ -818,6 +818,13 @@
   "publication": "arXiv",
   "date": "2026-01-31"
  },
+ "tinyastral-transferring-self-evolving-harnesses-to-tiny-generalist-manipulation-agents": {
+  "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+  "url": "https://arxiv.org/html/2610.41216v1",
+  "authors": "Kehong Gong",
+  "publication": "arXiv",
+  "date": "2026-10-22"
+ },
  "token-level-truth-real-time-hallucination-detection-for-production-llms": {
   "title": "Token-Level Truth: Real-Time Hallucination Detection for Production LLMs",
   "url": "https://vllm.ai/blog/2025-12-14-halugate",
