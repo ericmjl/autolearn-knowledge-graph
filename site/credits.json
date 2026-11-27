@@ -601,6 +601,13 @@
   "publication": "Wikipedia",
   "date": "2005-11-09"
  },
+ "paper-page-trace-a-unified-rollout-budget-allocation-framework-for-efficient-agentic": {
+  "title": "Paper page - TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+  "url": "https://huggingface.co/papers/2606.11119",
+  "authors": "Heming Zou",
+  "publication": "Huggingface",
+  "date": "2026-06-11"
+ },
  "patterns-for-building-cybersecurity-evals": {
   "title": "Patterns for Building Cybersecurity Evals",
   "url": "https://eugeneyan.com/writing/cybersecurity-evals",

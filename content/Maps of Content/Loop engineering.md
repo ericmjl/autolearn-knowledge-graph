@@ -33,6 +33,7 @@
 - [[notes-on-rrsi-regularized-recursive-self-improvement-of-agent-harnesses|RRSI: Regularized Recursive Self-Improvement of Agent Harnesses]]
 - [[notes-on-autorefine-auto-calibrating-code-judges-from-workflow-outcomesthanks-these-authors|AutoRefine: Auto-Calibrating Code Judges from Workflow OutcomesThanks: *These authors contributed equally to this work]]
 - [[notes-on-ai-agent-regression-testing-from-production-failures|AI Agent Regression Testing From Production Failures]]
+- [[notes-on-paper-page-trace-a-unified-rollout-budget-allocation-framework-for-efficient-agentic|Paper page - TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning]]
 
 ## Notes
 
@@ -61,6 +62,7 @@
 - [[regularized-selection-keeps-evolved-harnesses-from-memorizing-their-benchmarks|Regularized selection keeps evolved harnesses from memorizing their benchmarks]]
 - [[recalibrated-judges-hold-on-current-traffic-the-holdout-cannot-certify-hidden-failures|Recalibrated judges hold on current traffic; the holdout cannot certify hidden failures]]
 - [[production-failures-not-synthetic-prompts-build-the-living-regression-dataset|Production failures, not synthetic prompts, build the living regression dataset]]
+- [[adaptive-width-and-depth-hold-in-multi-turn-agentic-loops|Adaptive width and depth hold in multi-turn agentic loops]]
 
 ## Open questions
 

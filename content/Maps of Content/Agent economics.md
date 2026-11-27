@@ -5,6 +5,7 @@
 - [[notes-on-how-many-of-your-agent-s-calls-actually-need-a-frontier-model|How many of your agent's calls actually need a frontier model?]]
 - [[notes-on-improving-token-efficiency-in-github-agentic-workflows|Improving token efficiency in GitHub Agentic Workflows]]
 - [[notes-on-how-do-ai-agents-spend-your-money-analyzing-and-predicting-token-consumption-in-agentic|How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks]]
+- [[notes-on-paper-page-trace-a-unified-rollout-budget-allocation-framework-for-efficient-agentic|Paper page - TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning]]
 
 ## Notes
 
