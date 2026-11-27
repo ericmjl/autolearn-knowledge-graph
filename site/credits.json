@@ -608,6 +608,13 @@
   "publication": "CSO Online",
   "date": "2026-10-26"
  },
+ "optimal-context-window-for-coding-agents-langwatch": {
+  "title": "Optimal Context Window for Coding Agents | LangWatch",
+  "url": "https://langwatch.ai/research/finding-the-optimal-context-window",
+  "authors": "Rogerio Chaves",
+  "publication": "LangWatch",
+  "date": "2026-08-02"
+ },
  "oversight-wikipedia": {
   "title": "Oversight - Wikipedia",
   "url": "https://en.wikipedia.org/wiki/Oversight",

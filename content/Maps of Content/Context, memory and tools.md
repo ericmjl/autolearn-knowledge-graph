@@ -14,6 +14,7 @@
 - [[notes-on-does-rag-know-when-retrieval-is-wrong-diagnosing-context-compliance-under-knowledge|Does RAG Know When Retrieval Is Wrong? Diagnosing Context Compliance under Knowledge Conflict]]
 - [[notes-on-building-harvey-s-mcp-policy-engine|Building Harvey’s MCP Policy Engine]]
 - [[notes-on-introducing-advanced-tool-use-for-claude|Introducing advanced tool use for Claude]]
+- [[notes-on-optimal-context-window-for-coding-agents-langwatch|Optimal Context Window for Coding Agents | LangWatch]]
 
 ## Notes
 
@@ -29,6 +30,7 @@
 - [[clearing-compaction-and-memory-divide-context-management-by-failure-mode|Clearing, compaction, and memory divide context management by failure mode]]
 - [[grounding-holds-only-when-every-rag-stage-fails-closed|Grounding holds only when every RAG stage fails closed]]
 - [[tool-definitions-are-a-three-layer-problem-discovery-execution-and-invocation|Tool definitions are a three-layer problem: discovery, execution, and invocation]]
+- [[set-the-compaction-threshold-by-task-type-and-preserve-a-verbatim-tail-rather-than-a-wide|Set the compaction threshold by task type, and preserve a verbatim tail rather than a wide window]]
 
 ## Open questions
 
