@@ -43,6 +43,7 @@
 - [[notes-on-the-lifecycle-of-llm-as-a-judge-for-large-scale-recommendation-explanations|The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations]]
 - [[notes-on-ai-agent-regression-testing-from-production-failures|AI Agent Regression Testing From Production Failures]]
 - [[notes-on-evaluating-llms-in-production-from-drift-detection-to-continuous-monitoring|Evaluating LLMs in production: From drift detection to continuous monitoring]]
+- [[notes-on-chaincheck-near-perfect-evidence-sufficiency-scores-can-conceal-sensitivity-to|ChainCheck: Near-Perfect Evidence-Sufficiency Scores Can Conceal Sensitivity to Construction Artifacts Paired Conditional Contrasts that Expose an Evaluation Confound]]
 
 ## Notes
 
@@ -96,6 +97,7 @@
 - [[production-failures-not-synthetic-prompts-build-the-living-regression-dataset|Production failures, not synthetic prompts, build the living regression dataset]]
 - [[judge-drift-is-caught-by-strategic-sampling-over-component-level-traces|Judge drift is caught by strategic sampling over component-level traces]]
 - [[trained-self-report-turns-false-success-claims-into-detectable-signals|Trained self-report turns false success claims into detectable signals]]
+- [[a-passing-sufficiency-gate-can-be-an-edit-detector|A passing sufficiency gate can be an edit detector]]
 
 ## Open questions
 
