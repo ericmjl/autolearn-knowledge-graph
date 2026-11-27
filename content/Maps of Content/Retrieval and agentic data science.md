@@ -12,6 +12,7 @@
 - [[notes-on-does-rag-know-when-retrieval-is-wrong-diagnosing-context-compliance-under-knowledge|Does RAG Know When Retrieval Is Wrong? Diagnosing Context Compliance under Knowledge Conflict]]
 - [[notes-on-you-don-t-need-a-frontier-model-you-need-a-verifier-ai21|You don't need a frontier model. You need a verifier. | AI21]]
 - [[notes-on-rag-wikipedia|Rag - Wikipedia]]
+- [[notes-on-llm-wiki-is-not-a-rag-replacement-it-s-a-synthesis-time-decision|LLM Wiki Is Not a RAG Replacement - It's a Synthesis-Time Decision]]
 
 ## Notes
 
@@ -24,6 +25,7 @@
 - [[grounding-improves-when-hallucination-is-scored-per-failure-mode|Grounding improves when hallucination is scored per failure mode]]
 - [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
 - [[passage-level-sufficiency-gates-under-detect-in-multi-hop-retrieval|Passage-level sufficiency gates under-detect in multi-hop retrieval]]
+- [[past-the-synthesis-horizon-wikis-need-corpus-stratification-not-a-bigger-index|Past the Synthesis Horizon, wikis need corpus stratification, not a bigger index]]
 
 ## Open questions
 

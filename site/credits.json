@@ -552,6 +552,13 @@
   "publication": "Atlan",
   "date": "2026-04-14"
  },
+ "llm-wiki-is-not-a-rag-replacement-it-s-a-synthesis-time-decision": {
+  "title": "LLM Wiki Is Not a RAG Replacement - It's a Synthesis-Time Decision",
+  "url": "https://ranjankumar.in/llm-wiki-synthesis-time-decision-rag-agentic-memory",
+  "authors": "Ranjan Kumar",
+  "publication": "ranjankumar.in",
+  "date": "2026-04-20"
+ },
  "llm-wiki-pattern-andrej-karpathy": {
   "title": "LLM Wiki pattern (Andrej Karpathy)",
   "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
