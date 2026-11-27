@@ -23,6 +23,7 @@
 - [[notes-on-types-of-multi-agent-system-failures-7-common-failures-splunk|Types of Multi-Agent System Failures: 7 Common Failures | Splunk]]
 - [[notes-on-improving-token-efficiency-in-github-agentic-workflows|Improving token efficiency in GitHub Agentic Workflows]]
 - [[notes-on-fresh-memory-stale-plans-dependency-scoped-validation-for-distributed-llm-agent-memory|Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory]]
+- [[notes-on-model-routing-as-an-eval-problem-mercor-enterprise|Model Routing as an Eval Problem | Mercor Enterprise]]
 
 ## Notes
 
@@ -40,6 +41,7 @@
 - [[a-least-privilege-agent-gateway-enforces-policy-outside-the-execution-path|A least-privilege agent gateway enforces policy outside the execution path]]
 - [[specialized-agents-fail-through-coordination-not-capability|Specialized agents fail through coordination, not capability]]
 - [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
+- [[eval-driven-model-routing-keeps-agents-on-the-cost-accuracy-frontier|Eval-driven model routing keeps agents on the cost-accuracy frontier]]
 
 ## Open questions
 

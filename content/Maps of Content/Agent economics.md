@@ -17,6 +17,7 @@
 - [[model-routing-pays-only-when-the-price-gap-covers-the-judge-tax|Model routing pays only when the price gap covers the judge tax]]
 - [[token-efficiency-comes-from-removing-avoidable-work-not-from-smaller-context-windows|Token efficiency comes from removing avoidable work, not from smaller context windows]]
 - [[agents-underestimate-their-own-token-cost-before-execution|Agents underestimate their own token cost before execution]]
+- [[eval-driven-model-routing-keeps-agents-on-the-cost-accuracy-frontier|Eval-driven model routing keeps agents on the cost-accuracy frontier]]
 
 ## Open questions
 

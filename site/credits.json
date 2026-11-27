@@ -545,6 +545,13 @@
   "publication": "Splunk",
   "date": "2026-09-07"
  },
+ "model-routing-as-an-eval-problem-mercor-enterprise": {
+  "title": "Model Routing as an Eval Problem | Mercor Enterprise",
+  "url": "https://www.mercor.com/blog/mercor-model-routing-eval-problem/",
+  "authors": "Brandon Lei",
+  "publication": "Mercor",
+  "date": "2026-07-09"
+ },
  "models-know-when-they-re-reward-hacking-and-we-can-catch-them-at-scale-goodfire": {
   "title": "Models know when they’re reward hacking — and we can catch them at scale - Goodfire",
   "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",

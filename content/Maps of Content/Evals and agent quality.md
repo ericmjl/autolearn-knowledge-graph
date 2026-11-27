@@ -44,6 +44,7 @@
 - [[notes-on-ai-agent-regression-testing-from-production-failures|AI Agent Regression Testing From Production Failures]]
 - [[notes-on-evaluating-llms-in-production-from-drift-detection-to-continuous-monitoring|Evaluating LLMs in production: From drift detection to continuous monitoring]]
 - [[notes-on-chaincheck-near-perfect-evidence-sufficiency-scores-can-conceal-sensitivity-to|ChainCheck: Near-Perfect Evidence-Sufficiency Scores Can Conceal Sensitivity to Construction Artifacts Paired Conditional Contrasts that Expose an Evaluation Confound]]
+- [[notes-on-model-routing-as-an-eval-problem-mercor-enterprise|Model Routing as an Eval Problem | Mercor Enterprise]]
 
 ## Notes
 
