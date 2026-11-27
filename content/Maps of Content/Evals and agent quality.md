@@ -39,6 +39,7 @@
 - [[notes-on-agent-observability-splunk-ca1da2|Agent Observability | Splunk]]
 - [[notes-on-you-don-t-need-a-frontier-model-you-need-a-verifier-ai21|You don't need a frontier model. You need a verifier. | AI21]]
 - [[notes-on-characterizing-and-detecting-unfaithful-work-reports-by-coding-agents|Characterizing and Detecting Unfaithful Work Reports by Coding Agents]]
+- [[notes-on-autorefine-auto-calibrating-code-judges-from-workflow-outcomesthanks-these-authors|AutoRefine: Auto-Calibrating Code Judges from Workflow OutcomesThanks: *These authors contributed equally to this work]]
 
 ## Notes
 
@@ -87,6 +88,7 @@
 - [[grounding-alone-cannot-show-which-source-controlled-the-answer|Grounding alone cannot show which source controlled the answer]]
 - [[independent-verification-beats-shared-visibility-for-agent-quality|Independent verification beats shared visibility for agent quality]]
 - [[reporting-faithfulness-is-a-separate-measurable-score-that-benchmarks-ignore|Reporting faithfulness is a separate, measurable score that benchmarks ignore]]
+- [[recalibrated-judges-hold-on-current-traffic-the-holdout-cannot-certify-hidden-failures|Recalibrated judges hold on current traffic; the holdout cannot certify hidden failures]]
 
 ## Open questions
 
