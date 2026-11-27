@@ -713,6 +713,13 @@
   "publication": "arXiv",
   "date": "2012-11-23"
  },
+ "securing-ai-agents-lessons-from-real-world-deployment": {
+  "title": "Securing AI Agents: Lessons From Real-World Deployment",
+  "url": "https://www.uber.com/re/en/blog/securing-ai-agents/",
+  "authors": "Beyond Authorization Governing Agent Behavior",
+  "publication": "Uber",
+  "date": "2026-11-27"
+ },
  "securing-our-frontier-model-training-environment": {
   "title": "Securing our frontier model training environment",
   "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",

@@ -103,6 +103,7 @@
 - [[a-passing-sufficiency-gate-can-be-an-edit-detector|A passing sufficiency gate can be an edit detector]]
 - [[frozen-reference-sets-and-scheduled-re-checks-keep-drifting-judges-honest|Frozen reference sets and scheduled re-checks keep drifting judges honest]]
 - [[solvability-verification-gates-a-configured-eval-from-a-trusted-result|Solvability verification gates a configured eval from a trusted result]]
+- [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
 
 ## Open questions
 
