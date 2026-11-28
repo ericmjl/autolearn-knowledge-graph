@@ -38,6 +38,7 @@
 - [[notes-on-how-ai-assistance-impacts-the-formation-of-coding-skills|How AI assistance impacts the formation of coding skills]]
 - [[notes-on-auto-router-for-llms-when-automatic-model-routing-pays-off|Auto Router for LLMs: When Automatic Model Routing Pays Off]]
 - [[notes-on-a-green-exit-code-is-not-evidence-that-the-work-happened|A green exit code is not evidence that the work happened]]
+- [[notes-on-proof-or-stop-don-t-trust-the-agent-trust-the-evidence-loop-engineering-for-verifiable|Proof-or-Stop: Don’t Trust the Agent, Trust the Evidence Loop Engineering for Verifiable Evidence-Gated Lifecycle Control]]
 
 ## Notes
 

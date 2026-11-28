@@ -678,6 +678,13 @@
   "publication": "eugeneyan.com",
   "date": "2026-06-21"
  },
+ "proof-or-stop-don-t-trust-the-agent-trust-the-evidence-loop-engineering-for-verifiable": {
+  "title": "Proof-or-Stop: Don’t Trust the Agent, Trust the Evidence Loop Engineering for Verifiable Evidence-Gated Lifecycle Control",
+  "url": "https://arxiv.org/html/2607.14890v1",
+  "authors": "Jek Huang † † thanks Corresponding author jek huang ai",
+  "publication": "arXiv",
+  "date": "2026-06-23"
+ },
  "rag-wikipedia": {
   "title": "Rag - Wikipedia",
   "url": "https://en.wikipedia.org/wiki/Rag",
