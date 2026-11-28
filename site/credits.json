@@ -13,6 +13,13 @@
   "publication": "arXiv",
   "date": "2023-07-25"
  },
+ "a-green-exit-code-is-not-evidence-that-the-work-happened": {
+  "title": "A green exit code is not evidence that the work happened",
+  "url": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+  "authors": "Chase W Hughes",
+  "publication": "Stackoverflow",
+  "date": "2026-10-08"
+ },
  "a-practitioner-s-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock-aws-builder-center": {
   "title": "A Practitioner's Guide to LLM-as-a-Judge Calibration on Amazon Bedrock | AWS Builder Center",
   "url": "https://builder.aws.com/content/3H8qTeKHyPXyLX8Nf8HTElUBZJR/a-practitioners-guide-to-llm-as-a-judge-calibration-on-amazon-bedrock",

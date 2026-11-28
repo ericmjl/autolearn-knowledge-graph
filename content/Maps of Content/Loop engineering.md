@@ -37,6 +37,7 @@
 - [[notes-on-tinyastral-transferring-self-evolving-harnesses-to-tiny-generalist-manipulation-agents|TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents]]
 - [[notes-on-how-ai-assistance-impacts-the-formation-of-coding-skills|How AI assistance impacts the formation of coding skills]]
 - [[notes-on-auto-router-for-llms-when-automatic-model-routing-pays-off|Auto Router for LLMs: When Automatic Model Routing Pays Off]]
+- [[notes-on-a-green-exit-code-is-not-evidence-that-the-work-happened|A green exit code is not evidence that the work happened]]
 
 ## Notes
 
@@ -69,6 +70,7 @@
 - [[evolved-harnesses-transfer-to-compact-agents-when-the-state-they-encode-is-frozen-not|Evolved harnesses transfer to compact agents when the state they encode is frozen, not just the model]]
 - [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
 - [[ai-delegation-atrophies-skill-ai-for-comprehension-preserves-it|AI delegation atrophies skill; AI-for-comprehension preserves it]]
+- [[green-exit-codes-certify-nothing-so-verify-the-artifact|Green exit codes certify nothing, so verify the artifact]]
 
 ## Open questions
 

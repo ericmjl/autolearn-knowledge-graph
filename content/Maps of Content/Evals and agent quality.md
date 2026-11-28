@@ -107,6 +107,7 @@
 - [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
 - [[agent-observability-is-a-lifecycle-not-a-dashboard|Agent observability is a lifecycle, not a dashboard]]
 - [[high-recall-probes-justify-20-40-false-alarm-rates-as-filters-not-pause-triggers|High-recall probes justify 20-40% false-alarm rates as filters, not pause triggers]]
+- [[green-exit-codes-certify-nothing-so-verify-the-artifact|Green exit codes certify nothing, so verify the artifact]]
 
 ## Open questions
 
