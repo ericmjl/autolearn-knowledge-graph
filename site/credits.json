@@ -552,6 +552,13 @@
   "publication": "Splunk",
   "date": "2026-11-10"
  },
+ "introspection-adapters-training-llms-to-report-their-learned-behaviors": {
+  "title": "Introspection Adapters: Training LLMs to Report Their Learned Behaviors",
+  "url": "https://alignment.anthropic.com/2026/introspection-adapters/",
+  "authors": "Keshav Shenoy April , Abhay Sheshadri, Soren Mindermann Jack Lindsey, Sam Marks, Rowan Wang",
+  "publication": "alignment.anthropic.com",
+  "date": "2026-04-28"
+ },
  "karpathy-on-coding-with-claude-and-leverage-x-post": {
   "title": "Karpathy on coding with Claude and leverage (X post)",
   "url": "https://x.com/karpathy/status/2015883857489522876",

@@ -42,6 +42,7 @@
 - [[notes-on-verifier-harness-co-evolution-for-training-free-self-improvement-on-open-ended-tasks|Verifier–Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks]]
 - [[notes-on-detecting-intent-drift-in-ai-agents-with-runtime-behavioral-data-armo|Detecting Intent Drift in AI Agents With Runtime Behavioral Data - ARMO]]
 - [[notes-on-transharness-from-benchmark-overfitting-to-transferable-harness-evolution|TransHarness: From Benchmark Overfitting to Transferable Harness Evolution]]
+- [[notes-on-introspection-adapters-training-llms-to-report-their-learned-behaviors|Introspection Adapters: Training LLMs to Report Their Learned Behaviors]]
 
 ## Notes
 
@@ -79,6 +80,7 @@
 - [[a-fixed-verifier-goes-stale-as-the-harness-evolves|A fixed verifier goes stale as the harness evolves]]
 - [[runtime-action-chain-correlation-catches-intent-drift-per-event-scoring-misses|Runtime action-chain correlation catches intent drift per-event scoring misses]]
 - [[a-held-out-partition-inside-the-benchmark-hides-harness-overfitting|A held-out partition inside the benchmark hides harness overfitting]]
+- [[self-report-training-generalizes-to-learned-behaviors-but-hallucinates-and-plateaus-out|Self-report training generalizes to learned behaviors but hallucinates and plateaus out of distribution]]
 
 ## Open questions
 
