@@ -49,6 +49,7 @@
 - [[notes-on-inspect-cyber|Inspect Cyber]]
 - [[notes-on-agent-observability-patterns-for-production-ai-agents-mlflow|Agent Observability Patterns for Production AI Agents | MLflow]]
 - [[notes-on-scaling-test-time-compute-for-llm-agents|Scaling Test-time Compute for LLM Agents]]
+- [[notes-on-building-a-golden-eval-dataset-from-production-traffic|Building a Golden Eval Dataset from Production Traffic]]
 
 ## Notes
 
@@ -110,6 +111,7 @@
 - [[high-recall-probes-justify-20-40-false-alarm-rates-as-filters-not-pause-triggers|High-recall probes justify 20-40% false-alarm rates as filters, not pause triggers]]
 - [[green-exit-codes-certify-nothing-so-verify-the-artifact|Green exit codes certify nothing, so verify the artifact]]
 - [[fresh-state-bound-receipts-gate-release-not-green-tests|Fresh state-bound receipts gate release, not green tests]]
+- [[golden-sets-built-from-production-traffic-beat-benchmarks-built-from-imagined-edge-cases|Golden sets built from production traffic beat benchmarks built from imagined edge cases]]
 
 ## Open questions
 
