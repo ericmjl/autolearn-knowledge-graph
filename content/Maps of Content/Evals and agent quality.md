@@ -112,6 +112,7 @@
 - [[green-exit-codes-certify-nothing-so-verify-the-artifact|Green exit codes certify nothing, so verify the artifact]]
 - [[fresh-state-bound-receipts-gate-release-not-green-tests|Fresh state-bound receipts gate release, not green tests]]
 - [[golden-sets-built-from-production-traffic-beat-benchmarks-built-from-imagined-edge-cases|Golden sets built from production traffic beat benchmarks built from imagined edge cases]]
+- [[a-fixed-verifier-goes-stale-as-the-harness-evolves|A fixed verifier goes stale as the harness evolves]]
 
 ## Open questions
 

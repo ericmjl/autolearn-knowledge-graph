@@ -39,6 +39,7 @@
 - [[notes-on-auto-router-for-llms-when-automatic-model-routing-pays-off|Auto Router for LLMs: When Automatic Model Routing Pays Off]]
 - [[notes-on-a-green-exit-code-is-not-evidence-that-the-work-happened|A green exit code is not evidence that the work happened]]
 - [[notes-on-proof-or-stop-don-t-trust-the-agent-trust-the-evidence-loop-engineering-for-verifiable|Proof-or-Stop: Don’t Trust the Agent, Trust the Evidence Loop Engineering for Verifiable Evidence-Gated Lifecycle Control]]
+- [[notes-on-verifier-harness-co-evolution-for-training-free-self-improvement-on-open-ended-tasks|Verifier–Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks]]
 
 ## Notes
 
@@ -73,6 +74,7 @@
 - [[ai-delegation-atrophies-skill-ai-for-comprehension-preserves-it|AI delegation atrophies skill; AI-for-comprehension preserves it]]
 - [[green-exit-codes-certify-nothing-so-verify-the-artifact|Green exit codes certify nothing, so verify the artifact]]
 - [[rollout-model-diversity-beats-deeper-search-in-one-tree|Rollout-model diversity beats deeper search in one tree]]
+- [[a-fixed-verifier-goes-stale-as-the-harness-evolves|A fixed verifier goes stale as the harness evolves]]
 
 ## Open questions
 

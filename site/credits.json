@@ -937,6 +937,13 @@
   "publication": "Splunk",
   "date": "2026-08-13"
  },
+ "verifier-harness-co-evolution-for-training-free-self-improvement-on-open-ended-tasks": {
+  "title": "Verifier–Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks",
+  "url": "https://arxiv.org/html/2610.17609v1",
+  "authors": "Anonymous",
+  "publication": "arXiv",
+  "date": "2025-01-31"
+ },
  "what-we-learned-evaluating-an-llm-classifier-and-a-code-parser-against-their-previous": {
   "title": "What we learned evaluating an LLM classifier and a code parser against their previous results | Endor Labs",
   "url": "https://www.endorlabs.com/learn/why-evals-are-the-missing-layer-in-integration-testing",
