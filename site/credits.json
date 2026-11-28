@@ -559,6 +559,13 @@
   "publication": "alignment.anthropic.com",
   "date": "2026-04-28"
  },
+ "investigating-unintended-model-actions-in-our-evaluations-and-internal-use": {
+  "title": "Investigating unintended model actions in our evaluations and internal use",
+  "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+  "authors": "",
+  "publication": "Anthropic",
+  "date": "2026-10-09"
+ },
  "karpathy-on-coding-with-claude-and-leverage-x-post": {
   "title": "Karpathy on coding with Claude and leverage (X post)",
   "url": "https://x.com/karpathy/status/2015883857489522876",

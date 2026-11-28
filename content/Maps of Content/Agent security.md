@@ -32,6 +32,7 @@
 - [[notes-on-detecting-high-stakes-interactions-with-activation-probes|Detecting High-Stakes Interactions with Activation Probes]]
 - [[notes-on-training-agents-to-self-report-misbehavior-78bfbc|Training Agents to Self-Report Misbehavior]]
 - [[notes-on-updating-the-taxonomy-of-failure-modes-in-agentic-ai-systems-what-a-year-of-red-teaming|Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us | Microsoft Security Blog]]
+- [[notes-on-investigating-unintended-model-actions-in-our-evaluations-and-internal-use|Investigating unintended model actions in our evaluations and internal use]]
 
 ## Notes
 
