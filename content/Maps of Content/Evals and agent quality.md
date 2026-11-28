@@ -48,6 +48,7 @@
 - [[notes-on-who-watches-the-judge-calibrating-llm-as-a-judge|Who Watches the Judge? Calibrating LLM-as-a-Judge]]
 - [[notes-on-inspect-cyber|Inspect Cyber]]
 - [[notes-on-agent-observability-patterns-for-production-ai-agents-mlflow|Agent Observability Patterns for Production AI Agents | MLflow]]
+- [[notes-on-scaling-test-time-compute-for-llm-agents|Scaling Test-time Compute for LLM Agents]]
 
 ## Notes
 

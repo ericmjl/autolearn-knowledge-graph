@@ -762,6 +762,13 @@
   "publication": "arXiv",
   "date": "2012-11-23"
  },
+ "scaling-test-time-compute-for-llm-agents": {
+  "title": "Scaling Test-time Compute for LLM Agents",
+  "url": "https://arxiv.org/html/2506.12928v1",
+  "authors": "Wangchunshu Zhou",
+  "publication": "arXiv",
+  "date": "2026-08-24"
+ },
  "securing-ai-agents-lessons-from-real-world-deployment": {
   "title": "Securing AI Agents: Lessons From Real-World Deployment",
   "url": "https://www.uber.com/re/en/blog/securing-ai-agents/",

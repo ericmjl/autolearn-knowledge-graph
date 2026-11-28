@@ -44,6 +44,7 @@
 - [[specialized-agents-fail-through-coordination-not-capability|Specialized agents fail through coordination, not capability]]
 - [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
 - [[eval-driven-model-routing-keeps-agents-on-the-cost-accuracy-frontier|Eval-driven model routing keeps agents on the cost-accuracy frontier]]
+- [[rollout-model-diversity-beats-deeper-search-in-one-tree|Rollout-model diversity beats deeper search in one tree]]
 
 ## Open questions
 

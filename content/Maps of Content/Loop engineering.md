@@ -72,6 +72,7 @@
 - [[per-agent-calibration-not-static-thresholds-tunes-guardrails-in-production|Per-agent calibration, not static thresholds, tunes guardrails in production]]
 - [[ai-delegation-atrophies-skill-ai-for-comprehension-preserves-it|AI delegation atrophies skill; AI-for-comprehension preserves it]]
 - [[green-exit-codes-certify-nothing-so-verify-the-artifact|Green exit codes certify nothing, so verify the artifact]]
+- [[rollout-model-diversity-beats-deeper-search-in-one-tree|Rollout-model diversity beats deeper search in one tree]]
 
 ## Open questions
 
