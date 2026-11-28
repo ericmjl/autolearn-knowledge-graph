@@ -937,6 +937,13 @@
   "publication": "arXiv",
   "date": "2025-03-19"
  },
+ "transharness-from-benchmark-overfitting-to-transferable-harness-evolution": {
+  "title": "TransHarness: From Benchmark Overfitting to Transferable Harness Evolution",
+  "url": "https://arxiv.org/html/2611.33757v1",
+  "authors": "Tianze Xia Affiliation Huazhong University, Technology, Wuhan, China",
+  "publication": "arXiv",
+  "date": "2026-10-22"
+ },
  "tree-of-thoughts-deliberate-problem-solving-with-large-language-models": {
   "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
   "url": "https://arxiv.org/abs/2305.10601",

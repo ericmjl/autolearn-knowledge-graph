@@ -41,6 +41,7 @@
 - [[notes-on-proof-or-stop-don-t-trust-the-agent-trust-the-evidence-loop-engineering-for-verifiable|Proof-or-Stop: Don’t Trust the Agent, Trust the Evidence Loop Engineering for Verifiable Evidence-Gated Lifecycle Control]]
 - [[notes-on-verifier-harness-co-evolution-for-training-free-self-improvement-on-open-ended-tasks|Verifier–Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks]]
 - [[notes-on-detecting-intent-drift-in-ai-agents-with-runtime-behavioral-data-armo|Detecting Intent Drift in AI Agents With Runtime Behavioral Data - ARMO]]
+- [[notes-on-transharness-from-benchmark-overfitting-to-transferable-harness-evolution|TransHarness: From Benchmark Overfitting to Transferable Harness Evolution]]
 
 ## Notes
 
@@ -77,6 +78,7 @@
 - [[rollout-model-diversity-beats-deeper-search-in-one-tree|Rollout-model diversity beats deeper search in one tree]]
 - [[a-fixed-verifier-goes-stale-as-the-harness-evolves|A fixed verifier goes stale as the harness evolves]]
 - [[runtime-action-chain-correlation-catches-intent-drift-per-event-scoring-misses|Runtime action-chain correlation catches intent drift per-event scoring misses]]
+- [[a-held-out-partition-inside-the-benchmark-hides-harness-overfitting|A held-out partition inside the benchmark hides harness overfitting]]
 
 ## Open questions
 
