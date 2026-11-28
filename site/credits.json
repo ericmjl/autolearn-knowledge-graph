@@ -349,6 +349,13 @@
   "publication": "arXiv",
   "date": "2025-03-24"
  },
+ "detecting-intent-drift-in-ai-agents-with-runtime-behavioral-data-armo": {
+  "title": "Detecting Intent Drift in AI Agents With Runtime Behavioral Data - ARMO",
+  "url": "https://www.armosec.io/blog/detecting-intent-drift-in-ai-agents-with-runtime-behavioral-data/",
+  "authors": "Yossi Ben Naim",
+  "publication": "ARMO",
+  "date": "2026-04-01"
+ },
  "disrupting-a-coordinated-model-distillation-campaign": {
   "title": "Disrupting a coordinated model-distillation campaign",
   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
