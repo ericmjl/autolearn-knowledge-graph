@@ -15,6 +15,7 @@
 - [[notes-on-building-harvey-s-mcp-policy-engine|Building Harvey’s MCP Policy Engine]]
 - [[notes-on-introducing-advanced-tool-use-for-claude|Introducing advanced tool use for Claude]]
 - [[notes-on-optimal-context-window-for-coding-agents-langwatch|Optimal Context Window for Coding Agents | LangWatch]]
+- [[notes-on-llm-wiki-v2-what-breaks-at-scale|LLM Wiki v2: What Breaks at Scale]]
 
 ## Notes
 

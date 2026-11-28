@@ -81,6 +81,7 @@
 - [[runtime-action-chain-correlation-catches-intent-drift-per-event-scoring-misses|Runtime action-chain correlation catches intent drift per-event scoring misses]]
 - [[a-held-out-partition-inside-the-benchmark-hides-harness-overfitting|A held-out partition inside the benchmark hides harness overfitting]]
 - [[self-report-training-generalizes-to-learned-behaviors-but-hallucinates-and-plateaus-out|Self-report training generalizes to learned behaviors but hallucinates and plateaus out of distribution]]
+- [[a-compiled-wiki-needs-a-lifecycle-or-it-fills-with-plausible-noise|A compiled wiki needs a lifecycle or it fills with plausible noise]]
 
 ## Open questions
 

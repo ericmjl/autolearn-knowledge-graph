@@ -13,6 +13,7 @@
 - [[notes-on-you-don-t-need-a-frontier-model-you-need-a-verifier-ai21|You don't need a frontier model. You need a verifier. | AI21]]
 - [[notes-on-rag-wikipedia|Rag - Wikipedia]]
 - [[notes-on-llm-wiki-is-not-a-rag-replacement-it-s-a-synthesis-time-decision|LLM Wiki Is Not a RAG Replacement - It's a Synthesis-Time Decision]]
+- [[notes-on-llm-wiki-v2-what-breaks-at-scale|LLM Wiki v2: What Breaks at Scale]]
 
 ## Notes
 
@@ -26,6 +27,7 @@
 - [[sufficiency-gates-not-relevance-scores-keep-grounded-agents-from-hallucinating|Sufficiency gates, not relevance scores, keep grounded agents from hallucinating]]
 - [[passage-level-sufficiency-gates-under-detect-in-multi-hop-retrieval|Passage-level sufficiency gates under-detect in multi-hop retrieval]]
 - [[past-the-synthesis-horizon-wikis-need-corpus-stratification-not-a-bigger-index|Past the Synthesis Horizon, wikis need corpus stratification, not a bigger index]]
+- [[a-compiled-wiki-needs-a-lifecycle-or-it-fills-with-plausible-noise|A compiled wiki needs a lifecycle or it fills with plausible noise]]
 
 ## Open questions
 

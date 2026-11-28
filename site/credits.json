@@ -615,6 +615,13 @@
   "publication": "Gist",
   "date": "2026-10-05"
  },
+ "llm-wiki-v2-what-breaks-at-scale": {
+  "title": "LLM Wiki v2: What Breaks at Scale",
+  "url": "https://rohitghumare.com/blog/llm-wiki-v2/",
+  "authors": "Rohit Ghumare",
+  "publication": "Rohit Ghumare",
+  "date": "2026-08-03"
+ },
  "mastering-rag-8-failure-modes-to-evaluate-before-going-to-production-splunk": {
   "title": "Mastering RAG: 8 Failure Modes to Evaluate Before Going to Production | Splunk",
   "url": "https://www.splunk.com/en_us/blog/artificial-intelligence/rag-failure-modes.html",
