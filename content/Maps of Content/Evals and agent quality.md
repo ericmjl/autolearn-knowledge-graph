@@ -50,6 +50,7 @@
 - [[notes-on-agent-observability-patterns-for-production-ai-agents-mlflow|Agent Observability Patterns for Production AI Agents | MLflow]]
 - [[notes-on-scaling-test-time-compute-for-llm-agents|Scaling Test-time Compute for LLM Agents]]
 - [[notes-on-building-a-golden-eval-dataset-from-production-traffic|Building a Golden Eval Dataset from Production Traffic]]
+- [[notes-on-agent-observability-the-complete-guide-for-2026-articles-braintrust|Agent observability: The complete guide for 2026 - Articles - Braintrust]]
 
 ## Notes
 
@@ -113,6 +114,7 @@
 - [[fresh-state-bound-receipts-gate-release-not-green-tests|Fresh state-bound receipts gate release, not green tests]]
 - [[golden-sets-built-from-production-traffic-beat-benchmarks-built-from-imagined-edge-cases|Golden sets built from production traffic beat benchmarks built from imagined edge cases]]
 - [[a-fixed-verifier-goes-stale-as-the-harness-evolves|A fixed verifier goes stale as the harness evolves]]
+- [[eval-suites-stay-honest-when-production-failures-feed-back-into-them|Eval suites stay honest when production failures feed back into them]]
 
 ## Open questions
 

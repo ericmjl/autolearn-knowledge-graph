@@ -69,6 +69,13 @@
   "publication": "Splunk",
   "date": "2026-01-01"
  },
+ "agent-observability-the-complete-guide-for-2026-articles-braintrust": {
+  "title": "Agent observability: The complete guide for 2026 - Articles - Braintrust",
+  "url": "https://www.braintrust.dev/articles/agent-observability-complete-guide-2026",
+  "authors": "Braintrust Team",
+  "publication": "Braintrust",
+  "date": "2026-06-21"
+ },
  "agent-sandbox-egress-control-outbound-allow-listing-blaxel": {
   "title": "Agent Sandbox Egress Control & Outbound Allow-Listing | Blaxel",
   "url": "https://blaxel.ai/blog/sandbox-egress-control-outbound-allow-listing",
