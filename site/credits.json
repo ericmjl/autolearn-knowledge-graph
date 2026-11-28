@@ -937,6 +937,13 @@
   "publication": "Splunk",
   "date": "2026-08-13"
  },
+ "updating-the-taxonomy-of-failure-modes-in-agentic-ai-systems-what-a-year-of-red-teaming": {
+  "title": "Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us | Microsoft Security Blog",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
+  "authors": "Microsoft AI Red Team",
+  "publication": "Microsoft Security Blog",
+  "date": "2026-06-04"
+ },
  "verifier-harness-co-evolution-for-training-free-self-improvement-on-open-ended-tasks": {
   "title": "Verifier–Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks",
   "url": "https://arxiv.org/html/2610.17609v1",

@@ -31,6 +31,7 @@
 - [[notes-on-securing-ai-agents-lessons-from-real-world-deployment|Securing AI Agents: Lessons From Real-World Deployment]]
 - [[notes-on-detecting-high-stakes-interactions-with-activation-probes|Detecting High-Stakes Interactions with Activation Probes]]
 - [[notes-on-training-agents-to-self-report-misbehavior-78bfbc|Training Agents to Self-Report Misbehavior]]
+- [[notes-on-updating-the-taxonomy-of-failure-modes-in-agentic-ai-systems-what-a-year-of-red-teaming|Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us | Microsoft Security Blog]]
 
 ## Notes
 
@@ -64,6 +65,7 @@
 - [[runtime-policy-enforcement-moves-prompt-injection-defenses-out-of-the-prompt|Runtime policy enforcement moves prompt-injection defenses out of the prompt]]
 - [[live-internet-evals-need-perimeters-and-an-offline-world-not-just-a-sandbox|Live-internet evals need perimeters and an offline world, not just a sandbox]]
 - [[self-incrimination-exposes-covert-misbehavior-across-long-tool-using-trajectories|Self-incrimination exposes covert misbehavior across long tool-using trajectories]]
+- [[a-failure-mode-taxonomy-is-a-living-threat-modeling-tool-not-a-static-checklist|A failure-mode taxonomy is a living threat-modeling tool, not a static checklist]]
 
 ## Open questions
 
