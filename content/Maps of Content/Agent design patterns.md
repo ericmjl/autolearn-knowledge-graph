@@ -26,6 +26,7 @@
 - [[notes-on-model-routing-as-an-eval-problem-mercor-enterprise|Model Routing as an Eval Problem | Mercor Enterprise]]
 - [[notes-on-agent-observability-patterns-for-production-ai-agents-mlflow|Agent Observability Patterns for Production AI Agents | MLflow]]
 - [[notes-on-auto-router-for-llms-when-automatic-model-routing-pays-off|Auto Router for LLMs: When Automatic Model Routing Pays Off]]
+- [[notes-on-towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work|Towards a science of scaling agent systems: When and why agent systems work]]
 
 ## Notes
 
@@ -45,6 +46,7 @@
 - [[adaptive-width-beats-fixed-depth-once-the-test-time-budget-grows|Adaptive width beats fixed depth once the test-time budget grows]]
 - [[eval-driven-model-routing-keeps-agents-on-the-cost-accuracy-frontier|Eval-driven model routing keeps agents on the cost-accuracy frontier]]
 - [[rollout-model-diversity-beats-deeper-search-in-one-tree|Rollout-model diversity beats deeper search in one tree]]
+- [[task-properties-not-agent-count-decide-when-multi-agent-complexity-pays|Task properties, not agent count, decide when multi-agent complexity pays]]
 
 ## Open questions
 

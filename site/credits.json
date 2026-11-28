@@ -916,6 +916,13 @@
   "publication": "Vllm Project",
   "date": "2025-12-14"
  },
+ "towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
+  "title": "Towards a science of scaling agent systems: When and why agent systems work",
+  "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+  "authors": "Yubin Kim, Xin Liu",
+  "publication": "research.google",
+  "date": "2026-01-28"
+ },
  "training-agents-to-self-report-misbehavior": {
   "title": "Training agents to self-report misbehavior",
   "url": "https://alignment.openai.com/self-incrimination/",
